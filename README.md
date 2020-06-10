@@ -37,8 +37,8 @@ Thanks to Alisa Robinson,  Tommy Leung and Nathan Perkins, Jeremy Pressman, and 
 
 
 ## Data Sources:
-Robinson, Alisa. “Black Lives Matter protests and other demonstrations.” Elephrame, https://elephrame.com/textbook/BLM/chart.
+Leung, Tommy and Nathan Perkins. "Count Love Protest Data." *Count Love*. https://countlove.org
 
-Leung, Tommy and Nathan Perkins. "Count Love Protest Data." Count Love. https://countlove.org
+Pressman, Jeremy and Erica Chenoweth. "Crowd Counting Consortium Collection." *Crowd Counting Consortium*. https://sites.google.com/view/crowdcountingconsortium/view-download-the-data
 
-Pressman, Jeremy and Erica Chenoweth. "Crowd Counting Consortium Collection" Crowd Counting Consortium. https://sites.google.com/view/crowdcountingconsortium/view-download-the-data
+Robinson, Alisa. “Black Lives Matter protests and other demonstrations.” *Elephrame*, https://elephrame.com/textbook/BLM/chart.
