@@ -1,13 +1,13 @@
 # Black Lives Matter events
-## Protests following the deaths of George Floyd, Ahmaud Arbery and Breonna Taylor. 
+## Protests following the deaths of George Floyd, Ahmaud Arbery and Breonna Taylor.
 
 
 This dataset is a hybrid of three excellent sources on BLM protest events:   
 * [Elephrame](https://elephrame.com/textbook/BLM/chart)   
 * [Crowd Counting Consortium](https://sites.google.com/view/crowdcountingconsortium/view-download-the-data?authuser=0)  
-*  [Count Love](https://countlove.org)
+* [Count Love](https://countlove.org)
 
-Each has been doing the hard work of collecting Black Lives Matter protests based on newspaper and social media accounts. Given the scope of the mobilization and the complicated nature of event data collection, it is not surprising that, while there is a great deal of overlap between the datasets, each has hundreds of unique events. 
+Each has been doing the hard work of collecting Black Lives Matter protests based on newspaper and social media accounts. Given the scope of the mobilization and the complicated nature of event data collection, it is not surprising that, while there is a great deal of overlap between the datasets, each has hundreds of unique events.
 
 This combined dataset is constructed using the following process:   
 * Download each of the datasets.     
@@ -23,11 +23,14 @@ This combined dataset is constructed using the following process:
    * CCC - Flag for data from Crowd Counting Consortium   
    * Elephrame - Flag for data from Elephrame   
    * Count Love    - Flag for data from Count Love    
-   * urls = list of source urls provided with the original event reports   
+   * urls - list of source urls provided with the original event reports   
+
+Note: This data should not be viewed as final, as cleaning continues. Additionally, the underlying data is still being updated, particularly for very recent events. Use with caution and consult the reference urls.
 
 Thanks to Alisa Robinson,  Tommy Leung and Nathan Perkins, Jeremy Pressman, and Jeremy Pressman and Erica Chenoweth for their data collection efforts.
 
 ## To Do:
-* Update
+* Update daily (current as of 6/11)
 * Inpute missing attendance
 * Better event matching
+* Add wikipedia events
