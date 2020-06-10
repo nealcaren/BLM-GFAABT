@@ -27,10 +27,18 @@ This combined dataset is constructed using the following process:
 
 Note: This data should not be viewed as final, as cleaning continues. Additionally, the underlying data is still being updated, particularly for very recent events. Use with caution and consult the reference urls.
 
-Thanks to Alisa Robinson,  Tommy Leung and Nathan Perkins, Jeremy Pressman, and Jeremy Pressman and Erica Chenoweth for their data collection efforts.
+Thanks to Alisa Robinson,  Tommy Leung and Nathan Perkins, Jeremy Pressman, and Erica Chenoweth for their data collection efforts.
 
 ## To Do:
 * Update daily (current as of 6/11)
 * Inpute missing attendance
 * Better event matching
 * Add wikipedia events
+
+
+## Data Sources:
+Robinson, Alisa. “Black Lives Matter protests and other demonstrations.” Elephrame, https://elephrame.com/textbook/BLM/chart.
+
+Leung, Tommy and Nathan Perkins. "Count Love Protest Data." Count Love. https://countlove.org
+
+Pressman, Jeremy and Erica Chenoweth. "Crowd Counting Consortium Collection" Crowd Counting Consortium. https://sites.google.com/view/crowdcountingconsortium/view-download-the-data
