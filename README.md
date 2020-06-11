@@ -29,6 +29,28 @@ Note: This data should not be viewed as final, as cleaning continues. Additional
 
 Thanks to Alisa Robinson,  Tommy Leung and Nathan Perkins, Jeremy Pressman, and Erica Chenoweth for their data collection efforts.
 
+_Last update: 6/11/2020 @ 6:30am_
+
+| date       |   events |
+|:-----------|---------:|
+| 2020-05-26 |       10 |
+| 2020-05-27 |       16 |
+| 2020-05-28 |       54 |
+| 2020-05-29 |      155 |
+| 2020-05-30 |      381 |
+| 2020-05-31 |      407 |
+| 2020-06-01 |      257 |
+| 2020-06-02 |      254 |
+| 2020-06-03 |      215 |
+| 2020-06-04 |      139 |
+| 2020-06-05 |      182 |
+| 2020-06-06 |      210 |
+| 2020-06-07 |      171 |
+| 2020-06-08 |       64 |
+| 2020-06-09 |       38 |
+| 2020-06-10 |        7 |
+
+
 ## To Do:
 * Update daily (current as of 6/11)
 * Inpute missing attendance
