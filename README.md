@@ -28,7 +28,7 @@ This combined dataset is constructed using the following process:
 
 Note: This data should not be viewed as final, as cleaning continues. Additionally, the underlying data is still being updated, particularly for very recent events. Use with caution and consult the reference urls.
 
-Thanks to Alisa Robinson,  Tommy Leung and Nathan Perkins, Jeremy Pressman, Erica Chenoweth and the Wikiepdia contributors for their data collection efforts.
+Thanks to Alisa Robinson,  Tommy Leung and Nathan Perkins, Jeremy Pressman, Erica Chenoweth and the CCC & Wikiepdia contributors for their data collection efforts.
 
 _Last update: 6/12/2020 @ 10:30am_
 
@@ -36,24 +36,23 @@ _Last update: 6/12/2020 @ 10:30am_
 
 | date       |   cities |   Elephrame |   CCC |   Count Love |   Wikipedia |
 |:-----------|---------:|------------:|------:|-------------:|------------:|
-| 2020-05-26 |        9 |           3 |     4 |            7 |           0 |
+| 2020-05-26 |       10 |           3 |     4 |            7 |           1 |
 | 2020-05-27 |       14 |           6 |     9 |           11 |           0 |
-| 2020-05-28 |       50 |          10 |    35 |           41 |          13 |
-| 2020-05-29 |      158 |          33 |    99 |          121 |          44 |
-| 2020-05-30 |      388 |          69 |   173 |          308 |         173 |
-| 2020-05-31 |      462 |          86 |   171 |          312 |         167 |
-| 2020-06-01 |      310 |          36 |   133 |          147 |         103 |
-| 2020-06-02 |      276 |          35 |   148 |           96 |          65 |
-| 2020-06-03 |      245 |          64 |   109 |           72 |          58 |
-| 2020-06-04 |      184 |          31 |    43 |           87 |          50 |
-| 2020-06-05 |      207 |          79 |    63 |           78 |          33 |
-| 2020-06-06 |      252 |          35 |   108 |          119 |          50 |
-| 2020-06-07 |      166 |          52 |    63 |           66 |          16 |
+| 2020-05-28 |       49 |          10 |    35 |           41 |          12 |
+| 2020-05-29 |      157 |          33 |   100 |          121 |          41 |
+| 2020-05-30 |      377 |          69 |   176 |          308 |         160 |
+| 2020-05-31 |      461 |          86 |   176 |          312 |         166 |
+| 2020-06-01 |      307 |          36 |   133 |          147 |          99 |
+| 2020-06-02 |      275 |          35 |   149 |           96 |          63 |
+| 2020-06-03 |      240 |          64 |   110 |           72 |          53 |
+| 2020-06-04 |      181 |          31 |    44 |           87 |          46 |
+| 2020-06-05 |      207 |          79 |    65 |           79 |          31 |
+| 2020-06-06 |      252 |          35 |   114 |          119 |          45 |
+| 2020-06-07 |      169 |          52 |    69 |           66 |          14 |
 | 2020-06-08 |       62 |          12 |     9 |           42 |           5 |
 | 2020-06-09 |       44 |          15 |     4 |           25 |           6 |
 | 2020-06-10 |       26 |          16 |     4 |            7 |           1 |
-| 2020-06-11 |        9 |           9 |     0 |            0 |           0 |
-| 2020-06-12 |        1 |           0 |     0 |            0 |           1 |
+| 2020-06-11 |       11 |           9 |     0 |            0 |           2 |
 
 
 ## To Do:
