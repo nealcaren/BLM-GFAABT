@@ -28,30 +28,34 @@ This combined dataset is constructed using the following process:
 
 Note: This data should not be viewed as final, as cleaning continues. Additionally, the underlying data is still being updated, particularly for very recent events. Use with caution and consult the reference urls.
 
-Thanks to Alisa Robinson,  Tommy Leung and Nathan Perkins, Jeremy Pressman, and Erica Chenoweth for their data collection efforts.
+Thanks to Alisa Robinson,  Tommy Leung and Nathan Perkins, Jeremy Pressman, Erica Chenoweth and the Wikiepdia contributors for their data collection efforts.
 
-_Last update: 6/11/2020 @ 11:30am_
+_Last update: 6/12/2020 @ 6:30am_
+
+
 
 | date       |   cities |   Elephrame |   CCC |   Count Love |   Wikipedia |
 |:-----------|---------:|------------:|------:|-------------:|------------:|
 | 2020-05-26 |        9 |           3 |     4 |            7 |           0 |
 | 2020-05-27 |       14 |           6 |     9 |           11 |           0 |
-| 2020-05-28 |       49 |          10 |    34 |           40 |          13 |
-| 2020-05-29 |      158 |          33 |    99 |          121 |          45 |
-| 2020-05-30 |      385 |          69 |   171 |          304 |         174 |
-| 2020-05-31 |      453 |          86 |   171 |          306 |         164 |
-| 2020-06-01 |      307 |          36 |   134 |          141 |         103 |
-| 2020-06-02 |      275 |          35 |   147 |           93 |          64 |
-| 2020-06-03 |      240 |          64 |   106 |           69 |          59 |
-| 2020-06-04 |      175 |          30 |    39 |           80 |          49 |
-| 2020-06-05 |      188 |          77 |    56 |           64 |          32 |
-| 2020-06-06 |      230 |          32 |    91 |          105 |          48 |
-| 2020-06-07 |      158 |          50 |    60 |           58 |          17 |
-| 2020-06-08 |       56 |          12 |     9 |           35 |           4 |
-| 2020-06-09 |       37 |          14 |     4 |           21 |           4 |
-| 2020-06-10 |       12 |           6 |     4 |            3 |           0 |
+| 2020-05-28 |       50 |          10 |    35 |           41 |          13 |
+| 2020-05-29 |      158 |          33 |    99 |          121 |          44 |
+| 2020-05-30 |      388 |          69 |   173 |          308 |         173 |
+| 2020-05-31 |      462 |          86 |   171 |          312 |         167 |
+| 2020-06-01 |      311 |          36 |   134 |          147 |         103 |
+| 2020-06-02 |      276 |          35 |   147 |           96 |          65 |
+| 2020-06-03 |      244 |          64 |   108 |           71 |          58 |
+| 2020-06-04 |      182 |          30 |    41 |           87 |          50 |
+| 2020-06-05 |      203 |          77 |    60 |           78 |          33 |
+| 2020-06-06 |      244 |          32 |    99 |          118 |          50 |
+| 2020-06-07 |      165 |          50 |    62 |           66 |          16 |
+| 2020-06-08 |       62 |          12 |     9 |           42 |           5 |
+| 2020-06-09 |       43 |          14 |     4 |           25 |           6 |
+| 2020-06-10 |       16 |           6 |     4 |            7 |           1 |
+| 2020-06-12 |        1 |           0 |     0 |            0 |           1 |
+
 ## To Do:
-* Update daily (current as of 6/11)
+* Update daily
 * Impute missing attendance
 * Add second date for some Wikipedia entries.
 * Add city pages to Wikipedia.
