@@ -253,9 +253,10 @@ id,date,city_st,location,size,size_str,urls,collection
 ,2020-05-30,"Grand Rapids, MI",", Grand Rapids, MI",,,['https://twitter.com/DonovanLongTV/status/1266848284448088064'],CCC
 ,2020-05-30,"Greensboro, NC","Downtown, Greensboro, NC",267.5,hundreds,['https://www.greensboro.com/news/local_new/watch-now-part-of-littleete-40-85-is-closed-in-both-directions-due-to-protesters/article_02fd929e-0b8b-5422-adeb-67bd01287a4e.html'],CCC
 ,2020-05-30,"Greenville, SC",", Greenville, SC",,,['https://twitter.com/byAmberWorthy/status/1267225338024800259'],CCC
+,2020-05-30,"Hammond, IN","intersection of 171st St; Calumet Ave; Police Department, Hammond, IN",,,[],CCC
 ,2020-05-30,"Hanover, NH","Dartmouth Green, Hanover, NH",302.0,FB: 302,['https://www.facebook.com/events/s/end-the-killing-now-distanced-/863800450762647/'],CCC
 ,2020-05-30,"Harrisburg, PA","outside state capitol, Harrisburg, PA",200.0,hundreds,"['https://twitter.com/StephenJ_Caruso/status/1266764636864610304', 'https://twitter.com/alexpABC27/status/1266912076733263872', 'https://www.penncapital-star.com/criminal-justice/report-harrisburg-protest-over-george-floyd-turns-violent-police-use-pepper-spray-on-protesters/']",CCC
-,2020-05-30,"Hartford, CT","Bushnell Park, Hartford, CT",2000.0,more than 2000,"['https://twitter.com/MalikWest_/status/1266821734797361152', 'https://www.courant.com/news/connecticut/hc-news-hartford-protest-police-brutality-20200530-o3ge6bxtbvc6rcjcnrwkkolhgi-story.html', 'https://twitter.com/hartfordcourant/status/1266798864352317441?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet']",CCC
+,2020-05-30,"Hartford, CT","Bushnell Park; City Hall, Hartford, CT",2000.0,more than 2000,"['https://twitter.com/MalikWest_/status/1266821734797361152', 'https://www.courant.com/news/connecticut/hc-news-hartford-protest-police-brutality-20200530-o3ge6bxtbvc6rcjcnrwkkolhgi-story.html', 'https://twitter.com/hartfordcourant/status/1266798864352317441?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet']",CCC
 ,2020-05-30,"Hilo, HI",", Hilo, HI",,,['https://twitter.com/TJHorganTV/status/1266847625979940864'],CCC
 ,2020-05-30,"Hoover, AL","Hoover City Hall, Hoover, AL",,,['https://apnews.com/d4771f87a8af888630bdb9f9f43d2d3b'],CCC
 ,2020-05-30,"Huntington, WV","Ritter Park to Pullman Square, Huntington, WV",200.0,hundreds,"['https://twitter.com/wvville/status/1266799886349066240', 'https://twitter.com/wvville/status/1266802290654150662']",CCC
@@ -458,6 +459,7 @@ id,date,city_st,location,size,size_str,urls,collection
 ,2020-05-31,"Hollidaysburg, PA","amphitheater at Canal Basin Park, Hollidaysburg, PA",200.0,hundreds,['https://www.wearecentralpa.com/news/local-news/residents-gather-at-canal-basin-park-in-hollidaysburg-to-protest-death-of-george-floyd/'],CCC
 ,2020-05-31,"Hudson, NY",", Hudson, NY",200.0,hundreds,['https://www.hudsonvalley360.com/news/greenecounty/hundreds-rally-in-a-call-for-justice/article_fc8aedcd-f80b-541f-bedc-010df69a0010.html'],CCC
 ,2020-05-31,"Huntington Beach, CA","pier, Huntington Beach, CA",,,['https://twitter.com/JeongPark52/status/1267164219348115456'],CCC
+,2020-05-31,"Hutchinson, KS","Reno County Courthouse, Hutchinson, KS",750.0,more than 750,['https://www.hutchnews.com/news/20200531/hutch-gathers-in-sunday-protest'],CCC
 ,2020-05-31,"Idaho Falls, ID",", Idaho Falls, ID",,,['https://www.postregister.com/news/local/protesters-march-to-courthouse-in-idaho-falls-demand-justice-for-george-floyd/article_6577f444-09b2-5436-a53b-b63b0ec74624.html'],CCC
 ,2020-05-31,"Indianapolis, IN",", Indianapolis, IN",,,"['https://www.indystar.com/story/news/crime/2020/06/10/indianapolis-protests-heres-how-many-people-have-been-arrested-and-charged/5323022002/', 'https://twitter.com/AustinKellerman/status/1267223463569362949']",CCC
 ,2020-05-31,"Jacksonville, FL","at Duval County Courthouse, Jacksonville, FL",36.0,several dozen,"['https://twitter.com/BrittMullerNews/status/1267111087184453632', 'https://www.jacksonville.com/news/20200531/live-blog-on-second-day-of-jacksonville-protests-curry-issues-citywide-curfew']",CCC
@@ -506,7 +508,7 @@ id,date,city_st,location,size,size_str,urls,collection
 ,2020-05-31,"New Philadelphia, OH",", New Philadelphia, OH",200.0,hundreds,['https://www.buzzfeednews.com/article/annehelenpetersen/black-lives-matter-protests-near-me-small-towns'],CCC
 ,2020-05-31,"New York, NY","downtown Brooklyn; Barclays Center, New York, NY",690.0,600-800,"['https://twitter.com/stahlidarity/status/1267171763382824960', 'https://twitter.com/mikemachlin/status/1267222761811750912']",CCC
 ,2020-05-31,"New York, NY","Brooklyn; Williamsburg, New York, NY",,,['https://twitter.com/mikemachlin/status/1267222502767353856'],CCC
-,2020-05-31,"New York, NY","Queens; Jamaica Avenue, New York, NY",,,['https://twitter.com/strawbearysal/status/1267168546368487429'],CCC
+,2020-05-31,"New York, NY","Queens; Jamaica Avenue, New York, NY",,,"['https://twitter.com/strawbearysal/status/1267168546368487429', 'https://www.nydailynews.com/new-york/nyc-crime/ny-queens-nypd-commanding-officer-takes-knee-20200531-apfa2pbltfcj3epln5bmcccgky-story.html']",CCC
 ,2020-05-31,"New York, NY","Staten Island, New York, NY",,,['https://twitter.com/JoeCamerota/status/1267211870043340802'],CCC
 ,2020-05-31,"New York, NY","Times Square; Manhattan, New York, NY",3000.0,3000,"['https://twitter.com/mgiannavola/status/1267222202430218242', 'https://twitter.com/mikemachlin/status/1267223736060506112']",CCC
 ,2020-05-31,"New York, NY","Union Square; Manhattan, New York, NY",,,['https://twitter.com/sabrina_piper/status/1267230499774386177'],CCC
@@ -517,6 +519,7 @@ id,date,city_st,location,size,size_str,urls,collection
 ,2020-05-31,"Oakland, CA",", Oakland, CA",560.0,hundreds maybe thousands,"['https://twitter.com/DarwinBondGraha/status/1267250166886629377', 'https://twitter.com/AmalyaDubrovsky/status/1267218326884806657']",CCC
 ,2020-05-31,"Odessa, TX","in the parking lot of the Bank of America Building on Grant Avenue; outside OPD, Odessa, TX",200.0,more than 200,['https://www.oaoa.com/news/article_5936b8a6-a3c2-11ea-b794-a76b8cd7d00b.html'],CCC
 ,2020-05-31,"Oklahoma City, OK","police headquarters; State Capitol, Oklahoma City, OK",200.0,hundreds of people,"['https://www.koco.com/article/protesters-rally-in-okc-for-second-day-of-demonstrations-in-response-to-george-floyds-death/32723204#', 'https://twitter.com/jacobrosecrants/status/1267175741357273088', 'https://oklahoman.com/gallery/6041371/black-lives-matter-rally']",CCC
+,2020-05-31,"Oneonta, NY","Muller Plaza, Oneonta, NY",,,[],CCC
 ,2020-05-31,"Orlando, FL","Lake Eola Park, Orlando, FL",,,"['https://www.clickorlando.com/news/local/2020/05/31/protestors-force-shut-down-of-state-road-408-troopers-say/', 'https://twitter.com/Jfelicio86/status/1267219507057213441']",CCC
 ,2020-05-31,"Oswego, NY",", Oswego, NY",,,['https://twitter.com/HeySethReadThis/status/1267165154296442880'],CCC
 ,2020-05-31,"Owatonna, MN","along Hoffman Drive near downtown; Jaycee Park; and around Law Enforcement Center, Owatonna, MN",200.0,more than 200,['https://www.southernminn.com/owatonna_peoples_press/news/article_473532c8-cac4-547c-85b0-ecbefef8a6bd.html'],CCC
@@ -883,7 +886,7 @@ id,date,city_st,location,size,size_str,urls,collection
 ,2020-06-02,"Red Bluff, CA",", Red Bluff, CA",200.0,a couple hundred,['https://twitter.com/_TheRussian/status/1267845034256326664'],CCC
 ,2020-06-02,"Reno, NV",", Reno, NV",,,['https://twitter.com/amywestervelt/status/1268028025527922689'],CCC
 ,2020-06-02,"Riverview, FL","Highway 301, Riverview, FL",,,['https://www.wfla.com/news/hillsborough-county/deputies-may-close-part-of-u-s-301-in-preparation-for-protests/'],CCC
-,2020-06-02,"Sacramento, CA",", Sacramento, CA",,,['https://twitter.com/TrevorsStephany/status/1268010076146548737'],CCC
+,2020-06-02,"Sacramento, CA","Cesar E. Chavez Plaza, Sacramento, CA",,At least 500,['https://twitter.com/TrevorsStephany/status/1268010076146548737'],CCC
 ,2020-06-02,"Salem, OR","capitol, Salem, OR",,,['https://twitter.com/BAForst/status/1267876002782343169'],CCC
 ,2020-06-02,"Seattle, WA","outside Emergency Operations Center., Seattle, WA",7000.0,7000,"['https://www.capitolhillseattle.com/2020/06/administration-official-says-discussions-about-consent-decree-police-training-on-table-as-durkan-office-prepares-for-fifth-day-of-seattle-protests/', 'https://twitter.com/MTaylorCanfield/status/1267978851226775552']",CCC
 ,2020-06-02,"Seattle, WA","Cal Anderson Park, Seattle, WA",2000.0,thousands,['https://www.capitolhillseattle.com/2020/06/administration-official-says-discussions-about-consent-decree-police-training-on-table-as-durkan-office-prepares-for-fifth-day-of-seattle-protests/'],CCC
@@ -1116,6 +1119,7 @@ id,date,city_st,location,size,size_str,urls,collection
 ,2020-06-05,"Emporia, KS","First Christian Church, Emporia, KS",500.0,over 500,['http://www.emporiagazette.com/free/article_e5e7a27c-a76b-11ea-af03-4739138b6468.html'],CCC
 ,2020-06-05,"Enterprise, OR","Wallowa County Courthouse, Enterprise, OR",200.0,estimated 200,['https://www.wallowa.com/news/local/black-lives-matter-protest-draws-a-crowd/article_796de1e6-a8f7-11ea-bbab-53492f02ed7a.html'],CCC
 ,2020-06-05,"Famington, NM","Farmington Museum at Gateway Park, Famington, NM",24.0,dozens,['https://www.daily-times.com/picture-gallery/news/local/farmington/2020/06/06/peaceful-protest-supports-black-lives-matter-movement/3162621001/'],CCC
+,2020-06-05,"Fargo, ND","Island Park, Fargo, ND",1450.0,about 2000,"['https://www.mprnews.org/story/2020/06/05/organizers-city-officials-plan-friday-unity-gathering-in-farg', 'https://www.kxnet.com/news/state-news/thousands-gather-in-fargo-for-peaceful-protest/']",CCC
 ,2020-06-05,"Flora, IL",", Flora, IL",,,['https://twitter.com/annehelen/status/1268980373746155520'],CCC
 ,2020-06-05,"Fort Monroe, VA",", Fort Monroe, VA",200.0,hundreds,['https://www.pilotonline.com/cities/hampton/dp-nw-ft-monroe-march-20200606-xnx6hjvvhnhbbes2aguz465l7m-photogallery.html'],CCC
 ,2020-06-05,"Garberville, CA","Humboldt County Sheriff's Office, Garberville, CA",100.0,about 100,['http://kymkemp.com/2020/06/05/relatively-large-march-in-sunny-sohum-today-to-protest-violence-by-police/'],CCC
