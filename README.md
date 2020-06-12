@@ -54,8 +54,8 @@ _Last update: 6/11/2020 @ 11:30am_
 ## To Do:
 * Update daily (current as of 6/11)
 * Impute missing attendance
-* Better event matching
-* Better wikipedia events
+* Add second date for some Wikipedia entries.
+* Add city pages to Wikipedia.
 
 
 ## Data Sources:
