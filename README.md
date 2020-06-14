@@ -25,13 +25,13 @@ This combined dataset is constructed using the following process:
    * CCC - Flag for data from Crowd Counting Consortium   
    * Elephrame - Flag for data from Elephrame   
    * Count Love    - Flag for data from Count Love    
+   * wikipedia    - Flag for data from Wikipedia   
+   * New York Times   - Flag for data from New York Times   
    * urls - list of source urls provided with the original event reports   
 
 Note: This data should not be viewed as final, as cleaning continues. Additionally, the underlying data is still being updated, particularly for very recent events. Use with caution and consult the reference urls.
 
-Thanks to Alisa Robinson,  Tommy Leung and Nathan Perkins, Jeremy Pressman, Erica Chenoweth and the CCC & Wikiepdia contributors for their data collection efforts.
-
-_Last update: 6/13/2020 @ 5:00pm_
+_Last update: 6/14/2020 @ 8:00am_
 
 
 
@@ -39,23 +39,24 @@ _Last update: 6/13/2020 @ 5:00pm_
 |:-----------|---------:|------------:|------:|-------------:|-----------------:|------------:|
 | 2020-05-26 |       11 |           1 |     4 |            7 |                6 |           0 |
 | 2020-05-27 |       19 |           0 |    10 |           11 |               11 |           0 |
-| 2020-05-28 |       63 |           0 |    36 |           41 |               41 |          11 |
-| 2020-05-29 |      179 |           1 |   105 |          124 |               94 |          41 |
-| 2020-05-30 |      464 |          67 |   187 |          311 |              337 |         154 |
-| 2020-05-31 |      656 |          90 |   192 |          365 |              460 |         168 |
-| 2020-06-01 |      506 |          44 |   139 |          176 |              330 |         101 |
-| 2020-06-02 |      457 |          39 |   158 |          101 |              296 |          62 |
-| 2020-06-03 |      381 |          67 |   121 |           77 |              233 |          53 |
-| 2020-06-04 |      319 |          37 |    55 |           88 |              193 |          48 |
-| 2020-06-05 |      341 |          83 |    96 |           85 |              172 |          37 |
-| 2020-06-06 |      467 |          52 |   156 |          124 |              264 |          50 |
-| 2020-06-07 |      294 |          59 |    85 |           74 |              149 |          18 |
-| 2020-06-08 |       88 |          14 |    13 |           44 |               33 |           5 |
-| 2020-06-09 |       54 |          14 |    16 |           27 |                0 |           5 |
-| 2020-06-10 |       38 |          24 |     7 |           10 |                0 |           2 |
-| 2020-06-11 |       22 |          11 |     2 |            6 |                0 |           4 |
-| 2020-06-12 |       47 |           5 |    34 |            8 |                0 |           3 |
-| 2020-06-13 |       11 |           7 |     6 |            0 |                0 |           0 |
+| 2020-05-28 |       62 |           0 |    36 |           41 |               41 |          10 |
+| 2020-05-29 |      180 |           1 |   105 |          125 |               94 |          42 |
+| 2020-05-30 |      467 |          63 |   200 |          317 |              337 |         148 |
+| 2020-05-31 |      660 |          90 |   197 |          379 |              460 |         167 |
+| 2020-06-01 |      511 |          44 |   142 |          190 |              330 |         101 |
+| 2020-06-02 |      466 |          39 |   165 |          111 |              296 |          64 |
+| 2020-06-03 |      382 |          67 |   121 |           80 |              233 |          52 |
+| 2020-06-04 |      326 |          37 |    56 |           94 |              193 |          49 |
+| 2020-06-05 |      347 |          83 |   103 |           88 |              172 |          37 |
+| 2020-06-06 |      485 |          52 |   174 |          132 |              264 |          50 |
+| 2020-06-07 |      309 |          59 |    98 |           81 |              149 |          20 |
+| 2020-06-08 |       96 |          14 |    21 |           49 |               33 |           6 |
+| 2020-06-09 |       58 |          14 |    18 |           30 |                0 |           5 |
+| 2020-06-10 |       42 |          24 |     6 |           17 |                0 |           2 |
+| 2020-06-11 |       39 |          11 |     2 |           24 |                0 |           4 |
+| 2020-06-12 |       65 |           5 |    35 |           28 |                0 |           5 |
+| 2020-06-13 |       15 |          11 |     6 |            1 |                0 |           0 |
+| 2020-06-14 |        2 |           0 |     2 |            0 |                0 |           0 |
 
 
 ## To Do:
