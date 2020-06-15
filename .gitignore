@@ -117,6 +117,7 @@ venv.bak/
 /site
 
 blm-html/
+workfiles/
 
 # mypy
 .mypy_cache/
