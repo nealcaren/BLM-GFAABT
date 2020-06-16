@@ -127,3 +127,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+Notebooks/Run All Notebooks.ipynb
+Notebooks/Floyd - URls1.ipynb
