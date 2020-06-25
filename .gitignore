@@ -129,3 +129,5 @@ dmypy.json
 .DS_Store
 Notebooks/Run All Notebooks.ipynb
 Notebooks/Floyd - URls1.ipynb
+Notebooks/Floyd - URls Selenium.ipynb
+Notebooks/Floyd - URls Selenium-Copy2.ipynb
