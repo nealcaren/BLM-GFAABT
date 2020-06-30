@@ -1,3106 +1,3311 @@
 ,index,city_st
-2816,",",1
-2498,", OH",1
-1682,"Aberdeen, MS",1
-2752,"Aberdeen, NC",1
-208,"Aberdeen, SD",5
-164,"Abilene, TX",6
-1914,"Abingdon, VA",1
-2644,"Accomac, VA",1
-1344,"Acton, MA",1
-1827,"Ada, OK",1
-588,"Adrian, MI",2
-2848,"Agawam, MA",1
-2108,"Agoura Hills, CA, CA",1
-1933,"Aiken, GA",1
-180,"Aiken, SC",5
-117,"Akron, OH",7
-915,"Alameda, CA",2
-1431,"Alamo Heights, TX",1
-1024,"Alamogordo, NM",2
-1779,"Alamosa, CO",1
-369,"Albany, GA",3
-177,"Albany, NY",5
-2518,"Albany, OR",1
-1929,"Albemarle, NC",1
-1922,"Albert Lea, MN",1
-1581,"Albertville, AL",1
-82,"Albuquerque, NM",9
-2448,"Alcoa, TN",1
-2006,"Aledo, TX",1
-309,"Alexandria, LA",4
-1555,"Alexandria, MN",1
-693,"Alexandria, VA",2
-326,"Alfred, NY",4
-608,"Alhambra, CA",2
-1339,"Aliquippa, PA",1
-2624,"Allen Park, MI",1
-968,"Allentown, PA",2
-2115,"Alliance, OH",1
-2586,"Alpena, MI",1
-1040,"Alpharetta, GA",2
-1330,"Alpine, TX",1
-2828,"Altadena, CA",1
-1726,"Altadena, CA, CA",1
-2621,"Altamont, NY",1
-730,"Alton, IL",2
-1770,"Alton, NH",1
-733,"Altoona, PA",2
-3061,"Altus, OK",1
-422,"Amarillo, TX",3
-2512,"Americus, GA",1
-1538,"Amery, WI",1
-542,"Ames, IA",3
-1328,"Amesbury, MA",1
-930,"Amherst, MA",2
-2405,"Amityville, NY, NY",1
-3047,"Amsterdam, NY",1
-964,"Anacortes, WA",2
-167,"Anaheim, CA",5
-263,"Anchorage, AK",4
-1936,"Andalusia, AL",1
-686,"Anderson, IN",2
-1054,"Anderson, SC",2
-793,"Andover, MA",2
-2620,"Andover, MA, MA",1
-1635,"Angels Camp, CA",1
-1262,"Angleton, TX",1
-1435,"Angola, IN",1
-69,"Ann Arbor, MI",9
-2075,"Anna, IL",1
-191,"Annapolis, MD",5
-587,"Anniston, AL",2
-2951,"Anoka, MN",1
-2916,"Ansonia, CT",1
-1259,"Antioch, CA",1
-1750,"Apex, NC",1
-1350,"Apple Valley, CA",1
-2081,"Apple Valley, MN",1
-253,"Appleton, WI",4
-1088,"Appomattox, VA",2
-2093,"Arcadia, CA",1
-2165,"Arcata, CA",1
-1220,"Ardmore, OK",1
-954,"Ardmore, PA",2
-3037,"Arkadelphia, AR",1
-720,"Arlington Heights, IL",2
-165,"Arlington, MA",6
-468,"Arlington, TX",3
-2631,"Arlington, VA",1
-880,"Arnold, MO",2
-1241,"Arvin, CA",1
-450,"Asbury Park, NJ",3
-302,"Asheboro, NC",4
-87,"Asheville, NC",8
-2824,"Asheville, NC, NC",1
-2390,"Asheville, NC, virtual",1
-1976,"Ashfield, MA",1
-1920,"Ashland City, TN",1
-1413,"Ashland, AL",1
-76,"Ashland, OH",9
-1005,"Ashland, OR",2
-2389,"Ashland, VA",1
-1027,"Ashland, WI",2
-1369,"Ashtabula, OH",1
-519,"Aspen, CO",3
-2253,"Astoria, NY",1
-1889,"Astoria, OR",1
-1925,"Atchison, KS",1
-675,"Athens, AL",2
-114,"Athens, GA",7
-204,"Athens, OH",5
-1188,"Athens, TN",1
-3067,"Athens, TX",1
-11,"Atlanta, GA",18
-593,"Atlantic City, NJ",2
-2940,"Atlantic, IA",1
-1502,"Atoka, OK",1
-2602,"Attleboro, MA",1
-525,"Auburn, AL",3
-475,"Auburn, CA",3
-652,"Auburn, IN",2
-575,"Auburn, ME",2
-1212,"Auburn, ME, ME",1
-1048,"Auburn, NE",2
-973,"Auburn, NY",2
-881,"Auburn, WA",2
-277,"Augusta, GA",4
-2435,"Augusta, ME",1
-347,"Aurora, CO",3
-206,"Aurora, IL",5
-2773,"Austin, MN",1
-52,"Austin, TX",11
-2714,"Avalon, CA",1
-2167,"Avodale Estates, GA",1
-2086,"Avon, CT",1
-1799,"Avon, IN",1
-3097,"Avon, OH",1
-2772,"Avondale Estates, GA, GA",1
-745,"Babylon, NY",2
-3100,"Bad Axe, MI",1
-606,"Bainbridge Island, WA",2
-1103,"Baker, NV",1
-91,"Bakersfield, CA",8
-1771,"Baldwinsville, NY",1
-26,"Baltimore, MD",14
-978,"Bandon, OR",2
-892,"Bangor, ME",2
-2032,"Banks, OR",1
-619,"Bar Harbor, ME",2
-2651,"Bar Harbor, ME, ME",1
-2976,"Barbourville, KY",1
-1419,"Barnstable, MA",1
-910,"Barrington, IL",2
-2956,"Barron, WI",1
-1677,"Barstow, CA",1
-2726,"Bartlesville, OK",1
-1892,"Basking Ridge, NJ",1
-2514,"Batavia, IL",1
-2669,"Batavia, NY",1
-523,"Bath, ME",3
-135,"Baton Rouge, LA",6
-2312,"Baton Rouge, LA, LA",1
-764,"Battle Creek, MI",2
-394,"Bay City, MI",3
-719,"Bay Ridge, NY",2
-826,"Bay Village, OH",2
-2662,"Bayonne, NJ",1
-1451,"Baytown, TX",1
-1689,"Beachwood, OH",1
-423,"Beacon, NY",3
-2332,"Beardstown, IL",1
-3070,"Beatrice, NE",1
-2501,"Beaufort, NC",1
-2204,"Beaufort, NC, NC",1
-154,"Beaufort, SC",6
-594,"Beaumont, TX",2
-1373,"Beaver Dam, WI",1
-1015,"Beavercreek, OH",2
-1459,"Beaverton, LA",1
-448,"Beaverton, OR",3
-557,"Beckley, WV",3
-2121,"Bedford, IN",1
-1510,"Bedford, PA",1
-2047,"Bedford, VA",1
-2521,"Bedminster, NJ",1
-2985,"Beecher, MI",1
-1553,"Beford, NH",1
-661,"Bel Air, MD",2
-438,"Belfast, ME",3
-2647,"Belgrade, Serbia",1
-1280,"Bellbrook, OH",1
-2018,"Belle Chasse, LA",1
-1134,"Belle Fourche, SD",1
-2139,"Belle Glade, FL",1
-2553,"Bellefonte, PA",1
-169,"Belleville, IL",5
-1182,"Belleville, IL, virtual",1
-1107,"Belleville, NJ",1
-1119,"Bellevue, ID",1
-1540,"Bellevue, NE",1
-1764,"Bellevue, PA",1
-434,"Bellevue, WA",3
-1127,"Bellflower, CA",1
-207,"Bellingham, WA",5
-415,"Bellmore, NY",3
-660,"Bellows Falls, VT",2
-855,"Bellport, NY",2
-3075,"Belmont, CA",1
-2212,"Belmont, MA",1
-2826,"Beloit, WI",1
-2450,"Belton, TX",1
-531,"Bemidji, MN",3
-1452,"Bemidji, MN, MN",1
-241,"Bend, OR",4
-2265,"Benicia, CA",1
-2109,"Bennington, VT",1
-1131,"Benton Harbor, MI",1
-2885,"Benton, AR",1
-1923,"Benton, IL",1
-2273,"Benton, KY",1
-819,"Bentonville, AR",2
-537,"Berea, KY",3
-1578,"Berkeley Heights, NJ",1
-138,"Berkeley, CA",6
-1896,"Berkeley, CA, CA",1
-1139,"Berkley, MI",1
-1565,"Berlin, CT",1
-1441,"Berlin, NH",1
-1893,"Bernardsville, NJ",1
-1939,"Berrien Springs, MI",1
-1535,"Berryville, VA",1
-824,"Bethel, AK",2
-297,"Bethel, CT",4
-352,"Bethel, OH",3
-891,"Bethel, VT",2
-372,"Bethesda, MD",3
-461,"Bethlehem, PA",3
-1092,"Bethpage, NY",2
-2573,"Bettendorf, IA",1
-551,"Beverly Hills, CA",3
-1321,"Beverly, MA",1
-2718,"Big Bear Lake, CA, CA",1
-2732,"Big Rapids, MI",1
-823,"Big Spring, TX",2
-2138,"Billerica, MA",1
-435,"Billings, MT",3
-1402,"Billings, MT, MT",1
-2626,"Biloxi, MS",1
-443,"Binghamton, NY",3
-1316,"Birdsboro, PA",1
-89,"Birmingham, AL",8
-446,"Birmingham, MI",3
-2043,"Bisbee, AZ",1
-1740,"Bishop, CA",1
-509,"Bismarck, ND",3
-410,"Blacksburg, VA",3
-1020,"Blaine, MN",2
-1619,"Bloomfield Hills, MI",1
-814,"Bloomfield, CT",2
-750,"Bloomfield, NJ",2
-330,"Bloomington, IL",4
-1285,"Bloomington, IL, IL",1
-340,"Bloomington, IN",3
-2763,"Bloomsburg, PA",1
-2840,"Blue Ash, OH",1
-1967,"Blue Springs, MO",1
-1731,"Bluefield, WV",1
-913,"Bluffton, SC",2
-460,"Boca Raton, FL",3
-1072,"Boerne, TX",2
-1377,"Boiling Springs, SC",1
-88,"Boise, ID",8
-1494,"Boise, ID, virtual",1
-1730,"Bolingbrook, IL",1
-1442,"Bologna, Italy",1
-2892,"Bonita Springs, FL",1
-1186,"Bonney Lake, WA",1
-2445,"Boone, IA",1
-1974,"Boone, IO",1
-1003,"Boone, NC",2
-2665,"Boonton, NJ",1
-1552,"Bordentown, NJ",1
-1942,"Bossier City, LA",1
-14,"Boston, MA",17
-2637,"Boston, MA, MA",1
-912,"Bothell, WA",2
-2421,"Boulder City, NV",1
-250,"Boulder, CO",4
-2654,"Boulder, UT",1
-3048,"Bourbon County, KS",1
-2561,"Bourne, MA",1
-112,"Bowling Green, KY",7
-522,"Bowling Green, OH",3
-1931,"Bowling Green, VA",1
-1805,"Boyertown, PA",1
-379,"Boynton Beach, FL",3
-1046,"Bozeman, MT",2
-1416,"Bozeman, MT, MT",1
-1323,"Bradenton, FL",1
-3085,"Bradenton, FL, FL",1
-2237,"Bradford, PA",1
-981,"Bradley, IL",2
-1007,"Brainerd, MN",2
-2393,"Braintree, MA",1
-1293,"Branford, CT",1
-462,"Branson, MO",3
-3059,"Braselton, GA",1
-499,"Brattleboro, VT",3
-2562,"Brea, CA",1
-2909,"Breckenridge, CO",1
-2097,"Breckinridge, CO",1
-2708,"Brecksville, OH",1
-747,"Bremerton, WA",2
-1554,"Brenham, TX",1
-2262,"Brentwood, CA",1
-1901,"Brentwood, MO",1
-2794,"Brentwood, NY",1
-293,"Brevard, NC",4
-724,"Brewster, NY",2
-2963,"Brewton, AL",1
-2855,"Briarwood, NY",1
-664,"Brick, NJ",2
-3064,"Bridgehampton, NY",1
-148,"Bridgeport, CT",6
-2243,"Bridgeport, PA",1
-2252,"Bridgewater, CT",1
-933,"Bridgewater, MA",2
-1407,"Bridgewater, NJ",1
-1044,"Brighton, MI",2
-2721,"Brighton, NY",1
-596,"Bristol, CT",2
-1781,"Bristol, NH",1
-2904,"Bristol, PA",1
-1911,"Bristol, RI",1
-1910,"Bristol, TN",1
-1154,"Bristol, VA",1
-217,"Brockton, MA",5
-3007,"Broken Arrow, OK",1
-2817,"Broken Bow, NE",1
-2564,"Bronson, FL",1
-489,"Bronx, NY",3
-2568,"Brookfield, MO",1
-876,"Brookfield, WI",2
-1394,"Brookhaven, GA",1
-1867,"Brookings, OR",1
-1525,"Brookings, OR, OR",1
-956,"Brookings, SD",2
-1079,"Brookline, MA",2
-1960,"Brookline, MA, MA",1
-2594,"Brookline, MA, virtual",1
-80,"Brooklyn, NY",9
-1932,"Broomfield, CO, CO",1
-2957,"Broward County Library. A line of sheriff's deputies blocked the north side of the intersection; Fort Lauderdale police officers stood in a line on the east side. Officers were equipped with riot gear, including helmets and shields. Some officers were on horses, and armored vehicles were deployed. Windows were broken in stores and government buildings; two were arrested for looting. An art work valued at $58,000 was destroyed. Police used tear gas and percussion grenades. About 8, FL",1
-1870,"Brown Deer, WI",1
-2440,"Brownsburg, IN",1
-1776,"Brownsville, TX",1
-2769,"Brownwood, TX",1
-580,"Brunswick, GA",2
-345,"Brunswick, ME",3
-2964,"Bryan, OH",1
-230,"Bryan, TX",4
-1177,"Bryson City, NC",1
-2792,"Bucyrus, OH",1
-2974,"Buda, TX",1
-1592,"Buellton, CA",1
-2309,"Buena Park, CA",1
-2373,"Buffalo Grove, IL",1
-32,"Buffalo, NY",13
-1327,"Buffalo, NY, virtual",1
-1820,"Bullhead City, AZ",1
-1200,"Burbank, CA",1
-1705,"Burien, WA",1
-568,"Burke, VA",2
-2000,"Burlington, IA",1
-1850,"Burlington, NC",1
-210,"Burlington, VT",5
-2590,"Burlington, WA",1
-2149,"Burlington, WI",1
-1105,"Burns, OR",1
-2736,"Burnsville, NC",1
-2458,"Butler, AL",1
-1071,"Butler, PA",2
-1680,"Butte, MT",1
-1760,"Buzzards Bay, MA",1
-1679,"Cabot, AR",1
-882,"Cadillac, MI",2
-1916,"Cairo, GA",1
-561,"Calabasas, CA",3
-1037,"Caldwell, NJ",2
-2379,"Caledonia, NY",1
-942,"Calexico, CA",2
-1086,"Callicoon, NY",2
-894,"Calumet City, IL",2
-1783,"Camarillo, CA",1
-2298,"Camas, WA",1
-265,"Cambridge, MA",4
-827,"Cambridge, MD",2
-582,"Cambridge, NY",2
-1700,"Cambridge, OH",1
-2515,"Cambridge, WI",1
-1865,"Camden, DE",1
-1718,"Camden, ME",1
-3008,"Camden, ME, ME",1
-368,"Camden, NJ",3
-2650,"Camdenton, MO",1
-2145,"Canaan, NH",1
-3041,"Canajoharie, NY",1
-1749,"Canal Winchester, OH",1
-984,"Canandaigua, NY",2
-2228,"Canfield, OH",1
-2359,"Canon City, CO",1
-2551,"Canova Park, FL",1
-2850,"Canton, IL",1
-1423,"Canton, MO",1
-2603,"Canton, NC",1
-2432,"Canton, NY",1
-275,"Canton, OH",4
-2809,"Canyon, TX",1
-1678,"Cape Cod, MA",1
-2548,"Cape Coral, FL",1
-1184,"Cape Elizabeth, ME",1
-709,"Cape Girardeau, MO",2
-760,"Cape May, NJ",2
-357,"Carbondale, IL",3
-3102,"Cardiff, CA",1
-1924,"Carefree, AZ",1
-2906,"Caribou, ME",1
-3055,"Caribou, ME, ME",1
-2969,"Carleton, MI",1
-2779,"Carlinville, IL",1
-495,"Carlisle, PA",3
-2601,"Carlsbad, CA",1
-288,"Carlsbad, NM",4
-1304,"Carlstadt, NJ",1
-1784,"Carmel, IN",1
-837,"Carmel, NY",2
-2771,"Caro, MI",1
-2062,"Carol Stream, IL",1
-874,"Carrollton, GA",2
-1719,"Carrollton, OH",1
-1106,"Carrollton, TX",1
-1011,"Carson City, NV",2
-2593,"Carson, CA",1
-2368,"Carteret, NJ",1
-2617,"Cartersville, GA",1
-2523,"Carterville, IL",1
-1427,"Cary, NC",1
-2428,"Casa Grande, AZ",1
-491,"Casper, WY",3
-1728,"Castle Rock, CO",1
-1291,"Castro Valley, CA",1
-1670,"Castro Valley, CA, virtual",1
-1465,"Catasauqua, PA",1
-1275,"Catonsville, MD",1
-2074,"Catonsville, MD, MD",1
-1082,"Catskill, NY",2
-1191,"Cazenovia, NY",1
-631,"Cedar City, UT",2
-2120,"Cedar Falls, IA",1
-1050,"Cedar Hill, TX",2
-2183,"Cedar Park, TX",1
-149,"Cedar Rapids, IA",6
-2981,"Cedar park, TX, TX",1
-2506,"Cedartown, GA",1
-2941,"Cederhurst, NY",1
-1506,"Celina, OH",1
-1489,"Celina, TX",1
-1258,"Center, TX",1
-2412,"Centerville, OH",1
-1944,"Central Islip, NY",1
-1574,"Centralia, IL",1
-768,"Centralia, WA",2
-590,"Centreville, MD",2
-2048,"Century City, CA",1
-2030,"Century City, Los Angeles, CA",1
-2694,"Cerdarhurst, NY",1
-1644,"Cerritos, CA",1
-405,"Chadron, NE",3
-878,"Chagrin Falls, OH",2
-767,"Chambersburg, PA",2
-147,"Champaign, IL",6
-1650,"Champaign, IL, IL",1
-2495,"Champaign–Urbana, IL",1
-209,"Chandler, AZ",5
-393,"Chapel Hill, NC",3
-2803,"Charles Town, WV",1
-2107,"Charleston, IL",1
-2156,"Charleston, NC",1
-72,"Charleston, SC",9
-327,"Charleston, WV",4
-3051,"Charleston, WV, WV",1
-1286,"Charlestown, SC",1
-2872,"Charlotte Amalie, U.S. Virgin Islands",1
-28,"Charlotte, NC",14
-1146,"Charlotte, NC, NC",1
-93,"Charlottesville, VA",8
-2767,"Chaska, MN",1
-1541,"Chatham, MA",1
-1938,"Chatsworth, CA",1
-64,"Chattanooga, TN",10
-1753,"Chattanooga, TN, TN",1
-983,"Cheboygan, MI",2
-560,"Chehalis, WA",3
-2112,"Chelan, WA",1
-2711,"Chelsea, MA",1
-3019,"Chelsea, MI",1
-2672,"Chenoa, IL",1
-2059,"Cherry Hill, NJ",1
-899,"Chesapeake, VA",2
-366,"Cheshire, CT",3
-2760,"Chester, SC",1
-583,"Chester, VT",2
-3039,"Chesterfield, MI",1
-2160,"Chesterfield, MO",1
-545,"Chesterfield, VA",3
-1437,"Chesterton, IN",1
-574,"Chestertown, MD",2
-175,"Cheyenne, WY",5
-1,"Chicago, IL",22
-650,"Chico, CA",2
-2341,"Chico, CA, CA",1
-1863,"Chicopee, MA",1
-890,"Chillicothe, OH",2
-2724,"Chincoteague, VA",1
-2067,"Chino Hills, CA",1
-1081,"Chino, CA",2
-1170,"Chisholm, MN",1
-2443,"Chllicothe, OH",1
-2513,"Chowchilla, CA",1
-1568,"Christiansburg, VA",1
-1713,"Christiansted, U.S. Virgin Islands",1
-1087,"Chula Vista, CA",2
-1860,"Cicero, IL",1
-53,"Cincinnati, OH",11
-2268,"Citrus Heights, CA",1
-1113,"City of Port of Spain, Trinidad and Tobago",1
-843,"Claremont, CA",2
-1349,"Claremont, NH",1
-792,"Claremore, OK",2
-829,"Clark, NJ",2
-692,"Clarksburg, MD",2
-835,"Clarksburg, WV",2
-1418,"Clarkston, MI",1
-2745,"Clarksville, IN",1
-234,"Clarksville, TN",4
-1498,"Claxton, GA",1
-2596,"Clayton, CA",1
-1256,"Clayton, GA",1
-663,"Clayton, MO",2
-2565,"Clayton, OK",1
-1885,"Clearlake, CA",1
-1774,"Clearwater, FL",1
-3015,"Clearwater, FL, FL",1
-1064,"Cleburne, TX",2
-3079,"Clemson, SC",1
-1802,"Clermont, FL",1
-751,"Cleveland Heights, OH",2
-2738,"Cleveland, MS",1
-323,"Cleveland, OH",4
-1289,"Cleveland, OH, virtual",1
-1233,"Cleveland, TN",1
-2554,"Clifton Heights, PA",1
-2169,"Clifton Park, NY",1
-395,"Clifton, NJ",3
-1659,"Clinton, CT",1
-1921,"Clinton, IA",1
-2683,"Clinton, MA",1
-2749,"Clinton, NY",1
-3073,"Cloudcroft, NM",1
-2002,"Cloverdale, CA",1
-2921,"Clovis, NM",1
-1244,"Coatesville, PA",1
-853,"Cobb, GA",2
-1851,"Cobleskill, NY",1
-776,"Cockeysville, MD",2
-2925,"Cocoa, FL",1
-1243,"Cody, WY",1
-300,"Coeur d'Alene, ID",4
-1384,"Coffeyville, KS",1
-2101,"Cohoes, NY",1
-2585,"Colchester, CT",1
-2922,"Colchester, VT",1
-2031,"Coldwater, MI",1
-1226,"Colfax, CA",1
-1523,"College Park, MD",1
-453,"College Station, TX",3
-1597,"Collierville, TN",1
-1365,"Collinsville, IL",1
-2970,"Collinsville, MO",1
-1253,"Colombo, Sri Lanka",1
-1343,"Colonial Heights, VA",1
-79,"Colorado Springs, CO",9
-2124,"Columbia, IL",1
-839,"Columbia, MD",2
-1773,"Columbia, MI",1
-46,"Columbia, MO",12
-305,"Columbia, MS",4
-3010,"Columbia, MS, MS",1
-74,"Columbia, SC",9
-139,"Columbus, GA",6
-2088,"Columbus, IN",1
-2197,"Columbus, NE",1
-34,"Columbus, OH",13
-2740,"Columbus, OH, OH",1
-2351,"Coluso, CA",1
-677,"Commack, NY",2
-2203,"Commerce, TX",1
-505,"Compton, CA",3
-2664,"Concord, CA",1
-516,"Concord, NC",3
-1411,"Concord, NH",1
-1245,"Conroe, TX",1
-235,"Conway, AR",4
-1083,"Conway, NH",2
-713,"Conway, SC",2
-2896,"Conyers, GA",1
-408,"Cookeville, TN",3
-1531,"Cooperstown, NY",1
-2238,"Coos Bay, OR",1
-2616,"Copiague, NY",1
-1440,"Coppell, TX",1
-1202,"Copperas Cove, TX",1
-1589,"Coral Gables, FL",1
-2361,"Coral Springs, FL",1
-401,"Coralville, IA",3
-1919,"Coraopolis, PA",1
-273,"Corbin, KY",4
-2658,"Cordova, AK",1
-2706,"Cornelius, NC",1
-867,"Corning, NY",2
-1290,"Cornwall, CT",1
-2317,"Corona, CA",1
-276,"Coronado, CA",4
-748,"Corpus Christi, TX",2
-1065,"Cortland, NY",2
-244,"Corvallis, OR",4
-2891,"Coshocton, OH",1
-182,"Costa Mesa, CA",5
-2416,"Cottage Grove, OR",1
-1239,"Cottonwood Heights, UT",1
-3080,"Council Bluffs, IA",1
-3035,"Coventry, CT",1
-2739,"Covina, CA",1
-2071,"Covington, GA",1
-2409,"Covington, GA, virtual",1
-2543,"Covington, KY",1
-1818,"Covington, LA",1
-1727,"Covington, TN",1
-1576,"Covington, VA",1
-2503,"Coxsackie, NY",1
-1338,"Craig, CO",1
-2810,"Cranford, NJ",1
-1434,"Cranston, RI",1
-1846,"Crawford, GA",1
-611,"Crawfordsville, IN",2
-1873,"Creede, CO",1
-1455,"Crescent City, CA",1
-803,"Crested Butte, CO",2
-2223,"Crestwood, MO",1
-2712,"Creve Coeur, MO",1
-3101,"Crofton, MD",1
-649,"Cromwell, CT",2
-2051,"Crossett, AR",1
-2583,"Crowley, LA",1
-937,"Crown Point, IN",2
-261,"Crystal Lake, IL",4
-1738,"Crystal Lake, IL, virtual",1
-2287,"Cuero, TX",1
-2328,"Cullman, AL",1
-1230,"Culpeper, VA",1
-598,"Culver City, CA",2
-2530,"Culver City, CA, CA",1
-2632,"Cumberland, MD",1
-991,"Cumming, GA",2
-2538,"Cupertino, CA",1
-2488,"Cutler Bay, FL",1
-2222,"Cypress, CA",1
-2629,"Dacula, GA",1
-2696,"Dadeville, AL",1
-573,"Dallas, OR",2
-41,"Dallas, TX",12
-1888,"Dallastown, PA, PA",1
-696,"Dalton, GA",2
-2984,"Damascus, MD",1
-2851,"Dana Point, CA",1
-412,"Danbury, CT",3
-1271,"Dansville, NY",1
-287,"Danville, CA",4
-2797,"Danville, IL",1
-2348,"Danville, KY",1
-1789,"Danville, PA",1
-533,"Danville, VA",3
-728,"Darien, CT",2
-1276,"Dartmouth, MA",1
-478,"Davenport, IA",3
-521,"Davie, FL",3
-2310,"Davis, CA",1
-1759,"Davison, MI",1
-286,"Dayton, OH",4
-2542,"Dayton, OH, OH",1
-1129,"Daytona Beach Shores, FL",1
-904,"Daytona Beach, FL",2
-1647,"De Pere, WI",1
-765,"DeFuniak Springs, FL",2
-838,"DeKalb, IL",2
-868,"DeLand, FL",2
-2790,"DeRidder, LA",1
-2676,"DeWitt, NY",1
-1144,"Dearborn, MI",1
-2919,"Decatur, AL",1
-1614,"Decatur, GA",1
-274,"Decatur, IL",4
-2396,"Decorah, IA",1
-2524,"Deep River, CT",1
-2517,"Deer Park, NY",1
-2666,"Deerfield, IL",1
-566,"Defiance, OH",2
-122,"Dekalb, IL",7
-2209,"Del Mar Heights, CA",1
-2852,"Del Mar, CA",1
-996,"Del Rio, TX",2
-2770,"Delano, CA",1
-860,"Delaware, OH",2
-1153,"Delhi, NY",1
-1745,"Delmar, NY",1
-927,"Delray Beach, FL",2
-1628,"Deltona, FL",1
-1946,"Deluth, MN",1
-3091,"Deming, NM",1
-2424,"Denham Springs, LA",1
-3027,"Denison, IA",1
-2930,"Denison, TX",1
-66,"Denton, TX",10
+1345,",",1
+1752,", OH",1
+1569,"Abbeville, LA",1
+1694,"Aberdeen, MS",1
+2225,"Aberdeen, NC",1
+210,"Aberdeen, SD",5
+143,"Abilene, TX",6
+2507,"Abingdon, VA",1
+1555,"Accomac, VA",1
+1659,"Acton, MA",1
+2250,"Ada, OK",1
+700,"Adrian, MI",2
+1209,"Agawam, MA",1
+1914,"Agoura Hills, CA, CA",1
+1475,"Aiken, GA",1
+189,"Aiken, SC",5
+96,"Akron, OH",8
+904,"Alameda, CA",2
+2766,"Alamo Heights, TX",1
+625,"Alamogordo, NM",2
+1739,"Alamosa, CO",1
+442,"Albany, GA",3
+200,"Albany, NY",5
+1830,"Albany, OR",1
+2037,"Albemarle, NC",1
+1272,"Albert Lea, MN",1
+2770,"Albertville, AL",1
+55,"Albuquerque, NM",11
+1797,"Alcoa, TN",1
+1231,"Aledo, TX",1
+339,"Alexandria, LA",4
+1452,"Alexandria, MN",1
+952,"Alexandria, VA",2
+247,"Alfred, NY",4
+622,"Alhambra, CA",2
+1601,"Aliquippa, PA",1
+1258,"Allen Park, MI",1
+1593,"Allen Park, Michigan",1
+639,"Allentown, PA",2
+2422,"Alliance, OH",1
+2847,"Alpena, MI",1
+978,"Alpharetta, GA",2
+2353,"Alpine, TX",1
+2788,"Altadena, CA",1
+2619,"Altadena, CA, CA",1
+2583,"Altamont, NY",1
+723,"Alton, IL",2
+2518,"Alton, NH",1
+851,"Altoona, PA",2
+2331,"Altus, OK",1
+545,"Amarillo, TX",3
+2990,"Americus, GA",1
+1196,"Amery, WI",1
+396,"Ames, IA",3
+1789,"Amesbury, MA",1
+724,"Amherst, MA",2
+1220,"Amityville, NY, NY",1
+1463,"Amsterdam, NY",1
+840,"Anacortes, WA",2
+191,"Anaheim, CA",5
+322,"Anchorage, AK",4
+1442,"Andalusia, AL",1
+2441,"Anderson Township, OH",1
+735,"Anderson, IN",2
+897,"Anderson, SC",2
+598,"Andover, MA",2
+1183,"Andover, MA, MA",1
+2334,"Angels Camp, CA",1
+1204,"Angleton, TX",1
+1815,"Angola, IN",1
+83,"Ann Arbor, MI",9
+1620,"Anna, IL",1
+3145,"Anna, Illinois",1
+241,"Annapolis, MD",5
+689,"Anniston, AL",2
+1900,"Anoka, MN",1
+1260,"Ansonia, CT",1
+3007,"Ansonia, Connecticut",1
+672,"Antioch, CA",2
+2602,"Apex, NC",1
+1594,"Apple Valley, CA",1
+3005,"Apple Valley, MN",1
+323,"Appleton, WI",4
+599,"Appomattox, VA",2
+2889,"Arcadia, CA",1
+1248,"Arcata, CA",1
+3227,"Ardmore, OK",1
+1110,"Ardmore, PA",2
+1871,"Arkadelphia, AR",1
+1035,"Arlington Heights, IL",2
+2039,"Arlington Heights, Illinois",1
+151,"Arlington, MA",6
+444,"Arlington, TX",3
+2652,"Arlington, VA",1
+744,"Arnold, MO",2
+2917,"Arvin, CA",1
+558,"Asbury Park, NJ",3
+277,"Asheboro, NC",4
+98,"Asheville, NC",8
+2855,"Asheville, NC, NC",1
+2333,"Asheville, NC, virtual",1
+3106,"Ashfield, MA",1
+2773,"Ashland City, TN",1
+1925,"Ashland, AL",1
+82,"Ashland, OH",9
+1047,"Ashland, OR",2
+1838,"Ashland, Ohio",1
+2238,"Ashland, VA",1
+375,"Ashland, WI",3
+3210,"Ashtabula, OH",1
+324,"Aspen, CO",4
+2016,"Astoria, NY",1
+1303,"Astoria, OR",1
+1768,"Atchison, KS",1
+1103,"Athens, AL",2
+93,"Athens, GA",8
+217,"Athens, OH",5
+1388,"Athens, TN",1
+2542,"Athens, TX",1
+11,"Atlanta, GA",19
+686,"Atlantic City, NJ",2
+1751,"Atlantic, IA",1
+2050,"Atoka, OK",1
+1336,"Attleboro, MA",1
+415,"Auburn, AL",3
+457,"Auburn, CA",3
+945,"Auburn, IN",2
+2615,"Auburn, Indiana",1
+1021,"Auburn, ME",2
+2879,"Auburn, ME, ME",1
+2306,"Auburn, Maine",1
+698,"Auburn, NE",2
+1024,"Auburn, NY",2
+1089,"Auburn, WA",2
+290,"Augusta, GA",4
+2368,"Augusta, ME",1
+282,"Aurora, CO",4
+225,"Aurora, IL",5
+2953,"Austin, MN",1
+36,"Austin, TX",13
+1772,"Avalon, CA",1
+1975,"Avodale Estates, GA",1
+2745,"Avon, CT",1
+2880,"Avon, IN",1
+1472,"Avon, OH",1
+2068,"Avondale Estates, GA",1
+3184,"Avondale Estates, GA, GA",1
+590,"Babylon, NY",3
+2207,"Bad Axe, MI",1
+669,"Bainbridge Island, WA",2
+2149,"Baker, NV",1
+108,"Bakersfield, CA",8
+2111,"Baldwinsville, NY",1
+34,"Baltimore, MD",14
+1101,"Bandon, OR",2
+1096,"Bangor, ME",2
+1936,"Banks, OR",1
+826,"Bar Harbor, ME",2
+1310,"Bar Harbor, ME, ME",1
+1326,"Barbourville, KY",1
+1141,"Barnstable, MA",1
+1098,"Barrington, IL",2
+3245,"Barron, WI",1
+1589,"Barstow, CA",1
+3052,"Bartlesville, OK",1
+2899,"Basking Ridge, NJ",1
+1327,"Batavia, IL",1
+2590,"Batavia, NY",1
+367,"Bath, ME",3
+163,"Baton Rouge, LA",6
+1254,"Baton Rouge, LA, LA",1
+1067,"Battle Creek, MI",2
+571,"Bay City, MI",3
+910,"Bay Ridge, NY",2
+596,"Bay Village, OH",2
+3130,"Bayonne, NJ",1
+2645,"Baytown, TX",1
+3142,"Baytown, Texas",1
+1591,"Beachwood, OH",1
+575,"Beacon, NY",3
+2261,"Beardstown, IL",1
+3254,"Beatrice, NE",1
+1638,"Beatrice, Nebraska",1
+2569,"Beaufort, NC",1
+2692,"Beaufort, NC, NC",1
+178,"Beaufort, SC",6
+381,"Beaumont, TX",3
+1562,"Beaver Dam, WI",1
+848,"Beavercreek, OH",2
+2827,"Beaverton, LA",1
+526,"Beaverton, OR",3
+504,"Beckley, WV",3
+1485,"Bedford, IN",1
+939,"Bedford, PA",2
+1413,"Bedford, VA",1
+1895,"Bedminster, NJ",1
+2417,"Beecher, MI",1
+2479,"Beford, NH",1
+925,"Bel Air, MD",2
+476,"Belfast, ME",3
+3206,"Belgrade, Serbia",1
+2995,"Bellbrook, OH",1
+2831,"Belle Chasse, LA",1
+3248,"Belle Fourche, SD",1
+3042,"Belle Glade, FL",1
+1923,"Bellefonte, PA",1
+201,"Belleville, IL",5
+1478,"Belleville, IL, virtual",1
+3041,"Belleville, NJ",1
+2983,"Bellevue, ID",1
+2413,"Bellevue, NE",1
+1662,"Bellevue, PA",1
+553,"Bellevue, WA",3
+3269,"Bellflower, CA",1
+219,"Bellingham, WA",5
+368,"Bellmore, NY",3
+955,"Bellows Falls, VT",2
+966,"Bellport, NY",2
+2138,"Belmont, CA",1
+2704,"Belmont, MA",1
+2877,"Beloit, WI",1
+1187,"Belton, TX",1
+468,"Bemidji, MN",3
+3209,"Bemidji, MN, MN",1
+296,"Bend, OR",4
+1782,"Benicia, CA",1
+3072,"Bennettsville, SC",1
+2733,"Bennington, VT",1
+1845,"Benton Harbor, MI",1
+2361,"Benton, AR",1
+2897,"Benton, IL",1
+1430,"Benton, KY",1
+713,"Bentonville, AR",2
+513,"Berea, KY",3
+1730,"Berkeley Heights, NJ",1
+171,"Berkeley, CA",6
+1818,"Berkeley, CA, CA",1
+2850,"Berkley, MI",1
+2834,"Berlin, CT",1
+1630,"Berlin, NH",1
+1431,"Bernardsville, NJ",1
+3241,"Berrien Springs, MI",1
+2154,"Berryville, VA",1
+766,"Bethel, AK",2
+288,"Bethel, CT",4
+2251,"Bethel, ME",1
+997,"Bethel, OH",2
+709,"Bethel, VT",2
+481,"Bethesda, MD",3
+398,"Bethlehem, PA",3
+806,"Bethpage, NY",2
+2694,"Bettendorf, IA",1
+257,"Beverly Hills, CA",4
+1229,"Beverly, MA",1
+2853,"Big Bear Lake, CA, CA",1
+2125,"Big Rapids, MI",1
+810,"Big Spring, TX",2
+2679,"Billerica, MA",1
+490,"Billings, MT",3
+1302,"Billings, MT, MT",1
+1520,"Biloxi, MS",1
+491,"Binghamton, NY",3
+1962,"Birdsboro, PA",1
+99,"Birmingham, AL",8
+483,"Birmingham, MI",3
+876,"Bisbee, AZ",2
+1826,"Bishop, CA",1
+462,"Bismarck, ND",3
+592,"Blacksburg, VA",3
+612,"Blaine, MN",2
+1165,"Bloomfield Hills, MI",1
+711,"Bloomfield, CT",2
+1068,"Bloomfield, NJ",2
+227,"Bloomington, IL",5
+3089,"Bloomington, IL, IL",1
+419,"Bloomington, IN",3
+3260,"Bloomsburg, PA",1
+2810,"Blue Ash, OH",1
+1352,"Blue Springs, MO",1
+2959,"Bluefield, WV",1
+670,"Bluffton, SC",2
+567,"Boca Raton, FL",3
+1018,"Boerne, TX",2
+1198,"Boiling Springs, SC",1
+102,"Boise, ID",8
+1501,"Boise, ID, virtual",1
+2463,"Bolingbrook, IL",1
+2166,"Bologna, Italy",1
+2433,"Bonita Springs, FL",1
+1450,"Bonney Lake, WA",1
+3306,"Boone, IA",1
+362,"Boone, NC",3
+2642,"Boonton, NJ",1
+1563,"Bordentown, NJ",1
+2670,"Bossier City, LA",1
+14,"Boston, MA",18
+2940,"Boston, MA, MA",1
+730,"Bothell, WA",2
+2429,"Boulder City, NV",1
+1940,"Boulder City, Nevada",1
+284,"Boulder, CO",4
+1579,"Boulder, UT",1
+2420,"Bourbon County, KS",1
+2377,"Bourne, MA",1
+129,"Bowling Green, KY",7
+469,"Bowling Green, OH",3
+2015,"Bowling Green, VA",1
+2402,"Boyertown, PA",1
+544,"Boynton Beach, FL",3
+1002,"Bozeman, MT",2
+1387,"Bozeman, MT, MT",1
+3283,"Bradenton, FL",1
+2366,"Bradenton, FL, FL",1
+3114,"Bradford, PA",1
+1075,"Bradley, IL",2
+852,"Brainerd, MN",2
+2512,"Braintree, MA",1
+3264,"Branford, CT",1
+315,"Branson, MO",4
+3128,"Braselton, GA",1
+473,"Brattleboro, VT",3
+1503,"Brea, CA",1
+2543,"Breckenridge, CO",1
+2903,"Breckinridge, CO",1
+2314,"Brecksville, OH",1
+619,"Bremerton, WA",2
+2034,"Brenham, TX",1
+1493,"Brentwood, CA",1
+2277,"Brentwood, MO",1
+2123,"Brentwood, Missouri",1
+2194,"Brentwood, NY",1
+2140,"Brentwood, TN",1
+342,"Brevard, NC",4
+915,"Brewster, NY",2
+2104,"Brewton, AL",1
+1512,"Briarwood, NY",1
+833,"Brick, NJ",2
+2139,"Bridgehampton, NY",1
+177,"Bridgeport, CT",6
+2012,"Bridgeport, PA",1
+1315,"Bridgewater, CT",1
+740,"Bridgewater, MA",2
+1706,"Bridgewater, NJ",1
+738,"Brighton, MI",2
+1733,"Brighton, Michigan",1
+2241,"Brighton, NY",1
+1015,"Bristol, CT",2
+2888,"Bristol, NH",1
+2486,"Bristol, PA",1
+2577,"Bristol, RI",1
+2513,"Bristol, TN",1
+2801,"Bristol, VA",1
+228,"Brockton, MA",5
+1464,"Broken Arrow, OK",1
+1685,"Broken Bow, NE",1
+3152,"Bronson, FL",1
+428,"Bronx, NY",3
+1783,"Brookfield, MO",1
+1020,"Brookfield, WI",2
+2702,"Brookfield, Wisconsin",1
+1606,"Brookhaven, GA",1
+1615,"Brookings, OR",1
+1717,"Brookings, OR, OR",1
+1130,"Brookings, SD",2
+1051,"Brookline, MA",2
+3182,"Brookline, MA, MA",1
+1499,"Brookline, MA, virtual",1
+74,"Brooklyn, NY",10
+2992,"Brooksville, FL",1
+1337,"Broomfield, CO, CO",1
+2477,"Broward County Library. A line of sheriff's deputies blocked the north side of the intersection; Fort Lauderdale police officers stood in a line on the east side. Officers were equipped with riot gear, including helmets and shields. Some officers were on horses, and armored vehicles were deployed. Windows were broken in stores and government buildings; two were arrested for looting. An art work valued at $58,000 was destroyed. Police used tear gas and percussion grenades. About 8, FL",1
+1742,"Brown Deer, WI",1
+3040,"Brownsburg, IN",1
+2902,"Brownsville, TX",1
+1559,"Brownwood, TX",1
+1053,"Brunswick, GA",2
+312,"Brunswick, ME",4
+1549,"Bryan, OH",1
+260,"Bryan, TX",4
+1439,"Bryson City, NC",1
+2726,"Bucyrus, OH",1
+2727,"Buda, TX",1
+2805,"Buellton, CA",1
+2290,"Buellton, California",1
+1938,"Buena Park, CA",1
+1296,"Buffalo Grove, IL",1
+1521,"Buffalo Grove, Illinois",1
+38,"Buffalo, NY",13
+1306,"Buffalo, NY, virtual",1
+2378,"Bullhead City, AZ",1
+2442,"Burbank, CA",1
+2031,"Burbank, California",1
+2639,"Burien, WA",1
+1080,"Burke, VA",2
+3207,"Burke, Virginia",1
+1812,"Burlington, IA",1
+1867,"Burlington, NC",1
+176,"Burlington, VT",6
+1576,"Burlington, WA",1
+2984,"Burlington, WI",1
+1571,"Burlington, Washington",1
+1542,"Burns, OR",1
+1781,"Burnsville, NC",1
+1339,"Butler, AL",1
+981,"Butler, PA",2
+1460,"Butte, MT",1
+2156,"Buzzards Bay, MA",1
+1362,"Buzzards Bay, Massachusetts",1
+2540,"Cabot, AR",1
+1531,"Cabot, Arkansas",1
+838,"Cadillac, MI",2
+1994,"Cairo, GA",1
+417,"Calabasas, CA",3
+1031,"Caldwell, NJ",2
+2115,"Caledonia, NY",1
+823,"Calexico, CA",2
+885,"Callicoon, NY",2
+836,"Calumet City, IL",2
+1356,"Camarillo, CA",1
+2229,"Camas, WA",1
+281,"Cambridge, MA",4
+1129,"Cambridge, MD",2
+1123,"Cambridge, NY",2
+2826,"Cambridge, OH",1
+1820,"Cambridge, WI",1
+1367,"Camden, DE",1
+2927,"Camden, ME",1
+1236,"Camden, ME, ME",1
+557,"Camden, NJ",3
+2836,"Camdenton, MO",1
+2838,"Canaan, NH",1
+1206,"Canajoharie, NY",1
+3147,"Canal Winchester, OH",1
+704,"Canandaigua, NY",2
+3084,"Canfield, OH",1
+2348,"Canon City, CO",1
+3077,"Canova Park, FL",1
+2968,"Canton, GA",1
+3303,"Canton, IL",1
+2944,"Canton, MI",1
+1796,"Canton, MO",1
+883,"Canton, NC",2
+1580,"Canton, NY",1
+287,"Canton, OH",4
+2404,"Canyon, TX",1
+1956,"Cape Cod, MA",1
+2082,"Cape Coral, FL",1
+2647,"Cape Elizabeth, ME",1
+976,"Cape Girardeau, MO",2
+874,"Cape May, NJ",2
+577,"Carbondale, IL",3
+1353,"Cardiff, CA",1
+2915,"Carefree, AZ",1
+2576,"Caribou, ME",1
+3175,"Caribou, ME, ME",1
+2385,"Carleton, MI",1
+1985,"Carlinville, IL",1
+400,"Carlisle, PA",3
+2963,"Carlsbad, CA",1
+271,"Carlsbad, NM",4
+2685,"Carlstadt, NJ",1
+1949,"Carmel, IN",1
+654,"Carmel, NY",2
+1458,"Caro, MI",1
+2961,"Carol Stream, IL",1
+999,"Carrollton, GA",2
+2190,"Carrollton, OH",1
+2074,"Carrollton, TX",1
+947,"Carson City, NV",2
+3208,"Carson, CA",1
+1771,"Carteret, NJ",1
+2551,"Cartersville, GA",1
+1342,"Carterville, IL",1
+2782,"Carthage, TX",1
+2078,"Cary, NC",1
+2999,"Cary, North Carolina",1
+2311,"Casa Grande, AZ",1
+546,"Casper, WY",3
+1203,"Castle Rock, CO",1
+2476,"Castro Valley, CA",1
+2919,"Castro Valley, CA, virtual",1
+2152,"Catasauqua, PA",1
+1757,"Catonsville, MD",1
+1679,"Catonsville, MD, MD",1
+446,"Catskill, NY",3
+2530,"Cazenovia, NY",1
+1050,"Cedar City, UT",2
+3214,"Cedar Falls, IA",1
+618,"Cedar Hill, TX",2
+2956,"Cedar Park, TX",1
+175,"Cedar Rapids, IA",6
+1287,"Cedar park, TX, TX",1
+2324,"Cedartown, GA",1
+1584,"Cederhurst, NY",1
+1658,"Celina, OH",1
+2861,"Celina, TX",1
+2500,"Center, TX",1
+1965,"Centerville, OH",1
+2743,"Central Islip, NY",1
+2811,"Centralia, IL",1
+905,"Centralia, WA",2
+2693,"Centreville, MA",1
+789,"Centreville, MD",2
+1142,"Century City, CA",1
+2391,"Cerdarhurst, NY",1
+1560,"Cerritos, CA",1
+580,"Chadron, NE",3
+970,"Chagrin Falls, OH",2
+623,"Chambersburg, PA",2
+149,"Champaign, IL",6
+1386,"Champaign, IL, IL",1
+1330,"Champaign–Urbana, IL",1
+212,"Chandler, AZ",5
+350,"Chapel Hill, NC",4
+2394,"Charles City, IA",1
+1718,"Charles Town, WV",1
+2954,"Charleston, IL",1
+2506,"Charleston, NC",1
+76,"Charleston, SC",9
+325,"Charleston, WV",4
+2924,"Charleston, WV, WV",1
+2775,"Charlestown, SC",1
+2630,"Charlotte Amalie, U.S. Virgin Islands",1
+30,"Charlotte, NC",14
+2097,"Charlotte, NC, NC",1
+91,"Charlottesville, VA",8
+2242,"Chaska, MN",1
+1724,"Chatham, MA",1
+2816,"Chatsworth, CA",1
+70,"Chattanooga, TN",10
+1955,"Chattanooga, TN, TN",1
+748,"Cheboygan, MI",2
+570,"Chehalis, WA",3
+2266,"Chelan, WA",1
+2560,"Chelsea, MA",1
+1626,"Chelsea, MI",1
+2798,"Chelsea, Michigan",1
+3174,"Chenoa, IL",1
+3233,"Cherry Hill, NJ",1
+683,"Chesapeake, VA",2
+498,"Cheshire, CT",3
+2328,"Chester, SC",1
+678,"Chester, VT",2
+2582,"Chesterfield, MI",1
+2388,"Chesterfield, MO",1
+331,"Chesterfield, VA",4
+2946,"Chesterton, IN",1
+957,"Chestertown, MD",2
+162,"Cheyenne, WY",6
+1,"Chicago, IL",26
+737,"Chico, CA",2
+1951,"Chico, CA, CA",1
+2457,"Chicopee, MA",1
+715,"Chillicothe, OH",2
+2800,"Chincoteague, VA",1
+1904,"Chino Hills, CA",1
+1036,"Chino, CA",2
+2008,"Chisholm, MN",1
+2237,"Chllicothe, OH",1
+1790,"Chowchilla, CA",1
+1479,"Christiansburg, VA",1
+2406,"Christiansted, U.S. Virgin Islands",1
+1044,"Chula Vista, CA",2
+3000,"Cicero, IL",1
+39,"Cincinnati, OH",13
+2130,"Citrus Heights, CA",1
+2593,"City of Port of Spain, Trinidad and Tobago",1
+1058,"Claremont, CA",2
+1533,"Claremont, NH",1
+911,"Claremore, OK",2
+687,"Clark, NJ",2
+827,"Clarksburg, MD",2
+1041,"Clarksburg, WV",2
+2864,"Clarkston, MI",1
+1508,"Clarksville, IN",1
+230,"Clarksville, TN",5
+1568,"Claxton, GA",1
+1959,"Clayton, CA",1
+2176,"Clayton, GA",1
+949,"Clayton, MO",2
+2043,"Clayton, OK",1
+1604,"Clearlake, CA",1
+694,"Clearwater, FL",2
+2548,"Clearwater, FL, FL",1
+1078,"Cleburne, TX",2
+1872,"Clemson, SC",1
+1814,"Clermont, FL",1
+987,"Cleveland Heights, OH",2
+2824,"Cleveland, MS",1
+239,"Cleveland, OH",5
+1699,"Cleveland, OH, virtual",1
+2022,"Cleveland, TN",1
+2167,"Clifton Heights, PA",1
+1972,"Clifton Park, NY",1
+517,"Clifton, NJ",3
+2301,"Clinton, CT",1
+1643,"Clinton, IA",1
+2718,"Clinton, MA",1
+2910,"Clinton, NY",1
+1583,"Clinton, TN",1
+2088,"Cloudcroft, NM",1
+2215,"Cloverdale, CA",1
+2581,"Clovis, NM",1
+1410,"Coatesville, PA",1
+2696,"Coatesville, Pennsylvania",1
+606,"Cobb, GA",2
+1622,"Cobleskill, NY",1
+610,"Cockeysville, MD",2
+1633,"Cocoa, FL",1
+3253,"Cody, WY",1
+328,"Coeur d'Alene, ID",4
+1332,"Coffeyville, KS",1
+1966,"Coffeyville, Kansas",1
+2351,"Cohoes, NY",1
+1538,"Colchester, CT",1
+2894,"Colchester, VT",1
+1992,"Coldwater, MI",1
+2595,"Colfax, CA",1
+3194,"College Park, MD",1
+578,"College Station, TX",3
+1148,"Collierville, TN",1
+2539,"Collinsville, IL",1
+2350,"Collinsville, MO",1
+2155,"Colombo, Sri Lanka",1
+2320,"Colonial Beach, VA",1
+2912,"Colonial Heights, VA",1
+68,"Colorado Springs, CO",10
+2950,"Columbia, IL",1
+1189,"Columbia, Illinois",1
+648,"Columbia, MD",2
+2732,"Columbia, MI",1
+44,"Columbia, MO",13
+298,"Columbia, MS",4
+2748,"Columbia, MS, MS",1
+66,"Columbia, SC",10
+168,"Columbus, GA",6
+2234,"Columbus, IN",1
+2934,"Columbus, NE",1
+42,"Columbus, OH",13
+3094,"Columbus, OH, OH",1
+1835,"Coluso, CA",1
+647,"Commack, NY",2
+1764,"Commerce, TX",1
+509,"Compton, CA",3
+2857,"Concord, CA",1
+506,"Concord, NC",3
+946,"Concord, NH",2
+1748,"Conroe, TX",1
+318,"Conway, AR",4
+1090,"Conway, NH",2
+2376,"Conway, SC",1
+1891,"Conyers, GA",1
+537,"Cookeville, TN",3
+2028,"Cooperstown, NY",1
+2710,"Coos Bay, OR",1
+2796,"Copiague, NY",1
+1618,"Coppell, TX",1
+1566,"Copperas Cove, TX",1
+1008,"Coral Gables, FL",2
+2411,"Coral Springs, FL",1
+283,"Coralville, IA",4
+1801,"Coraopolis, PA",1
+352,"Corbin, KY",4
+1219,"Cordova, AK",1
+977,"Corinth, MS",2
+3244,"Cornelius, NC",1
+1112,"Corning, NY",2
+3167,"Cornwall, CT",1
+3092,"Corona, CA",1
+311,"Coronado, CA",4
+1113,"Corpus Christi, TX",2
+802,"Cortland, NY",2
+250,"Corvallis, OR",4
+1911,"Coshocton, OH",1
+216,"Costa Mesa, CA",5
+2077,"Cottage Grove, MN",1
+2737,"Cottage Grove, OR",1
+2949,"Cottonwood Heights, UT",1
+1676,"Council Bluffs, IA",1
+2637,"Coventry, CT",1
+3020,"Covina, CA",1
+3288,"Covington, GA",1
+2193,"Covington, GA, virtual",1
+2257,"Covington, KY",1
+2585,"Covington, LA",1
+1749,"Covington, TN",1
+1607,"Covington, VA",1
+1926,"Coxsackie, NY",1
+3266,"Craig, CO",1
+2299,"Craig, Colorado",1
+2678,"Cranford, NJ",1
+2653,"Cranston, RI",1
+3285,"Crawford, GA",1
+663,"Crawfordsville, IN",2
+3155,"Creede, CO",1
+2933,"Crescent City, CA",1
+983,"Crested Butte, CO",2
+1382,"Crestwood, MO",1
+720,"Creve Coeur, MO",2
+1445,"Crofton, MD",1
+845,"Cromwell, CT",2
+1670,"Crossett, AR",1
+1979,"Crossett, Arkansas",1
+1968,"Crowley, LA",1
+785,"Crown Point, IN",2
+199,"Crystal Lake, IL",5
+2066,"Crystal Lake, IL, virtual",1
+2363,"Cuero, TX",1
+3259,"Cullman, AL",1
+1840,"Culpeper, VA",1
+691,"Culver City, CA",2
+1903,"Culver City, CA, CA",1
+2728,"Cumberland, MD",1
+1072,"Cumming, GA",2
+2908,"Cupertino, CA",1
+2279,"Cutler Bay, FL",1
+1466,"Cypress, CA",1
+3078,"Dacula, GA",1
+1582,"Dacula, Georgia",1
+3226,"Dadeville, AL",1
+601,"Dallas, OR",2
+2295,"Dallas, Oregon",1
+51,"Dallas, TX",12
+3137,"Dallastown, PA, PA",1
+441,"Dalton, GA",3
+2799,"Damascus, MD",1
+1642,"Dana Point, CA",1
+401,"Danbury, CT",3
+3181,"Dania Beach, FL",1
+2332,"Dansville, NY",1
+344,"Danville, CA",4
+1849,"Danville, IL",1
+1864,"Danville, KY",1
+2212,"Danville, PA",1
+317,"Danville, VA",4
+452,"Darien, CT",3
+1987,"Dartmouth, MA",1
+497,"Davenport, IA",3
+384,"Davie, FL",3
+2199,"Davis, CA",1
+2740,"Davison, MI",1
+258,"Dayton, OH",4
+3168,"Dayton, OH, OH",1
+1146,"Daytona Beach Shores, FL",1
+907,"Daytona Beach, FL",2
+1349,"De Pere, WI",1
+628,"DeFuniak Springs, FL",2
+369,"DeKalb, IL",3
+1091,"DeLand, FL",2
+2473,"DeRidder, LA",1
+3125,"DeWitt, NY",1
+2024,"Dearborn, MI",1
+3118,"Decatur, AL",1
+2520,"Decatur, GA",1
+353,"Decatur, IL",4
+2885,"Decorah, IA",1
+1420,"Deep River, CT",1
+2835,"Deer Park, NY",1
+1158,"Deerfield, IL",1
+937,"Defiance, OH",2
+121,"Dekalb, IL",7
+2898,"Del Mar Heights, CA",1
+3279,"Del Mar, CA",1
+1009,"Del Rio, TX",2
+1735,"Delano, CA",1
+636,"Delaware, OH",2
+3067,"Delhi, NY",1
+1692,"Delmar, NY",1
+956,"Delray Beach, FL",2
+2179,"Deltona, FL",1
+1828,"Deluth, MN",1
+2281,"Deming, NM",1
+1480,"Denham Springs, LA",1
+2056,"Denison, IA",1
+1876,"Denison, TX",1
+62,"Denton, TX",10
 19,"Denver, CO",16
-1375,"Denville, NJ",1
-2597,"Derby, CT",1
-2375,"Derby, KS",1
-5,"Des Moines, IA",21
-957,"Des Moines, IO",2
-2731,"Desert Hot Springs, CA",1
-1584,"Detroit Lakes, MN",1
-3,"Detroit, MI",22
-1033,"Diamond Bar, CA",2
-3013,"Dickinson, ND",1
-1837,"Dillingham, AK",1
-1270,"Dobbs Ferry, NY",1
-2195,"Dodge City, KS",1
-1845,"Dodgeville, WI",1
-3071,"Dolores, CO",1
-822,"Doral, FL",2
-2845,"Dorchester, MA",1
-2912,"Dormont, PA",1
-2134,"Dothan, AL",1
-1862,"Douglasville, GA",1
-1078,"Dover, DE",2
-1301,"Dover, NH",1
-1755,"Dover, OH",1
-2289,"Downers Grove, IL",1
-2198,"Downey, CA",1
-683,"Doylestown, PA",2
-708,"Du Quoin, IL",2
-2960,"DuBois, PA",1
-2735,"Dublin, CA",1
-1265,"Dublin, GA",1
-615,"Dublin, NH",2
-1507,"Dublin, OH",1
-1116,"Dubois, PA",1
-456,"Dubuque, IA",3
-2589,"Duluth, GA",1
-199,"Duluth, MN",5
-2783,"Dumfries, VA",1
-2119,"Duncan, OK",1
-2131,"Dunn, NC",1
-936,"Durango, CO",2
-2323,"Durham, CT",1
-54,"Durham, NC",11
-2353,"Durham, NC, NC",1
-2417,"Durham, NC, virtual",1
-1415,"Duvall, WA",1
-2155,"Eagle Pass, TX",1
-1917,"Easley, SC",1
-1756,"East Brunswick, NJ",1
-2413,"East Cleveland, OH",1
-1385,"East Granby, CT",1
-1883,"East Grand Forks, MN",1
-1834,"East Grand Rapids, MI",1
-1622,"East Hampton, CT",1
-2404,"East Hartford, CT",1
-769,"East Haven, CT",2
-308,"East Lansing, MI",4
-1214,"East Lansing, MI, MI",1
-2441,"East Liverpool, OH",1
-1163,"East Longmeadow, MA",1
-2245,"East Los Angeles, CA",1
-2874,"East Lyme, CT",1
-842,"East Meadow, NY",2
-556,"East Palo Alto, CA",3
-2877,"East Setauket, NY",1
-2557,"East Stroudsburg, PA",1
-2380,"East Tawas, MI",1
-2301,"Easthampton, MA",1
-359,"Easton, MA",3
-796,"Easton, MD",2
-1017,"Easton, PA",2
-2884,"Eastpointe, MI",1
-2334,"Eastsound, WA",1
-1386,"Eastsound, WA, WA",1
-3094,"Eaton, OH",1
-2546,"Eatontown, NJ",1
-528,"Eau Claire, WI",3
-1522,"Ebensburg, PA",1
-1273,"Eddyville, KY",1
-1125,"Edgewater, NJ, virtual",1
-1786,"Edgewood, MD",1
-1754,"Edina, MN",1
-1698,"Edinburg, TX",1
-798,"Edmond, OK",2
-884,"Edmonds, WA",2
-2444,"Edna, TX",1
-641,"Edwardsville, IL",2
-2464,"Edwardsville, MO",1
-1852,"Effingham, IL",1
-1950,"El Campo, TX",1
-1488,"El Centro, CA",1
-464,"El Dorado, AR",3
-1874,"El Monte, CA",1
-97,"El Paso, TX",8
-2318,"El Segundo, CA",1
-2610,"Elburn, IL",1
-134,"Elgin, IL",6
-604,"Elizabeth City, NC",2
-1055,"Elizabeth, NJ",2
-1831,"Elizabeth, NJ, virtual",1
-922,"Elizabethtown, KY",2
-1120,"Elizabethtown, NY",1
-1034,"Elizabethtown, PA",2
-1471,"Elk Grove Village, IL",1
-1038,"Elkhart, IN",2
-680,"Elkin, NC",2
-1681,"Elkins, WV",1
-2057,"Elko, NV",1
-1807,"Elkton, MD",1
-1573,"Elkton, VA",1
-427,"Ellensburg, WA",3
-985,"Ellsworth, ME",2
-1161,"Ellsworth, ME, ME",1
-2723,"Elmhurst, IL",1
-271,"Elmira, NY",4
-1417,"Elmira, NY, NY",1
-789,"Elsmere, KY",2
-833,"Ely, MN",2
-1866,"Ely, WI",1
-1443,"Elyria, OH",1
-1996,"Emmen, Netherlands",1
-774,"Emporia, KS",2
-78,"Encinitas, CA",9
-1376,"Encinitas, CA, CA",1
-2096,"Encino, CA",1
-2267,"Encitas, CA",1
-1281,"Enfield, CT",1
-667,"Englewood, NJ",2
-1264,"Englewood, OH",1
-1501,"Enid, OK",1
-1979,"Enterprise, OR",1
-2952,"Ephrata, PA",1
+2822,"Denville, NJ",1
+761,"Derby, CT",2
+3071,"Derby, KS",1
+6,"Des Moines, IA",22
+682,"Des Moines, IO",2
+2760,"Desert Hot Springs, CA",1
+1933,"Detroit Lakes, MN",1
+5,"Detroit, MI",24
+1037,"Diamond Bar, CA",2
+2095,"Diamond Bar, California",1
+2742,"Dickinson, ND",1
+2344,"Dillingham, AK",1
+2523,"Dobbs Ferry, NY",1
+2875,"Dobbs Ferry, New York",1
+2856,"Dodge City, KS",1
+3109,"Dodgeville, WI",1
+1462,"Dolores, CO",1
+1042,"Doral, FL",2
+1827,"Dorchester, MA",1
+3225,"Dormont, PA",1
+2635,"Dothan, AL",1
+2357,"Douglasville, GA",1
+927,"Dover, DE",2
+2920,"Dover, NH",1
+1913,"Dover, OH",1
+2231,"Downers Grove, IL",1
+1320,"Downey, CA",1
+1104,"Doylestown, PA",2
+593,"Du Quoin, IL",2
+2820,"DuBois, PA",1
+2448,"Dublin, CA",1
+3105,"Dublin, GA",1
+929,"Dublin, NH",2
+2408,"Dublin, OH",1
+2367,"Dubois, PA",1
+340,"Dubuque, IA",4
+614,"Duluth, GA",2
+192,"Duluth, MN",5
+2621,"Dumfries, VA",1
+2025,"Duncan, OK",1
+2936,"Dunn, NC",1
+2069,"Dunn, North Carolina",1
+728,"Durango, CO",2
+1235,"Durham, CT",1
+58,"Durham, NC",11
+1747,"Durham, NC, NC",1
+2980,"Durham, NC, virtual",1
+1295,"Duval County, FL",1
+2914,"Duvall, WA",1
+2753,"Dyer, IN",1
+2657,"Eagle Pass, TX",1
+1640,"Easley, SC",1
+1398,"East Brunswick, NJ",1
+2415,"East Cleveland, OH",1
+2412,"East Granby, CT",1
+1750,"East Grand Forks, MN",1
+2092,"East Grand Rapids, MI",1
+1728,"East Hampton, CT",1
+2282,"East Hartford, CT",1
+872,"East Haven, CT",2
+337,"East Lansing, MI",4
+1813,"East Lansing, MI, MI",1
+1321,"East Liverpool, OH",1
+2664,"East Longmeadow, MA",1
+2000,"East Los Angeles, CA",1
+2313,"East Lyme, CT",1
+645,"East Meadow, NY",2
+412,"East Palo Alto, CA",3
+933,"East Setauket, NY",2
+1761,"East Stroudsburg, PA",1
+2592,"East Tawas, MI",1
+2528,"Easthampton, MA",1
+547,"Easton, MA",3
+920,"Easton, MD",2
+399,"Easton, PA",3
+1237,"Eastpointe, MI",1
+3023,"Eastsound, WA",1
+2244,"Eastsound, WA, WA",1
+1516,"Eaton, OH",1
+1416,"Eaton, Ohio",1
+2472,"Eatontown, NJ",1
+314,"Eau Claire, WI",4
+2785,"Ebensburg, PA",1
+3200,"Eddyville, KY",1
+3110,"Edgewater, NJ, virtual",1
+1534,"Edgewood, MD",1
+2336,"Edina, MN",1
+1784,"Edinburg, TX",1
+1069,"Edmond, OK",2
+753,"Edmonds, WA",2
+1350,"Edna, TX",1
+2091,"Edna, Texas",1
+448,"Edwardsville, IL",3
+2683,"Edwardsville, MO",1
+1259,"Effingham, IL",1
+1377,"El Campo, TX",1
+2481,"El Centro, CA",1
+410,"El Dorado, AR",3
+2572,"El Monte, CA",1
+107,"El Paso, TX",8
+2249,"El Segundo, CA",1
+1639,"Elburn, IL",1
+180,"Elgin, IL",6
+2932,"Elgin, MN",1
+1139,"Elizabeth City, NC",2
+800,"Elizabeth, NJ",2
+1740,"Elizabeth, NJ, virtual",1
+685,"Elizabethtown, KY",2
+2159,"Elizabethtown, NY",1
+931,"Elizabethtown, PA",2
+2829,"Elk Grove Village, IL",1
+1224,"Elk Grove Village, Illinois",1
+860,"Elkhart, IN",2
+779,"Elkin, NC",2
+3138,"Elkins, WV",1
+1729,"Elko, NV",1
+1212,"Elkton, MD",1
+2706,"Elkton, VA",1
+505,"Ellensburg, WA",3
+1602,"Ellington, CT",1
+855,"Ellsworth, ME",2
+2467,"Ellsworth, ME, ME",1
+1372,"Elmhurst, IL",1
+86,"Elmira, NY",9
+1202,"Elmira, NY, NY",1
+674,"Elsmere, KY",2
+1065,"Ely, MN",2
+1284,"Ely, WI",1
+2449,"Elyria, OH",1
+3011,"Elyria, Ohio",1
+2403,"Emmen, Netherlands",1
+794,"Emporia, KS",2
+80,"Encinitas, CA",9
+2605,"Encinitas, CA, CA",1
+2580,"Encino, CA",1
+2622,"Encitas, CA",1
+1625,"Enfield, CT",1
+1912,"Enfield, Connecticut",1
+643,"Englewood, NJ",2
+1329,"Englewood, OH",1
+1381,"Enid, OK",1
+2490,"Enterprise, OR",1
+1525,"Ephrata, PA",1
 272,"Erie, PA",4
-2902,"Erlanger, KY",1
-2505,"Escanaba, MI",1
-229,"Escondido, CA",4
-1277,"Española, NM, NM",1
-1164,"Essex Junction, VT",1
-1303,"Essex Junction, VT, VT",1
-2782,"Essex, MA",1
-2322,"Essex, VT",1
-1263,"Estes Park, CO",1
-1049,"Euclid, OH",2
-17,"Eugene, OR",16
-1796,"Eureka, CA",1
-1336,"Evans, GA",1
-689,"Evanston, IL",2
-61,"Evansville, IN",10
-2285,"Everett, MA",1
-645,"Everett, WA",2
-3087,"Everett, WA, WA",1
-2084,"Evergreen Park, IL",1
-2531,"Evergreen, CO",1
-2759,"Evergreen, CO, CO",1
-2423,"Exmore, VA",1
-571,"Fairbanks, AK",2
-1937,"Fairborn, OH",1
-3089,"Fairfax District, CA",1
-1775,"Fairfax, CA, CA",1
-3002,"Fairfax, VA",1
-2678,"Fairfax, VA, virtual",1
-497,"Fairfield, CA",3
-648,"Fairfield, CT",2
-1497,"Fairfield, IA",1
-2496,"Fairfield, OH",1
-487,"Fairmont, WV",3
-382,"Fall River, MA",3
-1383,"Fallon, NV",1
-2037,"Falls Church, VA",1
-895,"Falmouth, MA",2
-2880,"Famington, NM",1
-445,"Fargo, ND",3
-578,"Farmingdale, NY",2
-763,"Farmington, CT",2
-2456,"Farmington, ME",1
-2639,"Farmington, MO",1
-938,"Farmington, NM",2
-1063,"Farrell, PA",2
-402,"Fayetteville, AR",3
-2385,"Fayetteville, AR, AR",1
-2692,"Fayetteville, GA",1
-157,"Fayetteville, NC",6
-2292,"Fayetteville, WV",1
-1457,"Federal Way, WA",1
-2426,"Fergus Falls, MN",1
-296,"Ferguson, MO",4
-1041,"Ferndale, MI",2
-2349,"Festus, MO",1
-2591,"Findlay, OH",1
-1340,"Fircrest, WA",1
-2715,"Fishers, IN",1
-1317,"Fitchburg, MA",1
-270,"Flagstaff, AZ",4
-1166,"Fleetwood, PA",1
-1058,"Flemington, NJ",2
+2868,"Erlanger, KY",1
+2553,"Escanaba, MI",1
+186,"Escondido, CA",5
+3185,"Española, NM, NM",1
+1517,"Essex Junction, VT",1
+1282,"Essex Junction, VT, VT",1
+1435,"Essex, MA",1
+2867,"Essex, VT",1
+2269,"Estes Park, CO",1
+642,"Euclid, OH",2
+20,"Eugene, OR",16
+2973,"Eureka, CA",1
+1333,"Evans, GA",1
+701,"Evanston, IL",2
+75,"Evansville, IN",10
+2854,"Everett, MA",1
+1034,"Everett, WA",2
+1964,"Everett, WA, WA",1
+1758,"Evergreen Park, IL",1
+2352,"Evergreen, CO",1
+1305,"Evergreen, CO, CO",1
+3102,"Exmore, VA",1
+773,"Fairbanks, AK",2
+2455,"Fairborn, OH",1
+2089,"Fairborn, Ohio",1
+2607,"Fairfax District, CA",1
+1456,"Fairfax, CA, CA",1
+2896,"Fairfax, VA",1
+1810,"Fairfax, VA, virtual",1
+332,"Fairfield, CA",4
+716,"Fairfield, CT",2
+2469,"Fairfield, IA",1
+3129,"Fairfield, OH",1
+389,"Fairmont, WV",3
+495,"Fall River, MA",3
+1343,"Fallon, NV",1
+2345,"Falls Church, VA",1
+2273,"Falls Church, Virginia",1
+649,"Falmouth, MA",2
+1695,"Famington, NM",1
+474,"Fargo, ND",3
+959,"Farmingdale, NY",2
+808,"Farmington, CT",2
+2552,"Farmington, ME",1
+3230,"Farmington, MO",1
+479,"Farmington, NM",3
+1908,"Farmville, VA",1
+671,"Farrell, PA",2
+393,"Fayetteville, AR",3
+2804,"Fayetteville, AR, AR",1
+1490,"Fayetteville, GA",1
+181,"Fayetteville, NC",6
+3190,"Fayetteville, WV",1
+2947,"Federal Way, WA",1
+2725,"Fergus Falls, MN",1
+326,"Ferguson, MO",4
+1010,"Ferndale, MI",2
+2141,"Festus, MO",1
+2294,"Findlay, OH",1
+3131,"Fircrest, WA",1
+2522,"Fishers, IN",1
+1178,"Fitchburg, MA",1
+240,"Flagstaff, AZ",5
+3176,"Fleetwood, PA",1
+969,"Flemington, NJ",2
 197,"Flint, MI",5
-2932,"Flora, IL",1
-2431,"Floral Park, NY",1
-2897,"Florence, AL",1
-1830,"Florence, Italy",1
-1586,"Florence, MA, MA",1
-490,"Florence, OR",3
-2659,"Florence, OR, OR",1
-753,"Florence, SC",2
-1282,"Floresville, TX",1
-614,"Florham Park, NJ",2
-228,"Florissant, MO",4
-1545,"Flossmoor, IL",1
+2731,"Flora, IL",1
+2049,"Floral Park, NY",1
+2930,"Florence, AL",1
+2524,"Florence, Italy",1
+2052,"Florence, MA, MA",1
+559,"Florence, OR",3
+1494,"Florence, OR, OR",1
+1135,"Florence, SC",2
+2369,"Floresville, TX",1
+839,"Florham Park, NJ",2
+309,"Florissant, MO",4
+1474,"Flossmoor, IL",1
 116,"Flower Mound, TX",7
-1543,"Floyd, VA",1
-1790,"Folsom, CA",1
-1504,"Fond du Lac, WI",1
-255,"Fontana, CA",4
-1445,"Fontana, CA, CA",1
-1853,"Forest City, IA",1
-220,"Forest Grove, OR",5
-1430,"Forest Grove, OR, OR",1
-1216,"Forest Hills, NY",1
-1970,"Forest Lake, MN",1
-2049,"Forks, WA",1
-2013,"Fort Atkinson, WI",1
-818,"Fort Bragg, CA",2
-83,"Fort Collins, CO",9
-2050,"Fort Dodge, IA",1
-1571,"Fort Fort Stockton, TX",1
-2335,"Fort Kent, ME",1
-278,"Fort Lauderdale, FL",4
-2525,"Fort Lauderdale, FL, FL",1
-2618,"Fort Mill, SC",1
-2703,"Fort Mitchell, KY",1
-2403,"Fort Monroe, VA",1
-68,"Fort Myers, FL",9
-1544,"Fort Payne, AL",1
-1634,"Fort Pierce, FL",1
-1326,"Fort Scott, KS",1
-595,"Fort Smith, AR",2
-834,"Fort Stockton, TX",2
-854,"Fort Walton Beach, FL",2
-952,"Fort Washington, CA",2
-86,"Fort Wayne, IN",8
-119,"Fort Worth, TX",7
-2338,"Fortuna, CA",1
-962,"Fostoria, OH",2
-2839,"Fountain Valley, CA",1
-2487,"Foxborough, MA",1
-233,"Framingham, MA",4
-2563,"Framingham, MA, MA",1
-2555,"Frankford, DE",1
-2836,"Frankfort, KY",1
-1124,"Franklin Township, NJ",1
-2499,"Franklin, KY",1
-1703,"Franklin, NJ",1
-634,"Franklin, TN",2
-2528,"Franklin, VA",1
-553,"Franklinville, NJ",3
-2479,"Frankton, IN",1
-1594,"Fraser, CO",1
-1148,"Frazier Park, CA, CA",1
-333,"Frederick, MD",3
-1940,"Fredericksburg, TX",1
-96,"Fredericksburg, VA",8
-3000,"Frederiksted, U.S. Virgin Islands",1
-2326,"Fredonia, NY",1
-2061,"Fredricksburg, TX",1
-1066,"Freeburg, IL",2
-613,"Freehold Township, NJ",2
-994,"Freehold, NJ",2
-504,"Freeport, IL",3
-193,"Freeport, NY",5
-1989,"Fremont / Newark, CA",1
-92,"Fremont, CA",8
-1045,"Fremont, NE",2
-963,"Fremont, OH",2
-132,"Fresno, CA",6
-569,"Friday Harbor, WA",2
-2903,"Fridley, MN",1
-2433,"Friendswood, TX",1
-1023,"Frisco, TX",2
-2058,"Frisco, TX, TX",1
-2854,"Front Royal, VA",1
-1529,"Frontenac, MO",1
-3063,"Frostburg, MD",1
-1872,"Ft Llauderdale, FL",1
-1675,"Ft. Dodge, IA",1
-3092,"Ft. Fort Stockton, TX",1
-2270,"Ft. Wayne, IN",1
-1894,"Ft. Worth, TX",1
-449,"Fullerton, CA",3
-2788,"Fulton, MO",1
-3081,"Gadsden County, FL",1
-699,"Gadsden, AL",2
-2033,"Gaffney, SC",1
-111,"Gainesville, FL",7
-1641,"Gainesville, FL, FL",1
-752,"Gainesville, GA",2
-3072,"Gainesville, VA",1
-1208,"Gaithersberg, MD",1
-1757,"Gaithersburg, MD",1
-1833,"Galax, TX",1
-3077,"Galax, VA",1
-1094,"Galesburg, IL",2
-1952,"Gallatin, TN",1
-2017,"Gallipolis, OH",1
-841,"Gallup, NM",2
-2293,"Galveston, TX",1
-1211,"Garberville, CA",1
-2114,"Garden City, KS",1
-1461,"Garden City, NY",1
-1562,"Garden Grove, CA",1
-2802,"Gardner, KS",1
-2806,"Gardner, MA",1
-1547,"Garfield, NJ",1
-734,"Garrettsville, OH",2
-849,"Gary, IN",2
-2313,"Gaylord, MI",1
-2066,"Geddes, NY",1
-2184,"Geneseo, NY",1
-2132,"Geneva, IL",1
-313,"Geneva, NY",4
-2399,"Georgetown, DE",1
-2640,"Georgetown, KY",1
-442,"Georgetown, SC",3
-2509,"Georgetown, TX",1
-1605,"Germantown, MD",1
-1598,"Germantown, WI",1
-1474,"Gettysburg, PA",1
-1949,"Gibson City, IL",1
-1699,"Gifford, FL",1
-1480,"Gig Harbor, WA",1
-2717,"Gilbert, AZ",1
-2276,"Gillette, WY",1
-1319,"Gilroy, CA",1
-1722,"Gladwin, MI",1
-2266,"Glasgow, KY",1
-1587,"Glassboro, NJ",1
-2470,"Glastonbury, CT",1
-674,"Glen Cove, NY",2
-2898,"Glen Ellyn, IL",1
-1527,"Glen Falls, NY",1
-1653,"Glen Ridge, NJ",1
-360,"Glendale, CA",3
-1274,"Glendale, MO",1
-2147,"Glendora, CA",1
-907,"Glens Falls, NY",2
-418,"Glenview, IL",3
-2226,"Glenwood Springs, CO",1
-3074,"Gloucester City, NJ",1
-416,"Gloucester, MA",3
-2077,"Golden, CO",1
-1032,"Goldsboro, NC",2
-1690,"Gonzales, LA",1
-2117,"Goodyear, AZ",1
-723,"Gorham, ME",2
-2087,"Gorham, NH",1
-872,"Goshen, IA",2
-550,"Goshen, IN",3
-737,"Goshen, NY",2
-2219,"Grafton, MA",1
-2751,"Grafton, WI",1
-682,"Graham, NC",2
-1625,"Granbury, TX",1
-2604,"Granby, CT",1
-1469,"Grand Blanc, MI",1
-396,"Grand Forks, ND",3
-1247,"Grand Forks, ND, ND",1
-190,"Grand Island, NE",5
-441,"Grand Junction, CO",3
-2199,"Grand Junction, CO, CO",1
-1302,"Grand Marais, MN",1
-2502,"Grand Marais, MN, MN",1
-2001,"Grand Prairie, TX",1
-63,"Grand Rapids, MI",10
-2943,"Grandview, WA",1
-1765,"Granite City, IL",1
-731,"Granite Falls, WA",2
-447,"Grants Pass, OR",3
-1512,"Granville, OH",1
-2655,"Grass Valley, CA",1
-1468,"Grayslake, IL",1
-341,"Great Barrington, MA",3
-923,"Great Bend, KS",2
-2363,"Great Falls, MI",1
-420,"Great Falls, MT",3
-2688,"Greeley, CO",1
-2978,"Green Bay, MN",1
-166,"Green Bay, WI",6
-1763,"Green Valley, AZ",1
-3044,"Greencastle, IN",1
-1732,"Greencastle, PA",1
-2366,"Greendale, WI",1
-1175,"Greeneville, TN",1
-351,"Greenfield, IN",3
-406,"Greenfield, MA",3
-2072,"Greenfield, MA, virtual",1
-1205,"Greenlawn, NY",1
-2807,"Greenport, NY",1
-99,"Greensboro, NC",8
-2764,"Greensboro, NC, NC",1
-1080,"Greensburg, PA",2
-2699,"Greenville, KY",1
-1084,"Greenville, NC",2
-2418,"Greenville, PA",1
-123,"Greenville, SC",7
-700,"Greenville, TX",2
-735,"Greenwich, CT",2
-1871,"Greenwood, IN",1
-2913,"Greenwood, MS",1
-1847,"Greenwood, SC",1
-749,"Gresham, OR",2
-3086,"Gretna, LA",1
-1557,"Griffith, IN",1
-2781,"Grosse Ile, MI",1
-2111,"Grosse Point - Detroit, MI",1
-2822,"Grosse Pointe Woods, MI",1
-2478,"Groton, CT",1
-1110,"Grottoes, VA",1
-1655,"Grove City, OH",1
-1157,"Grove City, PA",1
-1825,"Grove, OK",1
-1137,"Grover Beach, CA",1
-2910,"Grovetown, GA",1
-1104,"Grundy Center, IA",1
-2300,"Guilford, CT",1
-2991,"Guilford, ME",1
-2619,"Gulfport, MS",1
-2747,"Gunnison, CO",1
-1891,"HOUSTON, TX, virtual",1
-976,"Hackensack, NJ",2
-1856,"Hackettstown, NJ",1
-1668,"Haddonfield, NJ",1
-501,"Hagerstown, MD",3
-622,"Hagåtña, Guam",2
-1332,"Hailey, ID",1
-1548,"Haines City, FL",1
-1022,"Haines, AK",2
-861,"Half Moon Bay, CA",2
-1209,"Half Moon Bay, CA, CA",1
-732,"Hallandale Beach, FL",2
-1615,"Hamburg, PA",1
-403,"Hamden, CT",3
-1758,"Hamden, CT, CT",1
-725,"Hamilton, MT",2
-2016,"Hamilton, NJ",1
-1980,"Hamilton, NY",1
-262,"Hamilton, OH",4
-916,"Hammond, IN",2
-2085,"Hammond, LA",1
-1854,"Hampton Beach, NH",1
-2886,"Hampton Roads, VA",1
-1694,"Hampton, NH",1
-216,"Hampton, VA",5
-1603,"Hanalei, HI",1
-2493,"Hancock Park, CA",1
-510,"Hancock, MI",3
-2056,"Hanford, CA",1
-1425,"Hannibal, MO",1
-1444,"Hanover, NH",1
-339,"Hanover, PA",3
-1470,"Happy Valley, OR",1
-2635,"Harlan, KY",1
-1858,"Harlingen, TX",1
-784,"Harrisburg, NC",2
-194,"Harrisburg, PA",5
-1788,"Harrisburg, PA, PA",1
-1500,"Harrison, AR",1
-715,"Harrisonburg, VA",2
-2011,"Harrodsburg, KY",1
-31,"Hartford, CT",14
-1236,"Harvard, NE",1
-1481,"Harvey, LA",1
-1608,"Harwich, MA",1
-1600,"Hasbrouck Heights, NJ",1
-2987,"Hastings, NE",1
-1057,"Hattiesburg, MS",2
-3028,"Haughton, LA",1
-989,"Haverhill, MA",2
-1601,"Havre de Grace, MD",1
-2225,"Havre, MT",1
-2804,"Haw River, NC",1
-2950,"Hawley, PA",1
-1052,"Hawthorne, NJ",2
-2036,"Hays, KS",1
-198,"Hayward, CA",5
-2614,"Hayward, WI",1
-2422,"Hazard, KY",1
-987,"Healdburg, CA",2
-1406,"Healdsburg, CA",1
-2098,"Healy, AK",1
-2684,"Hebron, CT",1
-2090,"Heflin, AL",1
-530,"Helena, MT",3
-2321,"Hemet, CA",1
-512,"Hempstead, NY",3
-591,"Henderson, KY",2
-2873,"Henderson, NC",1
-421,"Hendersonville, NC",3
-668,"Hermiston, OR",2
-1091,"Hermitage, PA",2
-1173,"Hernando, MS",1
-2025,"Herndon, VA",1
-1309,"Herrin, IL",1
-1613,"Hewlett, NY",1
-1643,"Hiawassee, GA",1
-685,"Hibbing, MN",2
-2527,"Hickory, NC",1
-875,"High Point, NC",2
-2173,"Highland Falls, NY",1
-2552,"Highland Park, IL",1
-2490,"Highland Park, IL, IL",1
-1246,"Highland Park, MI",1
-1714,"Highland Park, NJ",1
-3025,"Highland Springs, VA",1
-1686,"Highland, CA",1
-1172,"Highland, IL",1
-1536,"Hightstown, NJ",1
-1956,"Hillcrest, CA",1
-887,"Hilliard, OH",2
-1379,"Hillsboro, OH",1
-409,"Hillsboro, OR",3
-2653,"Hillsborough, NC",1
-1707,"Hillsdale, NJ",1
-2029,"Hillside, NJ",1
-320,"Hilo, HI",4
-2296,"Hinesburg, VT",1
-1533,"Hinesville, GA",1
-2574,"Hinsdale, IL",1
-2667,"Hobart, IL",1
-1855,"Hobart, IN",1
-1618,"Hoboken, NJ",1
-2038,"Holbrook, MA",1
-2415,"Holden, MA, MA",1
-529,"Holland, MI",3
-2294,"Hollidaysburg, PA",1
-2682,"Hollister, CA",1
-1657,"Holly Springs, NC",1
-986,"Hollywood, CA",2
-980,"Hollywood, FL",2
-1438,"Holyoke, MA",1
-101,"Homer, AK",8
-1843,"Homer, NY",1
-1476,"Homestead, FL",1
-2330,"Homewood, AL",1
-2545,"Homewood, IL",1
-1194,"Honesdale, PA",1
-2567,"Honesville, NY",1
-137,"Honolulu, HI",6
-247,"Hood River, OR",4
-2143,"Hood Rivier, OR",1
-439,"Hoover, AL",3
-481,"Hopkinsville, KY",3
-1905,"Hopkinton, MA",1
-1801,"Hopland, CA",1
-2870,"Hoquiam, WA",1
-1324,"Hornell, NY",1
-1590,"Hot Springs, AR",1
-799,"Houghton, MI",2
-2003,"Houlton, ME",1
-473,"Houma, LA",3
-109,"Houston, TX",7
-1746,"Howell, MI",1
-1539,"Huber Heights, OH",1
-1334,"Hudson, NY",1
-1887,"Hudson, OH",1
-1733,"Humboldt, CA",1
-1812,"Humboldt, TN",1
-2408,"Hummelstown, PA",1
-1735,"Huntersville, NC",1
-1360,"Huntingdon, PA",1
-259,"Huntington Beach, CA",4
-2355,"Huntington Woods, MI",1
-1661,"Huntington, IN",1
-391,"Huntington, NY",3
-2014,"Huntington, OH",1
-1203,"Huntington, TX",1
-1464,"Huntington, WV",1
-108,"Huntsville, AL",7
-807,"Huntsville, TX",2
-1798,"Huron, MI",1
-480,"Hutchinson, KS",3
-1772,"Hutto, TX, TX",1
-944,"Hyannis, MA",2
-419,"Idaho Falls, ID",3
-1971,"Immokalee, FL",1
-2861,"Imperial Beach, CA",1
-2728,"Indiana, PA",1
-1145,"Indianapolis, IA",1
-29,"Indianapolis, IN",14
-3029,"Indiantown, FL",1
-2288,"Indio, CA",1
-2937,"Inglewood, CA",1
-1704,"Ionia, MI",1
-35,"Iowa City, IA",13
-864,"Iowa City, IO",2
-920,"Iron Mountain, MI",2
-2853,"Ironwood, MI",1
-562,"Irvine, CA",3
-756,"Islip, NY",2
-465,"Issaquah, WA",3
-466,"Ithaca, NY",3
-1968,"Ithaca, NY, NY",1
-897,"Jackson, IL",2
-2801,"Jackson, MI",1
-143,"Jackson, MS",6
-2613,"Jackson, MS, virtual",1
-2955,"Jackson, NJ",1
-452,"Jackson, TN",3
-2756,"Jackson, WY",1
-958,"Jacksonville, AL",2
-102,"Jacksonville, FL",8
-1904,"Jacksonville, FL, FL",1
-1234,"Jacksonville, IL",1
-1596,"Jacksonville, NC",1
-1371,"Jacksonville, TX",1
-1462,"Jamaica Plain, MA",1
-2362,"Jamestown, ND",1
-2218,"Jamestown, NY",1
-2311,"Janesville, WI",1
-2192,"Jasper, AL",1
-2462,"Jasper, IN",1
-1881,"Jasper, TX",1
-1542,"Jefferson City, MO",1
-2642,"Jefferson, GA",1
-1240,"Jeffersonville, GA",1
-1029,"Jeffersonville, IN",2
-2283,"Jensen Beach, FL",1
-1357,"Jericho, NY",1
-398,"Jersey City, NJ",3
-1739,"Jersey City, NJ, NJ",1
-1143,"Jerseyville, IL",1
-1787,"Jesup, GA",1
-969,"John Day, OR",2
-145,"Johnson City, TN",6
-782,"Johnstown, PA",2
-301,"Joliet, IL",4
-292,"Jonesboro, AR",4
-1951,"Jonesboro, GA",1
-463,"Joplin, MO",3
-2986,"Joshua Tree, CA",1
-2680,"Joshua Tree/Twentynine Palms/Yucca Valley, CA",1
-2468,"Julian, CA",1
-929,"Junction City, KS",2
-787,"Juneau, AK",2
-1069,"Jupiter, FL",2
-1042,"Kahului, HI",2
-362,"Kailua-Kona, HI",3
-1294,"Kalama, WA",1
-124,"Kalamazoo, MI",7
-1720,"Kalispell, MT",1
-2550,"Kanab, UT",1
-1193,"Kane, IL",1
-2914,"Kankakee, IL",1
-354,"Kansas City, KS",3
-45,"Kansas City, MO",12
-1909,"Kansas City, MO, MO",1
-1752,"Kansasville, WI",1
-2239,"Kapolei, HI",1
-1564,"Kasson, MN",1
-1238,"Katonah, NY, NY",1
-2673,"Katy, TX",1
-2860,"Keansburg, NJ",1
-959,"Kearney, NE",2
-665,"Keene Valley, NY",2
-710,"Keene, NH",2
-1345,"Keene, NH, NH",1
-2041,"Keene, NY",1
-2800,"Keller, TX",1
-581,"Kennebunk, ME",2
-778,"Kennesaw, GA",2
-1816,"Kennett Square, PA",1
-432,"Kennewick, WA",3
-635,"Kenosha, WI",2
-1744,"Kent, CT",1
-185,"Kent, OH",5
-653,"Keokuk, IA",2
-2536,"Kerrville, TX",1
-825,"Ketchikan, AK",2
-2012,"Ketchum, ID",1
-2858,"Kettering, OH",1
-1070,"Kewanee, IL",2
-1130,"Key Largo, FL",1
-821,"Key West, FL",2
-2656,"Key West, FL, FL",1
-1985,"Keyser, WV",1
-1692,"Kiel, WI",1
-337,"Killeen, TX",3
-1983,"Killingly, CT",1
-3068,"Kilmarnock, VA",1
-801,"King of Prussia, PA",2
-1957,"Kingfield, ME",1
-2110,"Kingman, AZ",1
-1990,"Kingsport, TN",1
-1709,"Kingston, MA",1
-612,"Kingston, NY",2
-2453,"Kingston, PA",1
-1964,"Kingsville, TX",1
-1736,"Kinston, NC",1
-926,"Kirkland, WA",2
-1279,"Kirksville, MO",1
-655,"Kirkwood, MO",2
-2388,"Kissimmee, FL",1
-2374,"Kittanning, PA",1
-858,"Klamath Falls, OR",2
-1848,"Knightdale, NC",1
-125,"Knoxville, TN",7
-2299,"Knoxville, TN, TN",1
-972,"Kodiak, AK",2
-526,"Kokomo, IN",3
-3093,"Kotzebue, AK",1
-1485,"Kutztown, PA",1
-1421,"La Cañada Flintridge, CA",1
-1928,"La Center, WA",1
-2168,"La Conner, WA",1
-2365,"La Crescenta-Montrose, CA",1
+2870,"Floyd, VA",1
+1216,"Folsom, CA",1
+1415,"Fond du Lac, WI",1
+343,"Fontana, CA",4
+2239,"Fontana, CA, CA",1
+2198,"Forest City, IA",1
+214,"Forest Grove, OR",5
+1261,"Forest Grove, OR, OR",1
+2883,"Forest Hills, NY",1
+2187,"Forest Lake, MN",1
+2948,"Forest Lake, Minnesota",1
+1935,"Forks, WA",1
+1324,"Fort Atkinson, WI",1
+751,"Fort Bragg, CA",2
+88,"Fort Collins, CO",9
+3211,"Fort Dodge, IA",1
+3262,"Fort Fort Stockton, TX",1
+2624,"Fort Kent, ME",1
+329,"Fort Lauderdale, FL",4
+1241,"Fort Lauderdale, FL, FL",1
+2186,"Fort Mill, SC",1
+3010,"Fort Mill, South Carolina",1
+2819,"Fort Mitchell, KY",1
+2911,"Fort Monroe, VA",1
+77,"Fort Myers, FL",9
+2516,"Fort Payne, AL",1
+1683,"Fort Pierce, FL",1
+1232,"Fort Scott, KS",1
+1000,"Fort Smith, AR",2
+990,"Fort Stockton, TX",2
+943,"Fort Walton Beach, FL",2
+655,"Fort Washington, CA",2
+63,"Fort Wayne, IN",10
+136,"Fort Worth, TX",7
+2842,"Fortuna, CA",1
+741,"Fostoria, OH",2
+1868,"Fountain Hills, AZ",1
+665,"Fountain Valley, CA",2
+3079,"Foxborough, MA",1
+190,"Framingham, MA",5
+2618,"Framingham, MA, MA",1
+2157,"Frankford, DE",1
+2007,"Frankfort, KY",1
+1664,"Franklin Township, NJ",1
+3265,"Franklin, KY",1
+2563,"Franklin, NJ",1
+809,"Franklin, TN",2
+2070,"Franklin, VA",1
+586,"Franklinville, NJ",3
+2274,"Frankton, IN",1
+1888,"Fraser, CO",1
+2589,"Frazier Park, CA, CA",1
+425,"Frederick, MD",3
+1635,"Fredericksburg, TX",1
+53,"Fredericksburg, VA",11
+3127,"Frederiksted, U.S. Virgin Islands",1
+2235,"Fredonia, NY",1
+1681,"Fredricksburg, TX",1
+739,"Freeburg, IL",2
+918,"Freehold Township, NJ",2
+842,"Freehold, NJ",2
+447,"Freeport, IL",3
+237,"Freeport, NY",5
+1946,"Fremont / Newark, CA",1
+111,"Fremont, CA",8
+777,"Fremont, NE",2
+988,"Fremont, OH",2
+182,"Fresno, CA",6
+673,"Friday Harbor, WA",2
+2806,"Fridley, MN",1
+3238,"Friendswood, TX",1
+621,"Frisco, TX",2
+1200,"Frisco, TX, TX",1
+2464,"Front Royal, VA",1
+3148,"Frontenac, MO",1
+1978,"Frostburg, MD",1
+1881,"Ft Lauderdale, FL",1
+1363,"Ft. Dodge, IA",1
+2447,"Ft. Fort Stockton, TX",1
+2203,"Ft. Wayne, IN",1
+2211,"Ft. Worth, TX",1
+515,"Fullerton, CA",3
+1266,"Fulton, MO",1
+2107,"Gadsden County, FL",1
+775,"Gadsden, AL",2
+2714,"Gaffney, SC",1
+114,"Gainesville, FL",7
+1515,"Gainesville, FL, FL",1
+644,"Gainesville, GA",2
+3153,"Gainesville, VA",1
+2735,"Gaithersberg, MD",1
+3074,"Gaithersburg, MD",1
+2698,"Galax, TX",1
+2599,"Galax, VA",1
+908,"Galesburg, IL",2
+2943,"Gallatin, TN",1
+3032,"Gallipolis, OH",1
+1012,"Gallup, NM",2
+2162,"Galveston, TX",1
+3013,"Garberville, CA",1
+2128,"Garden City, KS",1
+1570,"Garden City, NY",1
+3157,"Garden Grove, CA",1
+2823,"Gardner, KS",1
+1262,"Gardner, MA",1
+1293,"Garfield, NJ",1
+1102,"Garrettsville, OH",2
+891,"Gary, IN",2
+1843,"Gaylord, MI",1
+1929,"Geddes, NY",1
+1854,"Geneseo, NY",1
+2545,"Geneva, IL",1
+358,"Geneva, NY",4
+2746,"Georgetown, DE",1
+3163,"Georgetown, IL",1
+2160,"Georgetown, KY",1
+555,"Georgetown, SC",3
+917,"Georgetown, TX",2
+1645,"Germantown, MD",1
+2611,"Germantown, WI",1
+2058,"Gettysburg, PA",1
+3162,"Gibson City, IL",1
+2453,"Gifford, FL",1
+2446,"Gig Harbor, WA",1
+1397,"Gilbert, AZ",1
+1621,"Gillette, WY",1
+2601,"Gillette, Wyoming",1
+2292,"Gilroy, CA",1
+2655,"Gladwin, MI",1
+2183,"Glasgow, KY",1
+2098,"Glassboro, NJ",1
+2802,"Glastonbury, CT",1
+679,"Glen Cove, NY",2
+1155,"Glen Ellyn, IL",1
+2365,"Glen Falls, NY",1
+3280,"Glen Ridge, NJ",1
+451,"Glendale, CA",3
+1194,"Glendale, MO",1
+2076,"Glendora, CA",1
+710,"Glens Falls, NY",2
+460,"Glenview, IL",3
+3171,"Glenwood Springs, CO",1
+1222,"Gloucester City, NJ",1
+543,"Gloucester, MA",3
+1176,"Gloucester, VA",1
+1907,"Golden, CO",1
+984,"Goldsboro, NC",2
+1592,"Gonzales, LA",1
+2808,"Goodyear, AZ",1
+750,"Gorham, ME",2
+2964,"Gorham, NH",1
+656,"Goshen, IA",2
+587,"Goshen, IN",3
+995,"Goshen, NY",2
+2739,"Grafton, MA",1
+1945,"Grafton, Massachusetts",1
+1285,"Grafton, WI",1
+603,"Graham, NC",2
+1753,"Granbury, TX",1
+1309,"Granby, CT",1
+2459,"Grand Blanc, MI",1
+443,"Grand Forks, ND",3
+1721,"Grand Forks, ND, ND",1
+185,"Grand Island, NE",5
+562,"Grand Junction, CO",3
+1666,"Grand Junction, CO, CO",1
+1865,"Grand Marais, MN",1
+1924,"Grand Marais, MN, MN",1
+3183,"Grand Prairie, TX",1
+73,"Grand Rapids, MI",10
+1557,"Grandview, WA",1
+1595,"Granite City, IL",1
+1070,"Granite Falls, WA",2
+413,"Grants Pass, OR",3
+3045,"Granville, OH",1
+3309,"Grass Valley, CA",1
+2717,"Grayslake, IL",1
+2416,"Grayslake, Illinois",1
+458,"Great Barrington, MA",3
+1029,"Great Bend, KS",2
+1338,"Great Falls, MI",1
+414,"Great Falls, MT",3
+1817,"Greeley, CO",1
+1667,"Green Bay, MN",1
+169,"Green Bay, WI",6
+2379,"Green Valley, AZ",1
+3134,"Greencastle, IN",1
+2985,"Greencastle, PA",1
+912,"Greendale, WI",2
+3068,"Greeneville, TN",1
+376,"Greenfield, IN",3
+522,"Greenfield, MA",3
+1532,"Greenfield, MA, virtual",1
+2085,"Greenlawn, NY",1
+2557,"Greenport, NY",1
+89,"Greensboro, NC",9
+1322,"Greensboro, NC, NC",1
+1033,"Greensburg, PA",2
+2666,"Greenville, KY",1
+661,"Greenville, NC",2
+2280,"Greenville, PA",1
+3197,"Greenville, Pennsylvania",1
+138,"Greenville, SC",7
+846,"Greenville, TX",2
+1084,"Greenwich, CT",2
+2504,"Greenwood, IN",1
+2778,"Greenwood, MS",1
+2529,"Greenwood, SC",1
+1120,"Gresham, OR",2
+1375,"Gretna, LA",1
+3270,"Griffith, IN",1
+3219,"Griswold, CT",1
+2011,"Grosse Ile, MI",1
+2636,"Grosse Point - Detroit, MI",1
+2364,"Grosse Pointe Woods, MI",1
+2216,"Groton, CT",1
+3249,"Grottoes, VA",1
+1857,"Grottoes, Virginia",1
+1492,"Grove City, OH",1
+2527,"Grove City, PA",1
+1991,"Grove City, Pennsylvania",1
+1543,"Grove, OK",1
+2178,"Grover Beach, CA",1
+1650,"Groveton, GA",1
+2700,"Grovetown, GA",1
+2233,"Grundy Center, IA",1
+3087,"Guilford, CT",1
+1587,"Guilford, ME",1
+1990,"Gulfport, MS",1
+1311,"Gunnison, CO",1
+2145,"HOUSTON, TX, virtual",1
+706,"Hackensack, NJ",2
+2774,"Hackensack, New Jersey",1
+3301,"Hackettstown, NJ",1
+2982,"Haddonfield, NJ",1
+450,"Hagerstown, MD",3
+967,"Hagåtña, Guam",2
+2087,"Hailey, ID",1
+1263,"Haines City, FL",1
+764,"Haines, AK",2
+749,"Half Moon Bay, CA",2
+2650,"Half Moon Bay, CA, CA",1
+1307,"Half Moon Bay, California",1
+1077,"Hallandale Beach, FL",2
+3196,"Hamburg, PA",1
+569,"Hamden, CT",3
+2904,"Hamden, CT, CT",1
+841,"Hamilton, MT",2
+1095,"Hamilton, NJ",2
+1401,"Hamilton, NY",1
+1775,"Hamilton, New York",1
+274,"Hamilton, OH",4
+1073,"Hammond, IN",2
+3028,"Hammond, LA",1
+2285,"Hampton Beach, NH",1
+2004,"Hampton Roads, VA",1
+1565,"Hampton, NH",1
+209,"Hampton, VA",5
+2161,"Hanalei, HI",1
+2667,"Hancock Park, CA",1
+453,"Hancock, MI",3
+1455,"Hanford, CA",1
+564,"Hannibal, MO",3
+1921,"Hanover, NH",1
+418,"Hanover, PA",3
+1283,"Happy Valley, OR",1
+1716,"Harlan, KY",1
+2631,"Harlingen, TX",1
+821,"Harrisburg, NC",2
+131,"Harrisburg, PA",7
+3161,"Harrisburg, PA, PA",1
+2632,"Harrison, AR",1
+1841,"Harrison, Arkansas",1
+617,"Harrisonburg, VA",2
+3006,"Harrodsburg, KY",1
+28,"Hartford, CT",15
+3305,"Harvard, NE",1
+1837,"Harvey, LA",1
+1500,"Harvey, Louisiana",1
+3059,"Harwich, MA",1
+2550,"Hasbrouck Heights, NJ",1
+2591,"Hastings, NE",1
+1062,"Hattiesburg, MS",2
+1853,"Haughton, LA",1
+788,"Haverhill, MA",2
+1223,"Haviland, KS",1
+2029,"Havre de Grace, MD",1
+1986,"Havre, MT",1
+3097,"Haw River, NC",1
+2556,"Hawley, PA",1
+803,"Hawthorne, NJ",2
+1433,"Hays, KS",1
+208,"Hayward, CA",5
+2382,"Hayward, WI",1
+1242,"Hazard, KY",1
+914,"Healdburg, CA",2
+2764,"Healdsburg, CA",1
+1974,"Healdsburg, California",1
+1454,"Healy, AK",1
+1419,"Hebron, CT",1
+1147,"Heflin, AL",1
+470,"Helena, MT",3
+1171,"Hemet, CA",1
+528,"Hempstead, NY",3
+1043,"Henderson, KY",2
+2604,"Henderson, NC",1
+424,"Hendersonville, NC",3
+695,"Hermiston, OR",2
+913,"Hermitage, PA",2
+2762,"Hernando, MS",1
+3123,"Herndon, VA",1
+2217,"Herndon, Virginia",1
+2878,"Herrin, IL",1
+1917,"Hewlett, NY",1
+1407,"Hiawassee, GA",1
+817,"Hibbing, MN",2
+2909,"Hickory, NC",1
+968,"High Point, NC",2
+3046,"Highland Falls, NY",1
+1870,"Highland Park, IL",1
+2325,"Highland Park, IL, IL",1
+1605,"Highland Park, MI",1
+2575,"Highland Park, NJ",1
+2783,"Highland Springs, VA",1
+3235,"Highland, CA",1
+1527,"Highland, IL",1
+1226,"Hightstown, NJ",1
+2839,"Hillcrest, CA",1
+793,"Hilliard, OH",2
+1167,"Hillsboro, OH",1
+471,"Hillsboro, OR",3
+2221,"Hillsborough, NC",1
+3159,"Hillsdale, NJ",1
+3189,"Hillside, NJ",1
+306,"Hilo, HI",4
+2547,"Hinesburg, VT",1
+2707,"Hinesville, GA",1
+2062,"Hinesville, Georgia",1
+2168,"Hinsdale, IL",1
+2781,"Hobart, IL",1
+2265,"Hobart, IN",1
+1526,"Hobe Sound, FL",1
+2302,"Hoboken, NJ",1
+3203,"Holbrook, MA",1
+2102,"Holden, MA, MA",1
+363,"Holland, MI",3
+2355,"Hollidaysburg, PA",1
+2646,"Hollister, CA",1
+3188,"Holly Springs, NC",1
+627,"Hollywood, CA",2
+774,"Hollywood, FL",2
+1850,"Holyoke, MA",1
+104,"Homer, AK",8
+1612,"Homer, NY",1
+2151,"Homestead, FL",1
+1809,"Homewood, AL",1
+3140,"Homewood, IL",1
+2614,"Honesdale, PA",1
+2437,"Honesdale, Pennsylvania",1
+3169,"Honesville, NY",1
+145,"Honolulu, HI",6
+349,"Hood River, OR",4
+1459,"Hood Rivier, OR",1
+374,"Hoover, AL",3
+3281,"Hopewell, NJ",1
+423,"Hopkinsville, KY",3
+3258,"Hopkinton, MA",1
+3252,"Hopland, CA",1
+2695,"Hoquiam, WA",1
+1289,"Hornell, NY",1
+1270,"Hot Springs, AR",1
+416,"Houghton, MI",3
+2625,"Houlton, ME",1
+411,"Houma, LA",3
+139,"Houston, TX",7
+1788,"Howe, TX",1
+3158,"Howell, MI",1
+1275,"Howell, Michigan",1
+2432,"Huber Heights, OH",1
+1899,"Hudson, NY",1
+1161,"Hudson, OH",1
+1989,"Humboldt, TN",1
+1954,"Humboldt, Tennessee",1
+1173,"Hummelstown, PA",1
+3256,"Huntersville, NC",1
+1384,"Huntingdon, PA",1
+273,"Huntington Beach, CA",4
+3251,"Huntington Woods, MI",1
+2248,"Huntington, IN",1
+354,"Huntington, NY",4
+2993,"Huntington, OH",1
+1277,"Huntington, TX",1
+1792,"Huntington, WV",1
+112,"Huntsville, AL",8
+763,"Huntsville, TX",2
+1704,"Huron, MI",1
+472,"Hutchinson, KS",3
+2263,"Hutto, TX, TX",1
+1048,"Hyannis, MA",2
+388,"Idaho Falls, ID",3
+1376,"Immokalee, FL",1
+1693,"Imperial Beach, CA",1
+1732,"Indiana, PA",1
+3132,"Indianapolis, IA",1
+24,"Indianapolis, IN",15
+2460,"Indiantown, FL",1
+804,"Indio, CA",2
+3304,"Inglewood, CA",1
+1859,"Ionia, MI",1
+37,"Iowa City, IA",13
+1066,"Iowa City, IO",2
+3019,"Iowa City, Iowa",1
+799,"Iron Mountain, MI",2
+1866,"Ironwood, MI",1
+269,"Irvine, CA",4
+2484,"Irwin, PA",1
+702,"Islip, NY",2
+536,"Issaquah, WA",3
+499,"Ithaca, NY",3
+1276,"Ithaca, NY, NY",1
+652,"Jackson, IL",2
+3112,"Jackson, MI",1
+158,"Jackson, MS",6
+1588,"Jackson, MS, virtual",1
+1279,"Jackson, NJ",1
+345,"Jackson, TN",4
+816,"Jackson, WY",2
+3120,"Jacksonville Beach, FL",1
+681,"Jacksonville, AL",2
+97,"Jacksonville, FL",8
+3122,"Jacksonville, FL, FL",1
+1288,"Jacksonville, IL",1
+2094,"Jacksonville, NC",1
+2027,"Jacksonville, TX",1
+1902,"Jamaica Plain, MA",1
+1644,"Jamestown, ND",1
+1734,"Jamestown, NY",1
+992,"Janesville, WI",2
+1483,"Jasper, AL",1
+3215,"Jasper, IN",1
+1836,"Jasper, TX",1
+1428,"Jefferson City, MO",1
+2561,"Jefferson, GA",1
+2286,"Jeffersonville, GA",1
+664,"Jeffersonville, IN",2
+1481,"Jensen Beach, FL",1
+2201,"Jericho, NY",1
+372,"Jersey City, NJ",3
+1597,"Jersey City, NJ, NJ",1
+2761,"Jerseyville, IL",1
+2010,"Jesup, GA",1
+888,"John Day, OR",2
+2435,"Johns Creek, GA",1
+174,"Johnson City, TN",6
+769,"Johnstown, PA",2
+304,"Joliet, IL",4
+252,"Jonesboro, AR",4
+3002,"Jonesboro, GA",1
+255,"Joplin, MO",4
+2264,"Joshua Tree, CA",1
+2172,"Joshua Tree/Twentynine Palms/Yucca Valley, CA",1
+1656,"Julian, CA",1
+972,"Junction City, KS",2
+965,"Juneau, AK",2
+1133,"Jupiter, FL",2
+963,"Kahului, HI",2
+430,"Kailua-Kona, HI",3
+2042,"Kalama, WA",1
+117,"Kalamazoo, MI",7
+2387,"Kalispell, MT",1
+3268,"Kanab, UT",1
+1811,"Kanab, Utah",1
+2872,"Kankakee, IL",1
+538,"Kansas City, KS",3
+50,"Kansas City, MO",12
+2701,"Kansas City, MO, MO",1
+1434,"Kansasville, WI",1
+2672,"Kapolei, HI",1
+2981,"Kasson, MN",1
+1610,"Katonah, NY, NY",1
+2541,"Katy, TX",1
+1491,"Katy, Texas",1
+1211,"Keansburg, NJ",1
+632,"Kearney, NE",2
+765,"Keene Valley, NY",2
+383,"Keene, NH",3
+2245,"Keene, NH, NH",1
+2837,"Keene, NY",1
+2533,"Keller, TX",1
+861,"Kennebunk, ME",2
+843,"Kennesaw, GA",2
+2900,"Kennett Square, PA",1
+492,"Kennewick, WA",3
+485,"Kenosha, WI",3
+1274,"Kent, CT",1
+172,"Kent, OH",6
+604,"Keokuk, IA",2
+1631,"Kerrville, TX",1
+607,"Ketchikan, AK",2
+2931,"Ketchum, ID",1
+3173,"Kettering, OH",1
+717,"Kewanee, IL",2
+3111,"Key Largo, FL",1
+892,"Key West, FL",2
+2564,"Key West, FL, FL",1
+1297,"Keyser, WV",1
+2686,"Kiel, WI",1
+437,"Killeen, TX",3
+1250,"Killingly, CT",1
+2738,"Kilmarnock, VA",1
+1125,"King of Prussia, PA",2
+2133,"Kingfield, ME",1
+2891,"Kingman, AZ",1
+2791,"Kingsport, TN",1
+1915,"Kingston, MA",1
+1115,"Kingston, NY",2
+3231,"Kingston, PA",1
+2381,"Kingsville, TX",1
+2289,"Kinston, NC",1
+880,"Kirkland, WA",2
+2002,"Kirksville, MO",1
+556,"Kirkwood, MO",3
+2722,"Kissimmee, FL",1
+2073,"Kittanning, PA",1
+1013,"Klamath Falls, OR",2
+3165,"Knightdale, NC",1
+109,"Knoxville, TN",8
+1834,"Knoxville, TN, TN",1
+1019,"Kodiak, AK",2
+523,"Kokomo, IN",3
+2747,"Kotzebue, AK",1
+2185,"Kremmling, CO",1
+3030,"Kutztown, PA",1
+1149,"La Cañada Flintridge, CA",1
+1803,"La Center, WA",1
+2278,"La Conner, WA",1
+1214,"La Crescenta-Montrose, CA",1
 187,"La Crosse, WI",5
-2476,"La Grande, OR",1
-2660,"La Grange, IL",1
-2746,"La Habra, CA",1
-2607,"La Marque, TX",1
-437,"La Mesa, CA",3
-2278,"La Mirada, CA",1
-1982,"La Plata, MD",1
-1930,"La Porte, IN",1
-2452,"La Porte, TX",1
-2240,"La Puente, CA",1
-1926,"La Quinta, CA",1
-1836,"La Salle, IL",1
-1645,"La Verne, CA",1
-2069,"LaCrosse, WI",1
-1156,"LaGrange, GA",1
-2920,"LaPlace, LA, LA",1
-2028,"LaSalle, IL",1
-1716,"Lafayette, CA",1
-2103,"Lafayette, CO, CO",1
-2356,"Lafayette, IA",1
-266,"Lafayette, IN",4
-1426,"Lafayette, IN, IN",1
-281,"Lafayette, LA",4
-374,"Laguna Beach, CA",3
-3090,"Laguna Niguel, CA",1
-2035,"Laguna Woods, CA",1
-657,"Lake Charles, LA",2
-2295,"Lake City, FL",1
-2572,"Lake Elsinore, CA",1
-1249,"Lake Forest Park, WA",1
-1795,"Lake Forest, CA",1
-2080,"Lake Forest, IL",1
-2569,"Lake Forest, WA",1
-873,"Lake Havasu City, AZ",2
-3022,"Lake Havasu, AZ",1
-1496,"Lake Havasu, CA",1
-1560,"Lake Mills, WI",1
-2325,"Lake Nona, FL",1
-1300,"Lake Orion, MI",1
-2994,"Lake Oswego, OR",1
-2808,"Lake Oswego, OR, OR",1
-1880,"Lake Placid, NY",1
-1292,"Lake Station, IN",1
-2537,"Lake Stevens, WA",1
-2741,"Lake Tahoe, CA",1
-1492,"Lake Worth Beach, FL",1
-3103,"Lake Worth, FL",1
-1809,"Lake Zurich, IL",1
-961,"Lakeland, FL",2
-2060,"Lakewood, CA",1
-1128,"Lakewood, NJ",1
-2608,"Lakewood, OH",1
-1992,"Lakewood, WA",1
-1640,"Lambertville, MI",1
-602,"Lambertville, NJ",2
-2344,"Lampasas, TX",1
-1577,"Lancaster, CA",1
-1122,"Lancaster, OH",1
-258,"Lancaster, PA",4
-2516,"Lancaster, SC",1
-2483,"Lansdowne, PA",1
-40,"Lansing, MI",12
-1229,"Lansing, MI, MI",1
-1741,"Lansing, PA",1
-1068,"Lapeer, MI",2
-257,"Laramie, WY",4
-500,"Laredo, TX",3
-110,"Las Cruces, NM",7
-38,"Las Vegas, NV",12
-2690,"Lathrop, CA",1
-1637,"Latrobe, PA",1
-2407,"Laurel, MA",1
-1828,"Laurel, MD",1
-2765,"Laurinburg, NC",1
-1918,"Lawrence, KS",1
-498,"Lawrence, MA",3
-508,"Lawrenceville, GA",3
-2815,"Lawrenceville, VA",1
-977,"Lawton, OK",2
-2360,"Layfayette, LA",1
-775,"Le Mars, IA",2
-948,"League City, TX",2
-1014,"Leavenworth, KS",2
-1687,"Leavenworth, WA",1
-898,"Lebanon, KY",2
-2083,"Lebanon, MO",1
-2917,"Lebanon, OH",1
-616,"Lebanon, OR",2
-1505,"Lebanon, PA",1
-2181,"Lebanon, TN",1
-3046,"Lebanon, VA",1
-2459,"Lebec, CA, CA",1
-1785,"Ledyard, CT",1
-1352,"Leesburg, FL",1
-2510,"Leesburg, VA",1
-630,"Leesville, LA",2
-1832,"Lehigh Acres, FL",1
-1638,"Lehighton, PA",1
-2026,"Leisure World, MD",1
-1098,"Leitchfield, KY",2
-2166,"Lemoore, CA",1
-2027,"Lenoir, NC",1
-3066,"Leominster, MA",1
-2171,"Leonardtown, MD",1
-1142,"Levelland, TX",1
-1743,"Levittown, PA",1
-3038,"Lewisburg, PA",1
-1563,"Lewisburg, WV",1
-1546,"Lewiston, ID",1
-269,"Lewiston, ME",4
-1178,"Lewisville, TX",1
-16,"Lexington, KY",17
-1610,"Lexington, MA",1
-2529,"Lexington, NC",1
-2500,"Lexington, VA",1
-2799,"Libby, MT",1
-3058,"Liberal, KS",1
-2649,"Liberty, OH",1
-2079,"Lihue, HI",1
-1517,"Lihue, HI, HI",1
-1742,"Lima, OH",1
-1185,"Lincoln City, OR",1
-2857,"Lincoln Park, MI",1
+2538,"La Grande, OR",1
+1509,"La Grange, IL",1
+3271,"La Habra, CA",1
+2296,"La Marque, TX",1
+574,"La Mesa, CA",3
+2210,"La Plata, MD",1
+2640,"La Porte, IN",1
+2117,"La Porte, TX",1
+3043,"La Porte, Texas",1
+2383,"La Puente, CA",1
+3247,"La Quinta, CA",1
+2812,"La Salle, IL",1
+1421,"La Verne, CA",1
+1425,"LaCrosse, WI",1
+2830,"LaGrange, GA",1
+1418,"LaPlace, LA, LA",1
+1312,"LaSalle, IL",1
+1496,"Lafayette, CA",1
+2772,"Lafayette, CO, CO",1
+2567,"Lafayette, IA",1
+335,"Lafayette, IN",4
+1177,"Lafayette, IN, IN",1
+295,"Lafayette, LA",4
+421,"Laguna Beach, CA",3
+2849,"Laguna Niguel, CA",1
+2487,"Laguna Woods, CA",1
+733,"Lake Charles, LA",2
+3058,"Lake City, FL",1
+3050,"Lake Elsinore, CA",1
+3083,"Lake Forest Park, WA",1
+1537,"Lake Forest, CA",1
+1210,"Lake Forest, IL",1
+1567,"Lake Forest, WA",1
+1032,"Lake Havasu City, AZ",2
+1984,"Lake Havasu, AZ",1
+3003,"Lake Havasu, CA",1
+1637,"Lake Mills, WI",1
+2271,"Lake Nona, FL",1
+1879,"Lake Orion, MI",1
+2671,"Lake Oswego, OR",1
+1846,"Lake Oswego, OR, OR",1
+2926,"Lake Placid, NY",1
+2072,"Lake Station, IN",1
+1400,"Lake Stevens, WA",1
+1193,"Lake Stevens, Washington",1
+2690,"Lake Tahoe, CA",1
+1746,"Lake Worth Beach, FL",1
+2101,"Lake Worth, FL",1
+1613,"Lake Zurich, IL",1
+791,"Lakeland, FL",2
+3300,"Lakewood, CA",1
+2691,"Lakewood, NJ",1
+1551,"Lakewood, OH",1
+2339,"Lakewood, WA",1
+3047,"Lambertville, MI",1
+1006,"Lambertville, NJ",2
+2965,"Lampasas, TX",1
+2546,"Lampasas, Texas",1
+1628,"Lancaster, CA",1
+812,"Lancaster, OH",2
+2208,"Lancaster, Ohio",1
+242,"Lancaster, PA",5
+1444,"Lancaster, SC",1
+1710,"Lansdowne, PA",1
+49,"Lansing, MI",12
+2511,"Lansing, MI, MI",1
+1523,"Lansing, PA",1
+1026,"Lapeer, MI",2
+234,"Laramie, WY",5
+371,"Laredo, TX",3
+127,"Las Cruces, NM",7
+25,"Las Vegas, NV",15
+2291,"Lathrop, CA",1
+2485,"Latrobe, PA",1
+1402,"Laurel, MA",1
+2674,"Laurel, MD",1
+1847,"Laurinburg, NC",1
+1351,"Lawrence, KS",1
+291,"Lawrence, MA",4
+579,"Lawrenceville, GA",3
+2220,"Lawrenceville, VA",1
+693,"Lawton, OK",2
+2644,"Layfayette, LA",1
+866,"Le Mars, IA",2
+870,"League City, TX",2
+1116,"Leavenworth, KS",2
+3001,"Leavenworth, WA",1
+813,"Lebanon, KY",2
+2470,"Lebanon, MO",1
+2845,"Lebanon, OH",1
+926,"Lebanon, OR",2
+1399,"Lebanon, PA",1
+2532,"Lebanon, Pennsylvania",1
+1673,"Lebanon, TN",1
+1514,"Lebanon, VA",1
+1995,"Lebec, CA, CA",1
+2536,"Ledyard, CT",1
+2180,"Leesburg, FL",1
+2400,"Leesburg, VA",1
+1061,"Leesville, LA",2
+1278,"Leesville, Louisiana",1
+1359,"Lehigh Acres, FL",1
+3292,"Lehighton, PA",1
+1708,"Leisure World, MD",1
+1014,"Leitchfield, KY",2
+2765,"Lemoore, CA",1
+1822,"Lenoir, NC",1
+1247,"Leominster, MA",1
+1411,"Leonardtown, MD",1
+1535,"Levelland, TX",1
+2721,"Levittown, PA",1
+1773,"Lewisburg, PA",1
+1654,"Lewisburg, WV",1
+2884,"Lewisburg, West Virginia",1
+2958,"Lewiston, ID",1
+198,"Lewiston, ME",5
+2754,"Lewisville, TX",1
+15,"Lexington, KY",18
+2425,"Lexington, MA",1
+1616,"Lexington, NC",1
+1498,"Lexington, VA",1
+2164,"Libby, MT",1
+2055,"Liberal, KS",1
+2006,"Liberty, OH",1
+2023,"Lihue, HI",1
+2498,"Lihue, HI, HI",1
+641,"Lima, OH",2
+1719,"Lincoln City, OR",1
+2308,"Lincoln Park, MI",1
 81,"Lincoln, NE",9
-1387,"Linden, NJ",1
-546,"Lindenhurst, NY",3
-3004,"Litchfield, CT",1
-2535,"Lititz, PA",1
-1955,"Little Elm, TX",1
-1217,"Little Rock, AK",1
-73,"Little Rock, AR",9
-2946,"Little Rock, AR, AR",1
-1213,"Littleton, NH",1
-2936,"Livermore, CA",1
-859,"Livingston Manor, NY",2
-1575,"Livingston, NJ",1
-299,"Livonia, MI",4
-2319,"Lock Haven, PA",1
-2100,"Lockhart, TX",1
-3056,"Lockport, NY",1
-1966,"Locust Grove, VA",1
-251,"Lodi, CA",4
-1815,"Logan, UT",1
-2377,"Logan, WV",1
-1248,"Loganville, GA",1
-779,"Lompoc, CA",2
-1580,"London, KY",1
-3030,"Londonderry, NH",1
-2795,"Long Beach Island, NJ",1
-144,"Long Beach, CA",6
-2004,"Long Beach, NJ",1
-2378,"Long Beach, NY",1
-738,"Long Branch, NJ",2
-1225,"Long Island, NY",1
-1358,"Longmeadow, MA, MA",1
-543,"Longmont, CO",3
-2798,"Longmont, CO, CO",1
-290,"Longview, TX",4
-428,"Longview, WA",3
-1189,"Lopez Island, WA",1
-2584,"Lorain, OH",1
-1085,"Los Alamitos, CA",2
-2345,"Los Alamos, NM",1
-3006,"Los Alamos, NM, NM",1
-727,"Los Altos, CA",2
-12,"Los Angeles, CA",18
-2397,"Los Angeles, CA, virtual",1
-3099,"Los Banos, CA",1
-1100,"Los Gatos, CA",1
-2,"Louisville, KY",22
-2034,"Louisville, KY, KY",1
-2340,"Loveland, CO",1
-1767,"Lowell, IL",1
-960,"Lowell, MA",2
-1621,"Lower Peninsula, MI",1
-1099,"Lowville, NY",1
-669,"Loyalton, CA",2
-1688,"Loíza, Puerto Rico",1
-476,"Lubbock, TX",3
-470,"Ludington, MI",3
-1392,"Ludlow, VT",1
-2427,"Ludowici, GA",1
-783,"Lufkin, TX",2
-940,"Lumberton, NC",2
-1663,"Lyme, CT",1
-118,"Lynchburg, VA",7
-2832,"Lynn Haven, FL",1
-795,"Lynn, MA",2
-3060,"Lynnwood, WA",1
-1958,"Machias, ME",1
-2571,"Mackinac Island, MI",1
-906,"Macomb, IL",2
-1721,"Macomb, IL, IL",1
-2007,"Macomb, MI",1
-224,"Macon, GA",5
-1380,"Madera, CA",1
-925,"Madison, CT",2
-2918,"Madison, NJ",1
-21,"Madison, WI",15
-2753,"Madison, WI, WI",1
-883,"Madisonville, KY",2
-2343,"Madrid, Spain",1
-1973,"Magdalena, NM",1
-3005,"Mahomet, IL",1
-1558,"Mahwah, NJ",1
-2469,"Maine Township, IL",1
-840,"Malibu, CA",2
-2687,"Malverne, NY",1
-291,"Manassas, VA",4
-1454,"Manchester Center, VT, VT",1
-458,"Manchester, CT",3
-373,"Manchester, NH",3
-2146,"Manchester, NJ",1
-2648,"Manchester, VT",1
-2392,"Mandaree, ND, ND",1
-385,"Manhattan Beach, CA",3
-225,"Manhattan, KS",5
-457,"Manhattan, NY",3
-2182,"Manheim Township, PA",1
-1167,"Manheim, PA",1
-1356,"Manitowoc, WI",1
-2907,"Mankato, MN",1
-1187,"Manlius, NY",1
-1671,"Mansfield, MA",1
-1623,"Mansfield, OH",1
-2611,"Mansfield, PA",1
-1467,"Mansfield, TX",1
-2020,"Manzanita, OR, OR",1
-2581,"Maple Valley, WA",1
-1333,"Maplewood, MN",1
-2599,"Maplewood, NJ",1
-1111,"Maquoketa, IA",1
-1908,"Marblehead, MA",1
-670,"Marco Island, FL",2
-1196,"Marfa, TX",1
-472,"Maricopa, AZ",3
-155,"Marietta, GA",6
-353,"Marietta, OH",3
-1420,"Marietta, OH, OH",1
-2401,"Marin City, CA",1
-2661,"Marinette, WI",1
-1696,"Marinwood, CA",1
-390,"Marion, IL",3
-380,"Marion, IN",3
-2893,"Marion, NC",1
-651,"Marion, OH",2
-3014,"Marion, VA",1
-1948,"Marlborough, MA",1
-2482,Marquette,1
-160,"Marquette, MI",6
-1717,"Marrero, LA",1
-1602,"Marshall, MI",1
-2485,"Marshall, MO",1
-310,"Marshall, TX",4
-2977,"Marshalltown, IA",1
-2164,"Marshfield, MA",1
-2398,"Marshfield, WI",1
-1361,"Martha's Vineyard, MA",1
-1656,"Martin, TN",1
-918,"Martinsburg, WV",2
-2053,"Martinsville, IN",1
-817,"Martinsville, VA",2
-2939,"Maryland Heights, MO",1
-1149,"Marysville, CA",1
-1981,"Marysville, OH",1
-2744,"Maryville, MO",1
-2540,"Maryville, TN",1
-2193,"Mascoutah, IL",1
-2725,"Mashpee, MA",1
-383,"Mason City, IA",3
-2705,"Mason, OH",1
-2216,"Massapequa Park, NY",1
-2541,"Massena, NY",1
-1550,"Mastic, NY",1
-2227,"Mathews, VA",1
-2474,"Mattapoisett, MA",1
-2144,"Mattoon, IL",1
-971,"Maui, HI",2
-2206,"May 28, Chicago",1
-2180,"May 29, Chicago",1
-2787,"May 30, Chicago",1
-1626,"Maynard, MA",1
-1102,"Maywood, IL",1
-1359,"McAlester, OK",1
-2915,"McAllen, TX",1
-2579,"McCook, NE",1
-433,"McDonough, GA",3
-57,"McKinney, TX",10
-1844,"McLean, VA",1
-392,"McMinnville, OR",3
-1591,"McMinnville, TN",1
-1549,"Meadville, PA",1
-2863,"Mechanicville, NY, NY",1
-2158,"Medford, NJ",1
-540,"Medford, OR",3
-746,"Medina, OH",2
-647,"Melbourne, FL",2
-9,"Memphis, TN",19
-2055,"Menlo Park, CA",1
-2005,"Menominee, MI",1
-722,"Menomonee Falls, WI",2
-1006,"Menomonie, WI",2
-183,"Merced, CA",5
-863,"Mercer Island, WA",2
-646,"Meriden, CT",2
-1218,"Meriden, NH",1
-831,"Meridian, MS",2
-178,"Merrick, NY",5
-1729,"Merrillville, IN",1
-2754,"Merrimack, NH",1
-1693,"Mesa City, AZ",1
-532,"Mesa, AZ",3
-2830,"Mesquite, TX",1
-1684,"Metairie, LA",1
-1972,"Methuen, MA",1
-1473,"Metuchen, NJ",1
-2357,"Mexico, MO",1
-816,"Miami Beach, FL",2
-2811,"Miami Gardens, FL",1
-1710,"Miami Lakes, FL",1
-1252,"Miami Shores, FL",1
-25,"Miami, FL",14
-679,"Miami, OK",2
-1393,"Miamisburg, OH",1
-2965,"Michigan City, IN",1
-2127,"Middle River, MD",1
-2992,"Middle Township, NJ",1
-1004,"Middlebury, VT",2
-1822,"Middlesex, NJ",1
-518,"Middletown, CT",3
-1412,"Middletown, DE",1
-2185,"Middletown, NY",1
-492,"Middletown, OH",3
-2154,"Middletown, PA",1
-1478,"Midland, MI",1
-2400,"Midland, PA",1
-331,"Midland, TX",4
-1902,"Midlothian, TX",1
-2645,"Midpines, CA, CA",1
-618,"Mifflinburg, PA",2
-1432,"Milan, Italy",1
-1475,"Milford, CT",1
-3009,"Milford, DE",1
-2305,"Milford, MA",1
-2324,"Milford, OH",1
-2716,"Milford, PA",1
-2481,"Mill Creek, WA",1
-534,"Mill Valley, CA",3
-1691,"Millburn, NJ",1
-1307,"Milledgeville, GA",1
-2125,"Millersville, PA",1
-889,"Millerton, NY",2
-2242,"Millville, NJ",1
-1012,"Milton, MA",2
-2425,"Milton, PA",1
-1737,"Milton-Freewater, OR",1
-20,"Milwaukee, WI",16
-2297,"Milwaukee, WI, WI",1
-2337,"Milwaukie, OR",1
-905,"Minden, LA",2
-514,"Mineola, NY",3
-15,"Minneapolis, MN",17
-1611,"Minneapolis, virtual",1
-2734,"Minneapolis–St. Paul, MN",1
-911,"Minot, ND",2
-2942,"Mira Mesa, CA",1
-852,"Miramar, FL",2
-1019,"Mishawaka, IN",2
-2888,"Mission, TX",1
-71,"Missoula, MT",9
-1388,"Missouri City, TX",1
-1977,"Mitchell, SD",1
-639,"Moab, UT",2
-2303,"Moberly, MO",1
-469,"Mobile, AL",3
+2638,"Linden, NJ",1
+541,"Lindenhurst, NY",3
+2312,"Litchfield, CT",1
+1446,"Lititz, PA",1
+2358,"Little Elm, TX",1
+79,"Little Rock, AR",9
+2309,"Little Rock, AR, AR",1
+1238,"Littleton, NH",1
+2188,"Livermore, CA",1
+2319,"Livermore, California",1
+634,"Livingston Manor, NY",2
+1877,"Livingston, NJ",1
+289,"Livonia, MI",4
+2086,"Lock Haven, PA",1
+1641,"Lockhart, TX",1
+3150,"Lockport, NY",1
+1497,"Locust Grove, VA",1
+359,"Lodi, CA",4
+1999,"Logan, UT",1
+1786,"Logan, WV",1
+2851,"Loganville, GA",1
+677,"Lompoc, CA",2
+3054,"London, KY",1
+2697,"Londonderry, NH",1
+3255,"Long Beach Island, NJ",1
+156,"Long Beach, CA",6
+1153,"Long Beach, NJ",1
+2061,"Long Beach, NY",1
+721,"Long Branch, NJ",2
+1623,"Long Island, NY",1
+1660,"Longmeadow, MA, MA",1
+370,"Longmont, CO",3
+2790,"Longmont, CO, CO",1
+294,"Longview, TX",4
+267,"Longview, WA",4
+1957,"Lopez Island, WA",1
+1578,"Lorain, OH",1
+935,"Los Alamitos, CA",2
+1227,"Los Alamos, NM",1
+2206,"Los Alamos, NM, NM",1
+1056,"Los Altos, CA",2
+10,"Los Angeles, CA",20
+2795,"Los Angeles, CA, virtual",1
+2205,"Los Banos, CA",1
+1653,"Los Gatos, CA",1
+2359,"Louisiana, MO",1
+3,"Louisville, KY",24
+2440,"Louisville, KY, KY",1
+2196,"Loveland, CO",1
+2991,"Lowell, IL",1
+573,"Lowell, MA",3
+2329,"Lower Peninsula, MI",1
+2558,"Lowville, NY",1
+818,"Loyalton, CA",2
+1759,"Loíza, Puerto Rico",1
+510,"Lubbock, TX",3
+382,"Ludington, MI",3
+1943,"Ludlow, VT",1
+2380,"Ludowici, GA",1
+653,"Lufkin, TX",2
+770,"Lumberton, NC",2
+1909,"Lunenburg, MA",1
+2108,"Lyme, CT",1
+122,"Lynchburg, VA",7
+1487,"Lynn Haven, FL",1
+853,"Lynn, MA",2
+2906,"Lynnwood, WA",1
+2780,"Machias, ME",1
+3090,"Mackinac Island, MI",1
+756,"Macomb, IL",2
+3291,"Macomb, IL, IL",1
+3177,"Macomb, MI",1
+204,"Macon, GA",5
+1304,"Madera, CA",1
+832,"Madison, CT",2
+1916,"Madison, NJ",1
+29,"Madison, WI",15
+3069,"Madison, WI, WI",1
+982,"Madisonville, KY",2
+2256,"Madrid, Spain",1
+2744,"Magdalena, NM",1
+1403,"Mahomet, IL",1
+2665,"Mahwah, NJ",1
+3192,"Maine Township, IL",1
+760,"Malibu, CA",2
+3088,"Malverne, NY",1
+357,"Manassas, VA",4
+2127,"Manchester Center, VT, VT",1
+390,"Manchester, CT",3
+1134,"Manchester, MD",2
+408,"Manchester, NH",3
+1918,"Manchester, NJ",1
+2869,"Manchester, VT",1
+2452,"Mandaree, ND, ND",1
+286,"Manhattan Beach, CA",4
+244,"Manhattan, KS",5
+576,"Manhattan, NY",3
+3141,"Manheim Township, PA",1
+2137,"Manheim, PA",1
+1648,"Manitowoc, WI",1
+2587,"Mankato, MN",1
+3195,"Manlius, NY",1
+2970,"Mansfield, LA",1
+2492,"Mansfield, MA",1
+1833,"Mansfield, OH",1
+1524,"Mansfield, PA",1
+692,"Mansfield, TX",2
+1412,"Manzanita, OR, OR",1
+1437,"Maple Valley, WA",1
+1905,"Maplewood, MN",1
+1910,"Maplewood, NJ",1
+3213,"Maquoketa, IA",1
+1477,"Marblehead, MA",1
+742,"Marco Island, FL",2
+2122,"Marfa, TX",1
+427,"Maricopa, AZ",3
+134,"Marietta, GA",7
+438,"Marietta, OH",3
+2079,"Marietta, OH, OH",1
+2173,"Marin City, CA",1
+3057,"Marinette, WI",1
+2395,"Marinwood, CA",1
+487,"Marion, IL",3
+433,"Marion, IN",3
+2223,"Marion, NC",1
+2603,"Marion, North Carolina",1
+637,"Marion, OH",2
+1540,"Marion, VA",1
+1928,"Marlborough, MA",1
+2243,Marquette,1
+179,"Marquette, MI",6
+2715,"Marrero, LA",1
+1678,"Marshall, MI",1
+2757,"Marshall, MO",1
+279,"Marshall, TX",4
+1348,"Marshalltown, IA",1
+2649,"Marshfield, MA",1
+2979,"Marshfield, WI",1
+2093,"Martha's Vineyard, MA",1
+1292,"Martin, TN",1
+3272,"Martin, Tennessee",1
+602,"Martinsburg, WV",2
+2741,"Martinsville, IN",1
+1038,"Martinsville, VA",2
+1712,"Maryland Heights, MO",1
+1798,"Marysville, CA",1
+2397,"Marysville, KS",1
+1228,"Marysville, OH",1
+2986,"Maryville, MO",1
+3228,"Maryville, TN",1
+2723,"Mascoutah, IL",1
+2059,"Mashpee, MA",1
+527,"Mason City, IA",3
+1703,"Mason, OH",1
+2170,"Massapequa Park, NY",1
+3278,"Massena, NY",1
+1632,"Mastic, NY",1
+2253,"Mathews, VA",1
+3204,"Mattapoisett, MA",1
+1575,"Mattoon, IL",1
+784,"Maui, HI",2
+1156,"May 28, Chicago",1
+3036,"May 29, Chicago",1
+3076,"May 30, Chicago",1
+1358,"Maynard, MA",1
+2045,"Maywood, IL",1
+2341,"McAlester, OK",1
+3098,"McAllen, TX",1
+1770,"McCook, NE",1
+392,"McDonough, GA",3
+1249,"McHenry, IL",1
+72,"McKinney, TX",10
+1179,"McLean, VA",1
+440,"McMinnville, OR",3
+2960,"McMinnville, TN",1
+2712,"Meadville, PA",1
+2275,"Mechanicville, NY, NY",1
+2916,"Medford, NJ",1
+387,"Medford, OR",3
+684,"Medina, OH",2
+882,"Melbourne, FL",2
+12,"Memphis, TN",19
+3048,"Menlo Park, CA",1
+3065,"Menominee, MI",1
+638,"Menomonee Falls, WI",2
+807,"Menomonie, WI",2
+195,"Merced, CA",5
+857,"Mercer Island, WA",2
+822,"Meriden, CT",2
+1268,"Meriden, NH",1
+667,"Meridian, MS",2
+165,"Merrick, NY",6
+875,"Merrillville, IN",2
+2067,"Merrimack, NH",1
+1334,"Mesa City, AZ",1
+552,"Mesa, AZ",3
+3246,"Mesquite, TX",1
+1860,"Metairie, LA",1
+1763,"Methuen, MA",1
+1154,"Metuchen, NJ",1
+1443,"Mexico, MO",1
+650,"Miami Beach, FL",2
+1702,"Miami Gardens, FL",1
+1076,"Miami Lakes, FL",2
+1218,"Miami Shores, FL",1
+21,"Miami, FL",16
+932,"Miami, OK",2
+2759,"Miamisburg, OH",1
+1313,"Michigan City, IN",1
+2559,"Middle River, MD",1
+1898,"Middle Township, NJ",1
+743,"Middlebury, VT",2
+3236,"Middlesex, NJ",1
+500,"Middletown, CT",3
+3044,"Middletown, DE",1
+1429,"Middletown, NY",1
+454,"Middletown, OH",3
+3116,"Middletown, PA",1
+1624,"Midland, MI",1
+1185,"Midland, PA",1
+307,"Midland, TX",4
+3289,"Midlothian, TX",1
+1655,"Midpines, CA, CA",1
+1137,"Mifflinburg, PA",2
+2258,"Milan, Italy",1
+1564,"Milford, CT",1
+1802,"Milford, DE",1
+1314,"Milford, MA",1
+1743,"Milford, NH",1
+1765,"Milford, OH",1
+1970,"Milford, PA",1
+1776,"Mill Creek, WA",1
+280,"Mill Valley, CA",4
+1191,"Mill Valley, California",1
+1824,"Millburn, NJ",1
+2374,"Milledgeville, GA",1
+2418,"Millersville, PA",1
+1099,"Millerton, NY",2
+1577,"Millville, NJ",1
+1100,"Milton, MA",2
+2298,"Milton, PA",1
+3136,"Milton-Freewater, OR",1
+2751,"Milton-Freewater, Oregon",1
+18,"Milwaukee, WI",17
+1982,"Milwaukee, WI, WI",1
+2793,"Milwaukie, OR",1
+722,"Minden, LA",2
+377,"Mineola, NY",3
+16,"Minneapolis, MN",17
+1780,"Minneapolis, virtual",1
+3149,"Minneapolis–St. Paul, MN",1
+868,"Minot, ND",2
+2260,"Mira Mesa, CA",1
+994,"Miramar, FL",2
+1121,"Mishawaka, IN",2
+2977,"Mission, TX",1
+87,"Missoula, MT",9
+2535,"Missouri City, TX",1
+2623,"Mitchell, SD",1
+3014,"Mitchell, South Dakota",1
+1060,"Moab, UT",2
+1636,"Moberly, MO",1
+563,"Mobile, AL",3
 211,"Modesto, CA",5
-2391,"Modesto, CA, CA",1
-2813,"Molalla, OR",1
-1616,"Moline, IL",1
-1232,"Monett, MO",1
-3095,"Monmouth Junction, NJ",1
-2274,"Monmouth, IL",1
-2743,"Monmouth, ME",1
-1382,"Monmouth, OR",1
-2643,"Monroe Township, NJ",1
-1228,"Monroe, CT",1
-1010,"Monroe, GA",2
-451,"Monroe, LA",3
-2742,"Monroe, MI",1
-2996,"Monroe, NC",1
-966,"Monroe, NY",2
-2128,"Monroe, WA",1
-979,"Monroeville, PA",2
-662,"Monrovia, CA",2
-1495,"Monson, MA",1
-2221,"Mont Belvieu, TX",1
-2685,"Montague, MI",1
-828,"Montauk, NY",2
-1903,"Montclair, CA",1
-346,"Montclair, NJ",3
-1207,"Montclair, NJ, virtual",1
-2178,"Montebello, CA",1
-424,"Monterey, CA",3
-1768,"Montevideo, MN",1
-105,"Montgomery, AL",8
-672,"Montgomery, NY",2
-1986,"Monticello, AR",1
-3043,"Monticello, IL",1
-2150,"Monticello, NY",1
-325,"Montpelier, VT",4
-1169,"Montpelier, VT, VT",1
-967,"Montrose, CA",2
-687,"Montrose, CO",2
-844,"Montrose, GA",2
-2829,"Montross, VA",1
-1448,"Montville, CT",1
-2761,"Montville, NJ",1
-902,"Moorestown, NJ",2
-2486,"Mooresville, IN",1
-1567,"Mooresville, NC",1
-2634,"Moorpark, CA",1
-2082,"Moraga, CA",1
-1472,"Morehead City, NC",1
-1875,"Morehead, KY",1
-704,"Moreno Valley, CA",2
-1520,"Morgan Hill, CA",1
-2522,"Morganton, NC",1
-312,"Morgantown, WV",4
-1658,"Morris, IL",1
-1669,"Morristown, NJ",1
-2578,"Morristown, TN",1
-1864,"Morrisville, VT",1
-1446,"Morro Bay, CA",1
-1181,"Moscow, ID",1
-586,"Moses Lake, WA",2
-2024,"Moulton, AL",1
-386,"Moultrie, GA",3
-2163,"Mounds, IL",1
-1666,"Mount Holly, NC",1
-1886,"Mount Holly, NJ",1
-1074,"Mount Pleasant, MI",2
-1706,"Mount Pleasant, SC",1
-2737,"Mount Pleasant, TX",1
-2805,"Mount Shasta, CA",1
-2837,"Mount Sinai, NY",1
-2068,"Mount Vernon, IA",1
-444,"Mount Vernon, NY",3
-1235,"Mount Vernon, OH",1
-2465,"Mount Vernon, WA",1
-820,"Mountain Brook, AL",2
-283,"Mountain Home, AR",4
-1335,"Mountain House, CA",1
-133,"Mountain View, CA",6
-627,"Mountlake Terrace, WA",2
-2494,"Mt. Juliet, TN",1
-1138,"Mt. Orab, OH",1
-2818,"Mt. Pleasant, MI",1
+1889,"Modesto, CA, CA",1
+1208,"Molalla, OR",1
+1484,"Moline, IL",1
+1844,"Monett, MO",1
+2327,"Monmouth Junction, NJ",1
+3205,"Monmouth, IL",1
+1920,"Monmouth, ME",1
+2987,"Monmouth, OR",1
+1646,"Monroe Township, NJ",1
+1754,"Monroe, CT",1
+1207,"Monroe, GA",1
+560,"Monroe, LA",3
+3037,"Monroe, MI",1
+1785,"Monroe, NC",1
+798,"Monroe, NY",2
+1944,"Monroe, WA",1
+2643,"Monroe, Washington",1
+960,"Monroeville, PA",2
+858,"Monrovia, CA",2
+2466,"Monson, MA",1
+2430,"Mont Belvieu, TX",1
+1617,"Montague, MI",1
+719,"Montauk, NY",2
+1861,"Montclair, CA",1
+484,"Montclair, NJ",3
+2396,"Montclair, NJ, virtual",1
+2014,"Montebello, CA",1
+2335,"Montebello, California",1
+439,"Monterey, CA",3
+2436,"Montevideo, MN",1
+110,"Montgomery, AL",8
+921,"Montgomery, NY",2
+2405,"Monticello, AR",1
+2669,"Monticello, IL",1
+859,"Monticello, NY",2
+310,"Montpelier, VT",4
+3061,"Montpelier, VT, VT",1
+985,"Montrose, CA",2
+597,"Montrose, CO",2
+630,"Montrose, GA",2
+2399,"Montross, VA",1
+1271,"Montville, CT",1
+1709,"Montville, NJ",1
+871,"Moorestown, NJ",2
+3113,"Mooresville, IN",1
+1967,"Mooresville, NC",1
+2071,"Moorpark, CA",1
+1741,"Moraga, CA",1
+2736,"Morehead City, NC",1
+3186,"Morehead, KY",1
+594,"Moreno Valley, CA",2
+1144,"Morgan Hill, CA",1
+2955,"Morganton, NC",1
+341,"Morgantown, WV",4
+2434,"Morris, IL",1
+3038,"Morristown, NJ",1
+3232,"Morristown, TN",1
+2534,"Morrisville, VT",1
+1502,"Morro Bay, CA",1
+2571,"Moscow, ID",1
+971,"Moses Lake, WA",2
+1609,"Moulton, AL",1
+514,"Moultrie, GA",3
+2254,"Mounds, IL",1
+2730,"Mount Clemens, MI",1
+2881,"Mount Dora, FL",1
+1787,"Mount Holly, NC",1
+2499,"Mount Holly, NJ",1
+899,"Mount Pleasant, MI",2
+1677,"Mount Pleasant, SC",1
+2431,"Mount Pleasant, TX",1
+2134,"Mount Shasta, CA",1
+2495,"Mount Sinai, NY",1
+1996,"Mount Vernon, IA",1
+524,"Mount Vernon, NY",3
+2317,"Mount Vernon, OH",1
+1856,"Mount Vernon, WA",1
+993,"Mountain Brook, AL",2
+1361,"Mountain Brook, Alabama",1
+303,"Mountain Home, AR",4
+2613,"Mountain House, CA",1
+142,"Mountain View, CA",6
+1016,"Mountlake Terrace, WA",2
+2047,"Mt. Juliet, TN",1
+1795,"Mt. Orab, OH",1
+2081,"Mt. Pleasant, MI",1
 2105,"Mt. Pleasant, PA",1
-1237,"Mt. Vernon, IL",1
-1000,"Mt. Vernon, ME",2
-1518,"Mt. Vernon, NY",1
-2508,"Mt. Vernon, OH",1
-2089,"Mt. Vernon, WA",1
-810,"Mukilteo, WA",2
-315,"Muncie, IN",4
-2263,"Munster, IN",1
-213,"Murfreesboro, TN",5
-2231,"Murphy, NC",1
-1025,"Murray, KY",2
-2733,"Muscatine, IA",1
-771,"Muskegon, MI",2
-1223,"Muskogee, OK",1
-544,"Myrtle Beach, SC",3
-479,"Mystic, CT",3
-328,"Nacogdoches, TX",4
-1101,"Nanakuli, HI",1
-2657,"Nantucket, MA",1
-2387,"Nantucket, MA, MA",1
-2793,"Nanuet, NY",1
-1056,"Napa, CA",2
-215,"Naperville, IL",5
-2235,"Naperville, IL, IL",1
-411,"Naples, FL",3
-2560,"Naples, Italy",1
-3036,"Naples, ME",1
-857,"Narberth, PA",2
-2625,"Narragansett, RI",1
-159,"Narrowsburg, NY",6
-800,"Nashua, NH",2
-103,"Nashville, TN",8
-2250,"Nashville, TN, TN",1
-1651,"Nashwauk, MN",1
-2612,"Natchez, MS",1
-935,"Natchitoches, LA",2
-2990,"Naugatuck, CT",1
-773,"Navarre, FL",2
-2429,"Nazareth, PA",1
-1372,"Nebraska City, NE",1
-1109,"Neenah, WI",1
-2768,"Nevada City, CA",1
-1695,"New Albany, IN",1
+1471,"Mt. Vernon, IL",1
+928,"Mt. Vernon, ME",2
+1190,"Mt. Vernon, NY",1
+3198,"Mt. Vernon, OH",1
+2347,"Mt. Vernon, WA",1
+772,"Mukilteo, WA",2
+251,"Muncie, IN",4
+2626,"Munster, IN",1
+203,"Murfreesboro, TN",5
+2939,"Murphy, NC",1
+1548,"Murphy, North Carolina",1
+975,"Murray, KY",2
+1930,"Muscatine, IA",1
+1030,"Muskegon, MI",2
+1354,"Muskogee, OK",1
+403,"Myrtle Beach, SC",3
+572,"Mystic, CT",3
+327,"Nacogdoches, TX",4
+2777,"Nanakuli, HI",1
+1668,"Nantucket, MA",1
+2531,"Nantucket, MA, MA",1
+1163,"Nanuet, NY",1
+973,"Napa, CA",2
+233,"Naperville, IL",5
+1197,"Naperville, IL, IL",1
+213,"Naples, FL",5
+2340,"Naples, Italy",1
+2833,"Naples, ME",1
+881,"Narberth, PA",2
+1882,"Narragansett, RI",1
+144,"Narrowsburg, NY",6
+629,"Nashua, NH",2
+90,"Nashville, TN",9
+1182,"Nashville, TN, TN",1
+2579,"Nashwauk, MN",1
+1300,"Natchez, MS",1
+934,"Natchitoches, LA",2
+1180,"Naugatuck, CT",1
+1055,"Navarre, FL",2
+3070,"Nazareth, PA",1
+1998,"Nebraska City, NE",1
+2272,"Neenah, WI",1
+2729,"Nevada City, CA",1
+1608,"New Albany, IN",1
 184,"New Bedford, MA",5
-539,"New Bern, NC",3
-2207,"New Braunfels, TX",1
-811,"New Britain, CT",2
-666,"New Brunswick, NJ",2
-289,"New Canaan, CT",4
-637,"New Castle, PA",2
-75,"New Haven, CT",9
-2869,"New Haven, CT, CT",1
-2010,"New Haven, MI",1
-2544,"New Hope, PA",1
-3012,"New Iberia, LA",1
-559,"New Lenox, IL",3
-552,"New London, CT",3
-43,"New Orleans, LA",12
-1337,"New Orleans, LA, LA",1
-1509,"New Orleans, NY",1
-1593,"New Paltz, NY",1
-2259,"New Philadelphia, OH",1
-1429,"New Port Richey, FL",1
-1152,"New Providence, NJ",1
-130,"New Rochelle, NY",7
-1701,"New Smyrna Beach, FL",1
-1479,"New Town, ND",1
-6,"New York, NY",20
-1403,"New York, NY, virtual",1
-1685,"New york, NY, NY",1
-3054,"Newark, DE",1
-317,"Newark, NJ",4
-701,"Newark, OH",2
-1231,"Newberg, OR",1
-238,"Newburgh, NY",4
-845,"Newburyport, MA",2
-200,"Newcastle, ME",5
-2821,"Newcastle, WA",1
-1210,"Newington, CT",1
-1991,"Newland, NC",1
-245,"Newnan, GA",4
-1047,"Newport Beach, CA",2
-174,"Newport News, VA",5
-1201,"Newport, OR",1
-997,"Newport, RI",2
-1913,"Newport, TN",1
-1195,"Newport, VT",1
-644,"Newton, IA",2
-2497,"Newton, KS",1
-260,"Newton, MA",4
-909,"Newton, NC",2
-788,"Newton, NJ",2
-2402,"Newton, NJ, NJ",1
-1449,"Newtown, CT",1
-2786,"Newtown, PA",1
-995,"Niagara Falls, NY",2
-2133,"Nipomo, CA",1
-2277,"Niskayuna, NY",1
-2229,"Nocatee, FL",1
-830,"Nogales, AZ",2
-1835,"Norfolk, NE",1
-56,"Norfolk, VA",10
-246,"Norman, OK",4
-1400,"Normandy Park, WA",1
-3034,"Norristown, PA",1
-1305,"North Adams, MA",1
-2364,"North Andover, MA",1
-988,"North Bend, WA",2
-707,"North Bergen, NJ",2
-1761,"North Brookfield, MA",1
-1792,"North Brunswick, NJ",1
-2135,"North Canaan, CT",1
-2695,"North Canton, OH",1
-239,"North Charleston, SC",4
-236,"North Conway, NH",4
-2208,"North Kingstown, RI",1
-2867,"North Little Rock, AR",1
-2248,"North Myrtle Beach, SC",1
-1466,"North Naples, FL",1
-2890,"North Plainfield, NJ",1
-1927,"North Platte, NE",1
-3001,"North Suffolk, VA",1
-2008,"North Wilkesboro, NC",1
-706,"Northampton, MA",2
-1112,"Northbrook, IL",1
-1399,"Norton, VA",1
-785,"Norwalk, CT",2
-2812,"Norwalk, OH",1
-1320,"Norwell, MA",1
-377,"Norwich, CT",3
-2558,"Norwich, NY",1
-684,"Norwood, CO",2
-1267,"Novato, CA",1
-2492,"Novi, NY",1
-623,"Nutley, NJ",2
-654,"Nyack, NY",2
-1460,"O'Fallon, IL",1
-1665,"O'Fallon, MO",1
-1673,"Oahu, HI",1
-703,"Oak Bluffs, MA",2
-2627,"Oak Grove, KY",1
-950,"Oak Harbor, WA",2
-2549,"Oak Park, CA",1
-2777,"Oak Park, IL",1
-1160,"Oak Park, MI",1
-2730,"Oak Ridge, TN",1
-3083,"Oakdale, CA",1
-621,"Oakdale, MN",2
-18,"Oakland, CA",16
-1632,"Oakland, CA, CA",1
-1414,"Oakley, CA",1
-1308,"Oaks Bluff, MA",1
-564,"Oakwood, OH",2
-1861,"Ocala, FL",1
-1035,"Ocean City, MD",2
-2039,"Ocean City, NJ",1
-1813,"Ocean Springs, MS",1
-268,"Oceanside, CA",4
-1660,"Oceanside, NY",1
-1363,"Ocoee, FL",1
-1165,"Ocoee, FL, FL",1
-2122,"Oconomowoc, WI",1
-2314,"Oconto, WI",1
-1954,"Odessa, MO",1
-306,"Odessa, TX",4
-563,"Ogden, UT",2
-1995,"Ogdensburg, NY",1
-1751,"Ogen, UT",1
-1456,"Oil City, PA",1
-2988,"Ojai, CA",1
-67,"Oklahoma City, OK",10
-812,"Olathe, KS",2
-2342,"Old Bridge, NJ",1
-1782,"Old Fort, NC",1
-1297,"Old Lyme, CT",1
-1008,"Old Saybrook, CT",2
-384,"Olean, NY",3
-761,"Olmsted Falls, OH",2
-1824,"Olney, MD",1
-98,"Olympia, WA",8
-55,"Omaha, NE",11
-2995,"Omak, WA",1
-1095,"Oneonta, NY",2
-1514,"Ontario, CA",1
-2636,"Ontario, OH",1
-740,"Ontario, OR",2
-407,"Opelika, AL",3
-714,"Orange, CA",2
-1725,"Orange, VA",1
-762,"Orangeburg, SC",2
-2698,"Orangeburg, SC, virtual",1
-2224,"Orcas Island, WA",1
-1612,"Oregon City, OR, OR",1
-1943,"Oregon, IL",1
-2211,"Oregon, WI",1
-1630,"Orem, UT",1
-2306,"Orland Park, IL",1
-2205,"Orland, CA",1
-77,"Orlando, FL",9
-1975,"Orlando, FL, FL",1
-2350,"Orleans, MA",1
-688,"Orono, ME",2
-1288,"Oroville, CA",1
-970,"Oshkosh, WI",2
-742,"Oskaloosa, IA",2
-426,"Ossining, NY",3
-643,"Oswego, NY",2
-440,"Ottawa, IL",3
-791,"Ottumwa, IA",2
-1513,"Ouray, CO",1
-146,"Overland Park, KS",6
-1073,"Owatonna, MN",2
-298,"Owensboro, KY",4
-3098,"Oxford, CT",1
-736,"Oxford, MS",2
-1450,"Oxford, OH",1
-212,"Oxnard, CA",5
-2766,"Oyster Bay, NY",1
-2934,"O’Fallon Township, IL",1
-2148,"O’Hara, PA",1
-758,"Pacific Beach, CA",2
-202,"Paducah, KY",5
-2935,"Painesville, OH",1
-2091,"Paintsville, KY",1
-585,"Palatine, IL",2
-2472,"Palestine, TX",1
-600,"Palm Bay, FL",2
-1961,"Palm Beach (town), FL",1
-1266,"Palm Beach Gardens, FL",1
-223,"Palm Beach, FL",5
-2176,"Palm Coast, FL",1
-1318,"Palm Desert, CA",1
-227,"Palm Springs, CA",4
-471,"Palmdale, CA",3
-1353,"Palmer, AK",1
-2123,"Palmerton, PA",1
-171,"Palo Alto, CA",5
-2406,"Palo Alto, CA, CA",1
-2967,"Palos Heights, IL",1
-2284,"Palos Verdes Estates, CA",1
-2842,"Pampa, FL",1
-2232,"Panama City Beach, FL",1
-474,"Panama City, FL",3
-2961,"Panhandle, TX",1
-1993,"Parachute, CO",1
-2710,"Paramount, CA",1
-1962,"Paramus, NJ",1
-1314,"Paris, TN",1
-640,"Paris, TX",2
-2504,"Park City, UT",1
-365,"Park Rapids, MN",3
-836,"Park Ridge, IL",2
-371,"Parkersburg, WV",3
-1674,"Parma, OH",1
-2383,"Parsippany, NJ",1
-1519,"Parsons, KS",1
-127,"Pasadena, CA",7
-2606,"Pasadena, CA, CA",1
-1551,"Pasadena, MD",1
-318,"Pasco, WA",4
-2901,"Patchogue, NY",1
-240,"Paterson, NJ",4
-2473,"Pawleys Island, SC",1
-2214,"Payson, AZ",1
-2202,"Payson, AZ, AZ",1
-1723,"Peabody, MA",1
-2153,"Peachtree City, GA",1
-2532,"Peconic, NY",1
-1508,"Pecos, TX",1
-2437,"Peekskill, NY",1
-1179,"Pekin, IL",1
-879,"Pelham, NY",2
-633,"Pembroke Pines, FL",2
-2638,"Pendelton, OR",1
-2633,"Pendleton, IN",1
-1306,"Pendleton, OR",1
-3033,"Penn Yan, NY",1
-1354,"Pennington, NJ",1
-2789,"Pennsburg, PA",1
-1410,"Pennwynne, PA",1
-62,"Pensacola, FL",10
-1002,"Peoria, IL",2
-2142,"Perkasie, PA",1
-1583,"Perris, CA, CA",1
-990,"Perrysburg, OH",2
-2526,"Perryville, MO",1
-506,"Pescadero, CA",3
-192,"Petal, MS",5
-2369,"Petaluma, CA",1
-2095,"Petaluma, CA, CA",1
-901,"Peterborough, NH",2
-865,"Petersburg, VA",2
-140,"Petoskey, MI",6
-2009,"Phenix City, AL",1
-24,"Philadelphia, PA",15
-1604,"Philadelphia, PA, PA",1
-754,"Philipsburg, PA",2
-1366,"Phillipsburg, NJ",1
-7,"Phoenix, AZ",20
-2256,"Phoenixville, PA",1
-999,"Picayune, MS",2
-2191,"Pickens, SC",1
-1198,"Piedmont, CA",1
-589,"Pierre, SD",2
-2201,"Pikeville, KY",1
-1424,"Pilot Point, TX",1
-1287,"Pinckney, MI",1
-2966,"Pine Bluff, AR",1
-1118,"Pine City, MN",1
-2856,"Pine Ridge, SD",1
-1362,"Pinedale, WY",1
-1114,"Pinole, CA",1
-1341,"Piqua, OH",1
-759,"Pitman, NJ",2
-1278,"Pittsboro, NC",1
-1878,"Pittsburg, KS",1
-30,"Pittsburgh, PA",14
-1190,"Pittsburgh, PA, PA",1
-342,"Pittsfield, MA",3
-282,"Pittsfield, MI",4
-1711,"Pittsford, NY",1
-1627,"Pittston, PA",1
-691,"Placentia, CA",2
-1312,"Placerville, CA",1
-1493,"Placerville, CA, CA",1
-2598,"Plainfield, CT",1
-2280,"Plainfield, IL",1
-871,"Plainfield, NH",2
-1877,"Plainfield, NJ",1
-1515,"Plainview, NY",1
-2130,"Plainville, CT",1
-1001,"Plano, TX",2
-1342,"Plant City, FL",1
-993,"Plattsburgh, NY",2
-2547,"Pleasant Hills, PA",1
-1778,"Pleasanton, CA",1
-1947,"Plymouth Meeting, PA",1
-3032,"Plymouth, IN",1
-2346,"Plymouth, MA",1
-555,"Plymouth, MI",3
-1016,"Pocatello, ID",2
-2045,"Pocomoke City, MD",1
-2791,"Podgorica, Montenegro",1
-1537,"Point Pleasant Beach, NJ",1
-1840,"Pokomoke City, MD",1
-2997,"Political, Puerto Rico",1
-2174,"Polson, MT",1
-2126,"Pomfret, CT",1
-503,"Pomona, CA",3
-1135,"Pompano Beach, FL",1
-1793,"Ponca City, OK",1
-2831,"Ponchatoula, LA",1
-2762,"Ponte Vedra Beach, FL",1
-363,"Pontiac, MI",3
-2924,"Poquoson, VA",1
-2157,"Port Allen, LA",1
-496,"Port Angeles, WA",3
-2333,"Port Arthur, TX",1
-295,"Port Huron, MI",4
-659,"Port Jefferson Station, NY",2
-2446,"Port Jefferson, NY",1
-1347,"Port Orange, FL",1
-2352,"Port Orchard, WA, WA",1
-1499,"Port St. Lucie, FL",1
-336,"Port Townsend, WA",3
-1646,"Port Washington, WI",1
-2729,"Portage, IN",1
-2177,"Portage, MI",1
-2367,"Portage, PA",1
-2628,"Portales, NM",1
-2395,"Porterville, CA",1
-2484,"Portland, IN",1
-121,"Portland, ME",7
-0,"Portland, OR",25
-1839,"Portland, OR, OR",1
-848,"Portsmouth, NH",2
-1331,"Portsmouth, NH, virtual",1
-3052,"Portsmouth, OH",1
-203,"Portsmouth, VA",5
-214,"Potsdam, NY",5
-601,"Pottstown, PA",2
-2386,"Pottsville, PA",1
-254,"Poughkeepsie, NY",4
-934,"Poulsbo, WA",2
-1945,"Poway, CA",1
-3023,"Prairie Grove, AR",1
-2652,"Prairie Village, KS",1
-2814,"Prairie Village, MO",1
-1817,"Prairie du Sac, WI",1
-3031,"Prescott Valley, AZ",1
-726,"Prescott, AZ",2
-2251,"Presque Isle, ME",1
-2092,"Prestonburg, KY",1
-2600,"Prince Frederick, MD",1
-1814,"Princeton, IL",1
-3065,"Princeton, IN",1
-3062,"Princeton, KY",1
-866,"Princeton, NJ",2
-2691,"Princeton, WV",1
-1629,"Prineville, OR",1
-2704,"Protester violence, MI",1
-85,"Providence, RI",8
-1532,"Providence, RI, RI",1
-1364,"Provincetown, MA",1
-361,"Provo, UT",3
-548,"Pueblo, CO",3
-243,"Pullman, WA",4
-755,"Punta Gorda, FL",2
-1351,"Punxsutawney, PA",1
-2430,"Purcellville, VA",1
-3057,"Puyallup, WA",1
-1534,"Quakertown, PA",1
-3082,"Queen Creek, AZ",1
-47,"Queens, NY",11
-2241,"Quincy, CA",1
-2279,"Quincy, CA, CA",1
-3042,"Quincy, FL",1
-1067,"Quincy, IL",2
-772,"Quincy, MA",2
-2865,"Quincy, WA",1
-1526,"Quinlan, TX",1
-226,"Racine, WI",5
-1061,"Radnor, PA",2
-520,"Raeford, NC",3
-3018,"Rahway, NJ",1
-27,"Raleigh, NC",14
-743,"Ramona, CA",2
-364,"Rancho Cucamonga, CA",3
-1599,"Rancho Mirage, CA",1
-636,"Rancho Palos Verdes, CA",2
-2674,"Rancho Santa Margarita, CA",1
-2480,"Randallstown, MD",1
-2827,"Randolph, MA",1
-1524,"Randolph, VT",1
-324,"Rapid City, SD",4
-2894,"Rapid City, SD, SD",1
-2194,"Ravenna, OH",1
-2136,"Raymond, WA",1
-2254,"Reading, MA",1
-547,"Reading, PA",3
-945,"Red Bank, NJ",2
-2118,"Red Bank, SC",1
-1077,"Red Bluff, CA",2
-1582,"Red Hook, NY",1
-2099,"Red Lodge, MT",1
-741,"Red Wing, MN",2
-284,"Redding, CA",4
-536,"Redlands, CA",3
-886,"Redmond, WA",2
-1876,"Redmong, WA",1
-1620,"Redondo Beach, CA",1
-888,"Redwood City, CA",2
-695,"Rehoboth Beach, DE",2
-2215,"Reidsville, NC",1
-136,"Reno, NV",6
-1702,"Renssleaer, NY",1
-467,"Renton, WA",3
-717,"Rexburg, ID",2
-628,"Rhinebeck, NY",2
-1242,"Rhinelander, WI",1
-806,"Rice Lake, WI",2
-1849,"Richardson, TX",1
-572,"Richland, WA",2
-2953,"Richlands, VA",1
-1199,"Richmond Hill, GA",1
-951,"Richmond, CA",2
-1075,"Richmond, IN",2
-1269,"Richmond, KY",1
-2281,"Richmond, OH",1
-2475,"Richmond, RI",1
-4,"Richmond, VA",21
-264,"Ridgecrest, CA",4
-1998,"Ridgefield Park, NJ",1
-3069,"Ridgefield, CT",1
-2451,"Ridgefield, WA",1
-1409,"Ridgeway, VA",1
-620,"Ridgewood, NJ",2
-716,"Rifle, CO",2
-638,"Rio Grande, NJ",2
-2577,"Rio Rancho, NM",1
-1224,"Ripon, CA",1
-1222,"Riveraide, CA",1
-3076,"Riverbank, CA",1
-941,"Riverhead, NY",2
-170,"Riverside, CA",5
-1869,"Riverton, WY",1
-565,"Riverview, FL",2
-1162,"Riverview, MI",1
-2700,"Riviera Beach, FL",1
-1595,"Roanoke, TX, TX",1
-163,"Roanoke, VA",6
-2878,"Roanoke, VA, VA",1
-2755,"Robesonia, PA",1
-2999,"Rochester Hills, MI",1
-721,"Rochester, MI",2
-189,"Rochester, MN",5
-162,"Rochester, NY",6
-609,"Rock Hill, SC",2
-2491,"Rock Island, IL",1
-399,"Rock Springs, WY",3
-70,"Rockford, IL",9
-2140,"Rockingham, NC",1
-483,"Rockland, ME",3
-1133,"Rockville, MD",1
-2862,"Rockwall, TX",1
-2019,"Rocky Hill, CT",1
-3084,"Rocky Mount, NC",1
-2646,"Rocky Mount, VA",1
-541,"Rogers, AR",3
-1374,"Rolla, MO",1
-319,"Rome, GA",4
-2982,"Rome, Italy",1
-2780,"Rome, NY",1
-2234,"Romeo, MI",1
-2979,"Romulus, MI",1
-1868,"Roosevelt, NY",1
-1797,"Roseburg, OR",1
-2410,"Roselle, NJ",1
-252,"Roseville, CA",4
-2968,"Roseville, MI",1
-1842,"Roseville, MN",1
-2104,"Roslindale, MA",1
-1036,"Roswell, GA",2
-1791,"Roswell, NM",1
-2973,"Round Hill, VA",1
-181,"Round Rock, TX",5
-1953,"Rowland Heights, CA",1
-2327,"Rowlett, TX",1
-535,"Royal Oak, MI",3
-2414,"Royal Oak, MI, MI",1
-1511,"Royalton, VT",1
-2466,"Royersford, PA",1
-2820,"Royse City, TX",1
-1389,"Rugby, ND",1
-376,"Ruidoso, NM",3
-2054,"Rushville, IN",1
-2796,"Russellville, AR",1
-2434,"Ruston, LA",1
-1607,"Rutherford, NJ",1
-900,"Rutland, VT",2
-1895,"Rye, NY",1
-39,"Sacramento, CA",12
-2838,"Sacramento, CA, virtual",1
-1715,"Safford, AZ",1
-314,"Saginaw, MI",4
-358,"Salem, MA",3
-2686,"Salem, NH",1
-58,"Salem, OR",10
-2843,"Salem, VA",1
-928,"Salida, CO",2
-2975,"Salina, KS",1
-943,"Salinas, CA",2
-694,"Salisbury, CT",2
-809,"Salisbury, MD",2
-2113,"Salisbury, MD, MD",1
-455,"Salisbury, NC",3
-8,"Salt Lake City, UT",20
-2882,"Salt Lake City, UT, UT",1
-1829,"Sam Jose, CA",1
-2895,"San Angelo, TX",1
-42,"San Antonio, TX",12
-931,"San Bernardino, CA",2
-921,"San Clemente, CA",2
-22,"San Diego, CA",15
-1401,"San Diego, CA, CA",1
-1609,"San Dimas, CA",1
-1215,"San Francisco Peninsula, CA",1
-23,"San Francisco, CA",15
-2971,"San Gabriel, CA",1
-48,"San Jose, CA",11
-1311,"San Jose, CA, CA",1
-1841,"San Juan, PR",1
-2750,"San Juan, Puerto Rico",1
-1197,"San Leandro, CA",1
-205,"San Luis Obispo, CA",5
-335,"San Marcos, TX",3
-917,"San Mateo, CA",2
-2196,"San Pedro, CA",1
-579,"San Rafael, CA",2
-1900,"San Ramon, CA",1
-2595,"Sandersville, GA",1
-998,"Sandpoint, ID",2
-850,"Sandusky, OH",2
-1433,"Sandwich, IL",1
-2926,"Sandy Springs, GA",1
-1174,"Sandy, OR",1
-2186,"Sanford, ME",1
-1355,"Sanford, NC",1
-176,"Santa Ana, CA",5
-321,"Santa Barbara, CA",4
-1676,"Santa Clara, CA",1
-2980,"Santa Clara, CA, CA",1
-84,"Santa Clarita, CA",9
-142,"Santa Cruz, CA",6
-3021,"Santa Cruz, CA, CA",1
-232,"Santa Fe, NM",4
-3011,"Santa Fe, NM, NM",1
-538,"Santa Maria, CA",3
-151,"Santa Monica, CA",6
-1272,"Santa Paula, CA",1
-95,"Santa Rosa, CA",8
-2677,"Santa ana, CA, CA",1
-280,"Santee, CA",4
-893,"Saranac Lake, NY",2
-100,"Sarasota, FL",8
-332,"Saratoga Springs, NY",3
-1180,"Sault Ste. Marie, MI",1
-126,"Savannah, GA",7
-2354,"Sayreville, NJ",1
-1859,"Sayville, NY",1
-1378,"Schaumburg, IL",1
-2983,"Schenectady, NY",1
-2580,"Scituate, MA",1
-1325,"Scotch Plains, NJ",1
-2358,"Scottsbluff, NE",1
-919,"Scottsdale, AZ",2
-2587,"Scottsdale, AZ, virtual",1
-388,"Scranton, PA",3
-1890,"Seaford, DE",1
-1039,"Seaside, CA",2
-1570,"Seaside, CA, CA",1
-2900,"Seaside, OR",1
-13,"Seattle, WA",18
-1254,"Seattle, WA, WA",1
-141,"Sebastopol, CA",6
-2566,"Sebring, FL",1
-1176,"Sedalia, MO",1
-1683,"Seguin, TX",1
-681,"Selah, WA",2
-739,"Selinsgrove, PA",2
-676,"Selma, AL",2
-1260,"Selma, NC",1
-355,"Sequim, WA",3
-2582,"Seymour, IN",1
-378,"Shaker Heights, OH",3
-2945,"Shamokin, PA",1
-2849,"Sharon, CT",1
-2023,"Sharon, OH",1
-3040,"Sharon, PA",1
-2834,"Sharpsville, PA",1
-2609,"Shawano, WI",1
-1313,"Shawnee, OK",1
-974,"Sheboygan, WI",2
-2833,"Shelburne Falls, MA",1
-1826,"Shelby Town, MI",1
-1963,"Shelby Township, MI",1
-511,"Shelby, NC",3
-2520,"Shelby, OH",1
-629,"Shelbyville, KY",2
-2727,"Shelter Island, NY",1
-2605,"Shelton, CT",1
-2336,"Shelton, WA",1
-3003,"Sheridan, WY",1
-2823,"Sherman, TX",1
-1959,"Shippensburg, PA",1
-237,"Shirley, NY",4
-2887,"Shoreline, WA",1
-1652,"Shoreview, MN",1
-781,"Shorewood, WI",2
-161,"Shreveport, LA",6
-1882,"Shrewsbury, MA",1
-1310,"Sidney, NE",1
-2825,"Sidney, OH",1
-1988,"Sierra Madre, CA",1
-813,"Sierra Vista, AZ",2
-2477,"Silver City, NM",1
-367,"Silver Spring, MD",3
-1821,"Silver Spring, MD, MD",1
-1934,"Silverdale, WA",1
-2588,"Silverton, OR",1
-436,"Simi Valley, CA",3
-1566,"Simi Valley, CA, CA",1
-1987,"Simpsonville, SC",1
-2689,"Simsbury, CT",1
-196,"Sioux City, IA",5
-429,"Sioux Falls, SD",3
-794,"Sisters, OR",2
-1089,"Sitka, AK",2
-2778,"Skagway, AK",1
-3096,"Skaneateles, NY",1
-2671,"Skokie, IL",1
-2819,"Skowhegan, ME",1
-1368,"Slidell, LA",1
-513,"Smithtown, NY",3
-454,"Smyrna, GA",3
-1021,"Snohomish, WA",2
-1648,"Snoqualmie, WA",1
-1617,"Socorro, NM",1
-3053,"Sofia, Bulgaria",1
-2841,"Solana Beach, CA",1
-2370,"Soldotna, AK",1
-2697,"Solvang, CA",1
-1391,"Somers Point, NJ",1
-2152,"Somers, CT",1
-1482,"Somers, NY",1
-1398,"Somerset, KY",1
-2116,"Somerset, PA",1
-2776,"Somerville, CA",1
-1734,"Somerville, MA",1
-847,"Somerville, NJ",2
-2372,"Sonoma, CA",1
-2701,"Sonora, CA",1
-2881,"Souderton, PA",1
-1097,"South Bay, CA",2
-256,"South Bend, IN",4
-2835,"South Boston, VA",1
-885,"South Brunswick, NJ",2
-2394,"South Hadley, MA",1
-2758,"South Jordan, UT",1
-2449,"South Kingstown, RI",1
-1997,"South Lake Tahoe, CA",1
-515,"South Pasadena, CA",3
-2875,"South Portland, ME",1
-2384,"South Royalton, VT",1
-2757,"South San Francisco, CA",1
-554,"South Windsor, CT",3
-2257,"Southampton, NY",1
-1984,"Southbridge, MA",1
-757,"Southbury, CT",2
-249,"Southfield, MI",4
-3024,"Southington, CT",1
-2883,"Southlake, TX",1
-1436,"Southwick, MA",1
-3050,"Sparta, IL",1
-975,"Spartanburg, SC",2
-1458,"Spencer, IA",1
-106,"Spokane, WA",8
-1906,"Spotsylvania County, VA",1
-1299,"Spotsylvania, VA",1
-2190,"Spring Hill, TN",1
-712,"Spring Hope, NC",2
-2707,"Spring Township, PA",1
-2382,"Spring Valley, NY",1
-856,"Springboro, OH",2
-486,"Springfield, IL",3
-219,"Springfield, MA",5
-104,"Springfield, MO",8
-570,"Springfield, NJ",2
-413,"Springfield, OH",3
-493,"Springfield, OR",3
-2022,"Springfield, VT",1
-2244,"St. Albans, VT",1
-2141,"St. Anthony, MN",1
-150,"St. Augustine, FL",6
-2188,"St. Charles, IL",1
-242,"St. Charles, MO",4
-2489,"St. Clair Shores, MI",1
-218,"St. Cloud, MN",5
-2905,"St. Francisville, LA",1
-173,"St. George, UT",5
-1268,"St. Helena Island, SC, virtual",1
-2420,"St. Helens, OR",1
-2709,"St. John, IL",1
-673,"St. John, IN",2
-2137,"St. Johns, FL",1
-2868,"St. Johns, IL",1
-2929,"St. Johnsbury, VT",1
-2949,"St. Joseph, MI",1
-338,"St. Joseph, MO",3
-1221,"St. Louis City, MO",1
-1606,"St. Louis Park, MN",1
-44,"St. Louis, MO",12
-1227,"St. Louis, MO, MO",1
-1367,"St. Matthews, KY",1
-50,"St. Paul, MN",11
-2575,"St. Peter, MN",1
-59,"St. Petersburg, FL",10
-2200,"St. Tammany Parish, LA",1
-2844,"Stafford, NJ",1
-1556,"Stafford, VA",1
-222,"Stamford, CT",5
-1404,"Stanardsville, VA",1
-1748,"Stanford, CA",1
-120,"Stanwood, WA",7
-1123,"Starkville, MS",1
-172,"State College, PA",5
-90,"Staten Island, NY",8
-625,"Statesboro, GA",2
-400,"Statesville, NC",3
-766,"Staunton, VA",2
-846,"Steamboat Springs, CO",2
-1093,"Stephenville, TX",2
-2623,"Sterling Heights, MI",1
-2534,"Sterling, CO",1
-2220,"Sterling, VA",1
-705,"Steubenville, OH",2
-404,"Stevens Point, WI",3
-2106,"Stevenson, WA",1
-1803,"Stillwater, OK",1
-153,"Stockton, CA",6
-1642,"Stone Mountain, GA",1
-869,"Stonington, CT",2
-1633,"Stoughton, MA",1
-2947,"Stoughton, MA, MA",1
-3016,"Stratford, CT",1
-1994,"Streator, IL",1
-955,"Stroudsburg, PA",2
-577,"Stuart, FL",2
-1561,"Studio City, CA",1
-2159,"Sturbridge, MA",1
-2615,"Sturgeon Bay, WI",1
-908,"Sudbury, MA",2
-862,"Suffolk, VA",2
-2269,"Sulphur Springs, TX",1
-592,"Summerville, SC",2
-2247,"Summit, NJ",1
-343,"Sumter, SC",3
-2864,"Sun Prairie, WI",1
-1777,"Sunapee, NH",1
-2959,"Sunbury, PA",1
-2046,"Sunnyvale, CA",1
-2519,"Sunrise, FL",1
-1585,"Superior, WI",1
-832,"Surprise, AZ",2
-1769,"Suwanee, GA",1
-805,"Swampscott, MA",2
-1915,"Sweetwater, TN",1
-2044,"Sycamore, IL",1
-311,"Sykesville, MD",4
-1150,"Sylacauga, AL",1
-786,"Sylva, NC",2
-1298,"Sylvania, OH",1
-2859,"Syosset, NY",1
-37,"Syracuse, NY",13
-65,"Tacoma, WA",10
-2748,"Tacoma, WA, WA",1
-1483,"Tahlequah, OK",1
-2467,"Takoma Park, MD",1
-1636,"Talkeetna, AK",1
-2908,"Talladega, AL",1
-36,"Tallahassee, FL",13
-2246,"Tallmadge, OH",1
-51,"Tampa, FL",11
-1284,"Tampa, Fl",1
-2286,"Tampa, Fl, virtual",1
-744,"Tamuning, Guam",2
-1810,"Taos, NM",1
-3088,"Tarrytown, NY",1
-2899,"Taunton, MA",1
-2641,"Taunton, MD",1
-2258,"Tavares, FL",1
-2889,"Taylor, MI",1
-2693,"Taylor, TX",1
-2233,"Taylorville, IL",1
-2461,"Teaneck, NJ",1
-1381,"Tecumseh, MI",1
-1712,"Tehachapi, CA",1
-1397,"Telluride, CO",1
-1192,"Telluride, CO, CO",1
-168,"Temecula, CA",5
-2927,"Tempe, AZ",1
-2539,"Temple City, CA",1
-2447,"Temple Terrace, FL",1
-903,"Temple, TX",2
-1439,"Terra Linda, CA",1
-186,"Terre Haute, IN",5
-678,"Texarkana, TX",2
-2376,"The Dalles, OR",1
-770,"The Woodlands, TX",2
-1899,"Thibodaux, LA",1
-2923,"Thomaston, CT",1
-949,"Thomasville, GA",2
-2675,"Thomson, GA",1
-375,"Thousand Oaks, CA",3
-2954,"Tiffin, OH",1
-1390,"Tifton, GA",1
-2260,"Timonium, MD, MD",1
-2236,"Tinley Park, IL",1
-2187,"Tipp City, OH",1
-2290,"Titusville, FL",1
-1724,"Tokyo, Japan",1
-285,"Toledo, OH",4
-2471,"Tolland, CT",1
-2179,"Tolono, IL",1
-2021,"Tomah, WI",1
-1322,"Tomball, TX",1
-2847,"Toms River, NJ",1
-201,"Topeka, KS",5
-1662,"Topeka, KS, KS",1
-334,"Torrance, CA",3
-397,"Torrington, CT",3
-1486,"Torrington, WY",1
-431,"Towson, MD",3
-2078,"Tracy, CA",1
-1484,"Traverse City, MI",1
-1370,"Traverse. City, MI",1
-484,"Trenton, NJ",3
-2785,"Tri-Cities, WA",1
-2663,"Trotwood, OH",1
-3049,"Troutdale, OR",1
-485,"Troy, AL",3
-248,"Troy, MI",4
-430,"Troy, NY",3
-2436,"Troy, OH",1
-610,"Truckee, CA",2
-1147,"Trumbull, CT",1
-1490,"Truth or Consequences, NM, NM",1
-946,"Tualatin, OR",2
-2720,"Tuckahoe, VA",1
-131,"Tucson, AZ",7
-1806,"Tukwila, WA",1
-2302,"Tulare, CA",1
-49,"Tulsa, OK",11
-2094,"Tulsa, OK, OK",1
-1447,"Tumwater, WA",1
-316,"Tupelo, MS",4
-1941,"Tupper Lake, NY",1
-3026,"Turin, Italy",1
-329,"Turlock, CA",4
-1463,"Turners Falls, MA",1
-1026,"Tuscaloosa, AL",2
-417,"Tuscola, IL",3
-2911,"Tuscon, AZ",1
-1408,"Tuscumbia, AL",1
-2129,"Tuskegee, AL",1
-1965,"Tustin, CA",1
-1053,"Twentynine Palms, CA",2
-992,"Twin Falls, ID",2
-1969,"Tybee Island, GA",1
-349,"Tyler, TX",3
-698,"Ukiah, CA",2
-1428,"Unadilla, NY",1
-2702,"Unalakleet, AK",1
-2460,"Union, MO",1
-2457,"Uniondale, NY",1
-2261,"Uniontown, PA",1
-1559,"University Heights, CA",1
-642,"Upland, CA",2
-2846,"Upper Arlington, OH",1
-1018,"Upper Darby, PA",2
-2320,"Upper Jay, NY",1
-1898,"Upper Marlboro, MD",1
-2928,"Upper St. Clair, PA",1
-304,"Urbana, IL",4
-1261,"Utica, NY",1
-2102,"Utulei, American Samoa",1
-425,"Vacaville, CA",3
-356,"Vail, CO",3
-2938,"Valdez, AK",1
-939,"Valdosta, GA",2
-617,"Valencia, CA",2
-107,"Vallejo, CA",7
-1346,"Vallejo, CA, CA",1
-3017,"Valley Center, KS",1
-1204,"Valley City, ND",1
-267,"Valley Stream, NY",4
-2063,"Valparaiso, IN",1
-1251,"Van Nuys, CA",1
-1907,"Van Wert, OH",1
-307,"Vancouver, WA",4
-2879,"Vandergrift, PA",1
-459,"Vashon, WA",3
-2419,"Venice Beach, CA",1
-2439,"Venice, CA",1
-387,"Ventura, CA",3
-1664,"Ventura, CA, CA",1
-2308,"Vernon Hills, IL",1
-1295,"Vernon, CT",1
-1255,"Vernon, NJ",1
-1062,"Vero Beach, FL",2
-1219,"Vestavia Hills, AL",1
-1151,"Vicksburg, MO",1
-1794,"Vicksburg, MS",1
-2454,"Victor, ID",1
-2972,"Victor, NY",1
-477,"Victoria, TX",3
-507,"Victorville, CA",3
-2866,"Vidor, TX",1
-896,"Vienna, VA",2
-1315,"Viera, FL",1
-2272,"Vincennes, IN",1
-1030,"Vineland, NJ",2
-1283,"Vineyard Haven, MA",1
-1857,"Vineyard Haven, MA, MA",1
-2722,"Virgina Beach, VA",1
-94,"Virginia Beach, VA",8
-567,"Virginia, MN",2
-221,"Visalia, CA",5
-2668,"Voorhees, NJ",1
-914,"Waco, TX",2
-2162,"Wadesboro, NC",1
-1155,"Wagoner, OK",1
-549,"Waikiki, HI",3
-1117,"Waitsfield, VT",1
-2463,"Walhalla, SC",1
-2774,"Walker, LA",1
-851,"Walla Walla, WA",2
-605,"Wallingford, CT",2
-2347,"Wallingford, CT, CT",1
-1649,"Wallkill, NY",1
-2931,"Walnut Cove, NC",1
-624,"Walnut Creek, CA",2
-2989,"Walnut, CA",1
-2282,"Walpole, MA",1
-1031,"Waltham, MA",2
-1569,"Walton County, FL",1
-2189,"Ware, MA",1
-558,"Warner Robins, GA",3
-804,"Warren, MI",2
-1477,"Warren, NJ",1
-1136,"Warren, OH",1
-870,"Warren, PA",2
-1811,"Warrenton, VA",1
-953,"Warsaw, IN",2
-584,"Warsaw, Poland",2
-527,"Warwick, NY",3
-2175,"Wasau, WI",1
-2329,"Waseca, MN",1
-2316,"Washburn, WI",1
-2592,"Washington DC, DC",1
-2948,"Washington DC, DC, DC",1
-2679,"Washington Township, MI",1
-1348,"Washington, CT",1
-10,"Washington, DC",19
-2507,"Washington, IN",1
-1672,"Washington, MO",1
-1090,"Washington, NC",2
-348,"Washington, PA",3
-656,"Washougal, WA",2
-1624,"Waterbury, CT",1
-1028,"Waterford, CT",2
-1804,"Waterford, NY",1
-128,"Waterloo, IA",7
-1572,"Waterloo, IL",1
-1912,"Waterloo, MO",1
-1395,"Watertown, CT",1
-597,"Watertown, NY",2
-1396,"Watertown, SD",1
-1059,"Waterville, ME",2
-2775,"Watsonville, CA",1
-576,"Waukegan, IL",2
-729,"Waukesha, WI",2
-3045,"Waupaca, WI",1
-711,"Wausau, WI",2
-350,"Wauwatosa, WI",3
-2993,"Waxahachie, TX",1
-1766,"Waxhaw, NC",1
-1879,"Wayland, MA",1
-2052,"Wayne, NJ",1
-2073,"Wayne, PA",1
-1999,"Waynesboro, GA",1
-2958,"Waynesboro, PA",1
-797,"Waynesboro, VA",2
-1296,"Waynesburg, PA, PA",1
-2339,"Waynesville, NC",1
-1762,"Weatherford, TX",1
-1108,"Weaverville, CA",1
-2933,"Weaverville, NC",1
-2070,"Webster Groves, MO",1
-877,"Webster, MA",2
-2681,"Wellfleet, MA",1
-808,"Wellington, CO",2
-671,"Wellington, FL",2
-1631,"Wellington, KS",1
-1422,"Wellsville, NY",1
-344,"Wenatchee, WA",3
-2076,"Wendell, MA",1
-1121,"West Allis, WI",1
-2307,"West Bloomfield, MI",1
-1329,"West Bloomfield, MI, virtual",1
-1800,"West Brookfield, MA",1
-1579,"West Chester, OH",1
-482,"West Chester, PA",3
-658,"West Covina, CA",2
-195,"West Hartford, CT",5
-1654,"West Haven, CT",1
-2411,"West Haverstraw, NY",1
-1159,"West Hempstead, NY",1
-924,"West Hollywood, CA",2
-2438,"West Islip, NY",1
-1141,"West Jefferson, NC",1
-3104,"West Melbourne, FL",1
-1708,"West Milford, NJ",1
-1516,"West Newbury, MA",1
-1588,"West Orange, NJ",1
-129,"West Palm Beach, FL",7
-1639,"West Plains, MO",1
-2576,"West Point, NY",1
-1808,"West Roxbury, MA",1
-1257,"West St. Louis, MO",1
-2331,"West St. Paul, MN",1
-2622,"West Union, OH",1
-1978,"Westborough, MA",1
-1126,"Westchester, NY",1
-2151,"Westcliffe, CO",1
-1823,"Westerly, RI",1
-2442,"Westerville, OH",1
-815,"Westfield, MA",2
-494,"Westfield, NJ",3
-1838,"Westland, MI",1
-965,"Westminster, CA",2
-322,"Westminster, MD",4
-1491,"Westmont, NJ",1
-2230,"Westmoreland, NY",1
-1206,"Weston, CT",1
-389,"Weston, FL",3
-1096,"Westport, CT",2
-1897,"Westwood, Los Angeles, CA",1
-2064,"Wethersfield, CT",1
-1747,"Wheaton, IL",1
-1521,"Wheeling, WV",1
-502,"White Plains, NY",3
-1667,"White Settlement, TX, TX",1
-303,"Whitefish, MT",4
-2556,"Whitesburg, KY",1
-1115,"Whitesburg, KY, KY",1
-2713,"Whitewater, WI",1
-2570,"Whitewater, WI, WI",1
-603,"Whitman, MA",2
-231,"Whittier, CA",4
-702,"Wichita Falls, TX",2
-113,"Wichita, KS",7
-2015,"Wildwood, MO",1
-1935,"Wildwood, NJ",1
-156,"Wilkes-Barre, PA",6
-2962,"Wilkesboros, NC",1
-932,"Williamsburg, VA",2
-982,"Williamson, WV",2
-777,"Williamsport, PA",2
-1060,"Williamstown, MA",2
-1076,"Williamstown, MA, MA",2
-188,"Willingboro, NJ",5
-2065,"Willis, TX",1
-1043,"Williston, ND",2
-2455,"Willits, CA",1
-607,"Willmar, MN",2
-2264,"Wilmar, MN",1
-517,"Wilmington, DE",3
-2304,"Wilmington, MA",1
-158,"Wilmington, NC",6
-1009,"Wilmington, OH",2
-2249,"Wilmington, VT",1
-947,"Wilson, NC",2
-1503,"Wilton, CT",1
-790,"Wimberley, TX",2
-599,"Winchester, KY",2
-1487,"Winchester, TN",1
-718,"Winchester, VA",2
-414,"Windermere, FL",3
-2630,"Windham, CT",1
-2719,"Windsor Locks, CT",1
-697,"Windsor, CT",2
-1158,"Winfield, IL",1
-279,"Winfield, KS",4
-2533,"Winnetka, IL",1
-2255,"Winnsboro, LA",1
-2271,"Winona, MN",1
-2217,"Winslow, WA",1
-33,"Winston-Salem, NC",13
-2315,"Winthrop, WA",1
-802,"Wiscasset, ME",2
-2172,"Wisconsin Rapids, WI",1
-1528,"Woburn, MA",1
-1405,"Wolcott, CT",1
-3078,"Wolfeboro, NH, NH",1
-2275,"Woodbridge, VA",1
-2170,"Woodburn, OR",1
-1884,"Woodbury, CT",1
-2670,"Woodbury, MN",1
-1183,"Woodcreek, TX",1
-2040,"Woodhaven, MI",1
-381,"Woodland, CA",3
-1453,"Woodstock, CT",1
-690,"Woodstock, GA",2
-1168,"Woodstock, IL",1
-2559,"Woodstock, NY, NY",1
-1171,"Woodstock, VT",1
-2381,"Woodward, OK",1
-2511,"Woonsocket, RI",1
-60,"Wooster, OH",10
-179,"Worcester, MA",5
-1132,"Worthington, MN",1
-370,"Worthington, OH",3
-2371,"Wyandotte, MI",1
-2998,"Wylie, TX",1
-2161,"Wynnwood, FL",1
-1819,"Wyoming, RI, RI",1
-2784,"Wytheville, VA",1
-626,"Xenia, OH",2
-488,"Yachats, OR",3
-3020,"Yakima, WA",1
-1780,"Yankton, SD",1
-1140,"Yardley, PA",1
-2213,"Yeadon, PA",1
-780,"Yellow Springs, OH",2
-524,"Yonkers, NY",3
-2291,"Yorba Linda, CA",1
-1530,"York City, PA",1
-2210,"York, ME",1
-115,"York, PA",7
-2871,"York, SC",1
-1697,"Yorktown, NY",1
-2876,"Yorkville, IL",1
-632,"Youngstown, OH",2
-152,"Ypsilanti, MI",6
-2042,"Yreka, CA",1
-294,"Yucaipa, CA",4
-1250,"Yucca Valley, CA",1
-1051,"Yuma, AZ",2
-2944,"Zagreb, Croatia",1
-1013,"Zanesville, OH",2
+259,"New Bern, NC",4
+2451,"New Braunfels, TX",1
+781,"New Britain, CT",2
+898,"New Brunswick, NJ",2
+299,"New Canaan, CT",4
+2124,"New Canaan, Connecticut",1
+2813,"New Carlisle, OH",1
+1007,"New Castle, PA",2
+85,"New Haven, CT",9
+2494,"New Haven, CT, CT",1
+2398,"New Haven, MI",1
+2988,"New Hope, PA",1
+1852,"New Iberia, LA",1
+434,"New Lenox, IL",3
+1325,"New Lenox, Illinois",1
+263,"New London, CT",4
+48,"New Orleans, LA",12
+1323,"New Orleans, LA, LA",1
+2401,"New Orleans, NY",1
+3034,"New Paltz, NY",1
+2677,"New Philadelphia, OH",1
+1489,"New Port Richey, FL",1
+1581,"New Providence, NJ",1
+137,"New Rochelle, NY",7
+2051,"New Smyrna Beach, FL",1
+2030,"New Town, ND",1
+2,"New York, NY",25
+3294,"New York, NY, virtual",1
+3151,"Newark, DE",1
+275,"Newark, NJ",4
+829,"Newark, OH",2
+1934,"Newberg, OR",1
+1290,"Newberg, Oregon",1
+256,"Newburgh, NY",4
+1005,"Newburyport, MA",2
+202,"Newcastle, ME",5
+2255,"Newcastle, WA",1
+1365,"Newington, CT",1
+1522,"Newington, Connecticut",1
+3242,"Newland, NC",1
+347,"Newnan, GA",4
+1057,"Newport Beach, CA",2
+238,"Newport News, VA",5
+2862,"Newport, OR",1
+924,"Newport, RI",2
+1731,"Newport, TN",1
+1922,"Newport, VT",1
+989,"Newton, IA",2
+2330,"Newton, KS",1
+261,"Newton, MA",4
+2554,"Newton, Massachusetts",1
+906,"Newton, NC",2
+786,"Newton, NJ",2
+2110,"Newton, NJ, NJ",1
+1682,"Newtown, CT",1
+867,"Newtown, PA",2
+776,"Niagara Falls, NY",2
+2106,"Nipomo, CA",1
+3307,"Nipomo, California",1
+1453,"Niskayuna, NY",1
+2588,"Nocatee, FL",1
+1131,"Nogales, AZ",2
+1941,"Norfolk, NE",1
+54,"Norfolk, VA",11
+305,"Norman, OK",4
+1404,"Normandy Park, WA",1
+3191,"Norristown, PA",1
+2890,"North Adams, MA",1
+3060,"North Andover, MA",1
+725,"North Bend, WA",2
+1028,"North Bergen, NJ",2
+2609,"North Brookfield, MA",1
+1378,"North Brunswick, NJ",1
+3180,"North Canaan, CT",1
+2227,"North Canton, OH",1
+2514,"North Canton, Ohio",1
+346,"North Charleston, SC",4
+316,"North Conway, NH",4
+2035,"North Kingstown, RI",1
+1880,"North Little Rock, AR",1
+2232,"North Myrtle Beach, SC",1
+1505,"North Naples, FL",1
+1688,"North Plainfield, NJ",1
+3212,"North Platte, NE",1
+2858,"North Suffolk, VA",1
+2825,"North Wilkesboro, NC",1
+889,"Northampton, MA",2
+1869,"Northbrook, IL",1
+2658,"Northridge, CA",1
+2468,"Norton, VA",1
+895,"Norwalk, CT",2
+3033,"Norwalk, OH",1
+3193,"Norwell, MA",1
+456,"Norwich, CT",3
+1186,"Norwich, NY",1
+1816,"Norwich, New York",1
+646,"Norwood, CO",2
+635,"Novato, CA",2
+2121,"Novi, NY",1
+477,"Nutley, NJ",3
+1140,"Nyack, NY",2
+2375,"O'Fallon, IL",1
+1234,"O'Fallon, MO",1
+3119,"Oahu, HI",1
+896,"Oak Bluffs, MA",2
+1308,"Oak Grove, KY",1
+820,"Oak Harbor, WA",2
+3179,"Oak Lawn, IL",1
+2832,"Oak Park, CA",1
+2445,"Oak Park, IL",1
+2209,"Oak Park, Illinois",1
+2978,"Oak Park, MI",1
+2758,"Oak Ridge, TN",1
+1950,"Oakdale, CA",1
+1045,"Oakdale, MN",2
+23,"Oakland, CA",16
+2213,"Oakland, CA, CA",1
+1299,"Oakley, CA",1
+2923,"Oaks Bluff, MA",1
+1106,"Oakwood, OH",2
+2803,"Ocala, FL",1
+2828,"Ocean City, MA",1
+1119,"Ocean City, MD",2
+2659,"Ocean City, NJ",1
+1264,"Ocean Springs, MS",1
+215,"Oceanside, CA",5
+2372,"Oceanside, NY",1
+3100,"Ocoee, FL",1
+1598,"Ocoee, FL, FL",1
+1981,"Oconomowoc, WI",1
+1447,"Oconto, WI",1
+2075,"Odessa, MO",1
+248,"Odessa, TX",4
+539,"Ogden, UT",3
+2135,"Ogdensburg, NY",1
+3201,"Ogen, UT",1
+2192,"Oil City, PA",1
+2304,"Ojai, CA",1
+61,"Oklahoma City, OK",11
+1111,"Olathe, KS",2
+2570,"Old Bridge, NJ",1
+1585,"Old Fort, NC",1
+2843,"Old Fort, North Carolina",1
+1406,"Old Lyme, CT",1
+780,"Old Saybrook, CT",2
+373,"Olean, NY",3
+708,"Olmsted Falls, OH",2
+2288,"Olney, MD",1
+101,"Olympia, WA",8
+60,"Omaha, NE",11
+2410,"Omak, WA",1
+2641,"Omak, Washington",1
+455,"Oneonta, NY",3
+2224,"Ontario, CA",1
+2475,"Ontario, OH",1
+1074,"Ontario, OR",2
+2053,"Ontario, Oregon",1
+404,"Opelika, AL",3
+1829,"Opelousas, LA",1
+613,"Orange, CA",2
+1265,"Orange, VA",1
+1188,"Orange, Virginia",1
+1092,"Orangeburg, SC",2
+1983,"Orangeburg, SC, virtual",1
+1385,"Orcas Island, WA",1
+2189,"Oregon City, OR, OR",1
+1510,"Oregon, IL",1
+1715,"Oregon, WI",1
+3017,"Orem, UT",1
+2048,"Orland Park, IL",1
+1298,"Orland, CA",1
+2148,"Orland, California",1
+47,"Orlando, FL",12
+2013,"Orlando, FL, FL",1
+1159,"Orleans, MA",1
+815,"Orono, ME",2
+1927,"Oroville, CA",1
+697,"Oshkosh, WI",2
+819,"Oskaloosa, IA",2
+489,"Ossining, NY",3
+835,"Oswego, NY",2
+581,"Ottawa, IL",3
+757,"Ottumwa, IA",2
+1391,"Ouray, CO",1
+2349,"Ouray, Colorado",1
+160,"Overland Park, KS",6
+1977,"Owasso, OK",1
+782,"Owatonna, MN",2
+348,"Owensboro, KY",4
+2901,"Oxford, CT",1
+432,"Oxford, MS",3
+2169,"Oxford, OH",1
+196,"Oxnard, CA",5
+2174,"Oyster Bay, NY",1
+2873,"O’Fallon Township, IL",1
+2009,"O’Hara, PA",1
+600,"Pacific Beach, CA",2
+235,"Paducah, KY",5
+2389,"Painesville, OH",1
+1553,"Paintsville, KY",1
+699,"Palatine, IL",2
+2660,"Palatine, Illinois",1
+1894,"Palestine, TX",1
+953,"Palm Bay, FL",2
+1174,"Palm Beach (town), FL",1
+2482,"Palm Beach Gardens, FL",1
+245,"Palm Beach, FL",5
+3064,"Palm Coast, FL",1
+2386,"Palm Desert, CA",1
+270,"Palm Springs, CA",4
+463,"Palmdale, CA",3
+3126,"Palmer, AK",1
+3053,"Palmerton, PA",1
+2821,"Palmerton, Pennsylvania",1
+154,"Palo Alto, CA",6
+1672,"Palo Alto, CA, CA",1
+3049,"Palos Heights, IL",1
+2654,"Palos Verdes Estates, CA",1
+3021,"Palos Verdes, CA",1
+2703,"Pampa, FL",1
+2786,"Panama City Beach, FL",1
+459,"Panama City, FL",3
+1619,"Panhandle, TX",1
+1614,"Parachute, CO",1
+3035,"Paramount, CA",1
+1169,"Paramus, NJ",1
+2001,"Paris, TN",1
+1017,"Paris, TX",2
+2651,"Park City, UT",1
+360,"Park Rapids, MN",3
+729,"Park Ridge, IL",2
+530,"Parkersburg, WV",3
+2262,"Parma, OH",1
+2491,"Parsippany, NJ",1
+3223,"Parsons, KS",1
+123,"Pasadena, CA",7
+2892,"Pasadena, CA, CA",1
+2450,"Pasadena, MD",1
+266,"Pasco, WA",4
+2175,"Patchogue, NY",1
+351,"Paterson, NJ",4
+1960,"Pauls Valley, OK",1
+2202,"Pawleys Island, SC",1
+3124,"Payson, AZ",1
+1240,"Payson, AZ, AZ",1
+944,"Peabody, MA",2
+1255,"Peabody, Massachusetts",1
+3160,"Peachtree City, GA",1
+1422,"Peconic, NY",1
+1201,"Pecos, TX",1
+2310,"Peekskill, NY",1
+2307,"Pekin, IL",1
+731,"Pelham, NY",2
+919,"Pembroke Pines, FL",2
+3093,"Pen Argyl, PA",1
+1233,"Pendelton, OR",1
+1281,"Pendleton, IN",1
+2519,"Pendleton, OR",1
+2705,"Penn Yan, NY",1
+2471,"Pennington, NJ",1
+2648,"Pennsburg, PA",1
+1199,"Pennsburg, Pennsylvania",1
+1151,"Pennwynne, PA",1
+64,"Pensacola, FL",10
+734,"Peoria, IL",2
+3108,"Perkasie, PA",1
+2617,"Perris, CA, CA",1
+1094,"Perrysburg, OH",2
+2343,"Perryville, MO",1
+534,"Pescadero, CA",3
+159,"Petal, MS",6
+2409,"Petaluma, CA",1
+2713,"Petaluma, CA, CA",1
+1109,"Peterborough, NH",2
+948,"Petersburg, VA",2
+157,"Petoskey, MI",6
+2627,"Phenix City, AL",1
+22,"Philadelphia, PA",16
+2144,"Philadelphia, PA, PA",1
+1093,"Philipsburg, PA",2
+2907,"Phillipsburg, NJ",1
+9,"Phoenix, AZ",21
+2033,"Phoenixville, PA",1
+856,"Picayune, MS",2
+2544,"Pickens, SC",1
+2136,"Piedmont, CA",1
+633,"Pierre, SD",2
+1942,"Pikeville, KY",1
+3276,"Pilot Point, TX",1
+1561,"Pinckney, MI",1
+1767,"Pinckneyville, IL",1
+2204,"Pine Bluff, AR",1
+1405,"Pine Bluff, Arkansas",1
+2021,"Pine City, MN",1
+1725,"Pine Ridge, SD",1
+1572,"Pinedale, WY",1
+2103,"Pinedale, Wyoming",1
+1166,"Pinole, CA",1
+3012,"Piqua, OH",1
+877,"Pitman, NJ",2
+2147,"Pittsboro, NC",1
+2423,"Pittsburg, KS",1
+32,"Pittsburgh, PA",14
+2478,"Pittsburgh, PA, PA",1
+429,"Pittsfield, MA",3
+265,"Pittsfield, MI",4
+1661,"Pittsford, NY",1
+2756,"Pittston, PA",1
+901,"Placentia, CA",2
+1736,"Placerville, CA",1
+2356,"Placerville, CA, CA",1
+2682,"Plainfield, CT",1
+2046,"Plainfield, IL",1
+796,"Plainfield, NH",2
+2716,"Plainfield, NJ",1
+1414,"Plainview, NY",1
+1239,"Plainville, CT",1
+940,"Plano, TX",2
+2337,"Plant City, FL",1
+790,"Plattsburgh, NY",2
+2629,"Pleasant Hills, PA",1
+2362,"Pleasanton, CA",1
+3237,"Plymouth Meeting, PA",1
+2323,"Plymouth, IN",1
+3146,"Plymouth, MA",1
+519,"Plymouth, MI",3
+3103,"Plymouth, MN",1
+589,"Pocatello, ID",3
+1755,"Pocomoke City, MD",1
+2663,"Podgorica, Montenegro",1
+2989,"Point Pleasant Beach, NJ",1
+2100,"Political, Puerto Rico",1
+1839,"Polson, MT",1
+2461,"Pomfret, CT",1
+406,"Pomona, CA",3
+2996,"Pompano Beach, FL",1
+1848,"Ponca City, OK",1
+1192,"Ponchatoula, LA",1
+2483,"Ponte Vedra Beach, FL",1
+366,"Pontiac, MI",3
+2537,"Poquoson, VA",1
+2792,"Port Allen, LA",1
+461,"Port Angeles, WA",3
+1858,"Port Arthur, TX",1
+321,"Port Huron, MI",4
+1081,"Port Jefferson Station, NY",2
+1027,"Port Jefferson, NY",2
+2219,"Port Jervis, NY",1
+2316,"Port Orange, FL",1
+1253,"Port Orchard, WA, WA",1
+3156,"Port St. Lucie, FL",1
+550,"Port Townsend, WA",3
+2719,"Port Washington, WI",1
+2951,"Portage, IN",1
+2874,"Portage, MI",1
+1513,"Portage, PA",1
+2848,"Portage, Pennsylvania",1
+3220,"Portales, NM",1
+1383,"Porterville, CA",1
+1988,"Portland, IN",1
+124,"Portland, ME",7
+0,"Portland, OR",27
+1205,"Portland, OR, OR",1
+615,"Portsmouth, NH",2
+1669,"Portsmouth, NH, virtual",1
+2371,"Portsmouth, New Hampshire",1
+2005,"Portsmouth, OH",1
+229,"Portsmouth, VA",5
+243,"Potsdam, NY",5
+886,"Pottstown, PA",2
+1379,"Pottsville, PA",1
+334,"Poughkeepsie, NY",4
+787,"Poulsbo, WA",2
+2230,"Poway, CA",1
+3063,"Prairie Grove, AR",1
+3187,"Prairie Grove, Arkansas",1
+3031,"Prairie Village, KS",1
+2393,"Prairie Village, MO",1
+1157,"Prairie du Sac, WI",1
+1355,"Prescott Valley, AZ",1
+662,"Prescott, AZ",2
+850,"Presque Isle, ME",2
+3080,"Prestonburg, KY",1
+1488,"Prince Frederick, MD",1
+1696,"Princeton, IL",1
+1832,"Princeton, IN",1
+3274,"Princeton, Illinois",1
+1394,"Princeton, KY",1
+2779,"Princeton, Kentucky",1
+659,"Princeton, NJ",2
+3290,"Princeton, WV",1
+2354,"Prineville, OR",1
+1423,"Protester violence, MI",1
+106,"Providence, RI",8
+3296,"Providence, RI, RI",1
+1878,"Provincetown, MA",1
+551,"Provo, UT",3
+585,"Pueblo, CO",3
+285,"Pullman, WA",4
+902,"Punta Gorda, FL",2
+2769,"Punxsutawney, PA",1
+1184,"Purcellville, VA",1
+2283,"Puyallup, WA",1
+3240,"Quakertown, PA",1
+1168,"Queen Creek, AZ",1
+46,"Queens, NY",12
+2952,"Quincy, CA",1
+2322,"Quincy, CA, CA",1
+2489,"Quincy, FL",1
+1132,"Quincy, IL",2
+863,"Quincy, MA",2
+2342,"Quincy, WA",1
+605,"Quinlan, TX",2
+224,"Racine, WI",5
+996,"Radnor, PA",2
+3101,"Radnor, Pennsylvania",1
+407,"Raeford, NC",3
+2338,"Rahway, NJ",1
+33,"Raleigh, NC",14
+941,"Ramona, CA",2
+302,"Rancho Cucamonga, CA",4
+2370,"Rancho Mirage, CA",1
+1138,"Rancho Palos Verdes, CA",2
+2444,"Rancho Santa Margarita, CA",1
+1805,"Randallstown, MD",1
+2326,"Randolph, MA",1
+2158,"Randolph, VT",1
+313,"Rapid City, SD",4
+2776,"Rapid City, SD, SD",1
+1700,"Ravenna, OH",1
+2163,"Raymond, WA",1
+3026,"Reading, MA",1
+501,"Reading, PA",3
+727,"Red Bank, NJ",2
+1331,"Red Bank, SC",1
+703,"Red Bluff, CA",2
+1807,"Red Hook, NY",1
+1744,"Red Lodge, MT",1
+1842,"Red Oak, TX",1
+1011,"Red Wing, MN",2
+148,"Redding, CA",6
+449,"Redlands, CA",3
+532,"Redmond, WA",3
+1629,"Redondo Beach, CA",1
+676,"Redwood City, CA",2
+595,"Rehoboth Beach, DE",2
+1686,"Reidsville, NC",1
+133,"Reno, NV",7
+1698,"Renssleaer, NY",1
+502,"Renton, WA",3
+752,"Rexburg, ID",2
+950,"Rhinebeck, NY",2
+3086,"Rhinelander, WI",1
+962,"Rice Lake, WI",2
+3164,"Rice Lake, Wisconsin",1
+2938,"Richardson, TX",1
+762,"Richland, WA",2
+2114,"Richlands, VA",1
+1885,"Richmond Hill, GA",1
+1083,"Richmond, CA",2
+814,"Richmond, IN",2
+1473,"Richmond, KY",1
+2032,"Richmond, OH",1
+2768,"Richmond, RI",1
+4,"Richmond, VA",24
+254,"Ridgecrest, CA",4
+1973,"Ridgefield Park, NJ",1
+1890,"Ridgefield, CT",1
+2928,"Ridgefield, WA",1
+3229,"Ridgeway, VA",1
+844,"Ridgewood, NJ",2
+958,"Rifle, CO",2
+1040,"Rio Grande, NJ",2
+2259,"Rio Rancho, NM",1
+1611,"Ripon, CA",1
+1603,"Riverbank, CA",1
+923,"Riverhead, NY",2
+152,"Riverside, CA",6
+3075,"Riverside, NJ",1
+2887,"Riverton, WY",1
+631,"Riverview, FL",2
+2565,"Riverview, MI",1
+1127,"Riviera Beach, FL",2
+3234,"Roanoke, TX, TX",1
+170,"Roanoke, VA",6
+1896,"Roanoke, VA, VA",1
+1689,"Robesonia, PA",1
+2767,"Rochester Hills, MI",1
+2063,"Rochester Hills, Michigan",1
+707,"Rochester, MI",2
+232,"Rochester, MN",5
+2886,"Rochester, Michigan",1
+161,"Rochester, NY",6
+755,"Rock Hill, SC",2
+2787,"Rock Island, IL",1
+565,"Rock Springs, WY",3
+59,"Rockford, IL",11
+2065,"Rockingham, NC",1
+394,"Rockland, ME",3
+3144,"Rockville, MD",1
+2226,"Rockwall, TX",1
+2222,"Rocky Hill, CT",1
+1368,"Rocky Mount, NC",1
+1373,"Rocky Mount, VA",1
+568,"Rogers, AR",3
+1408,"Rolla, MO",1
+147,"Rome, GA",6
+3066,"Rome, Italy",1
+2497,"Rome, NY",1
+2488,"Romeo, MI",1
+1294,"Romulus, MI",1
+1145,"Roosevelt, NY",1
+1432,"Roseburg, OR",1
+1919,"Roselle, NJ",1
+336,"Roseville, CA",4
+2521,"Roseville, MI",1
+2018,"Roseville, MN",1
+2474,"Roslindale, MA",1
+2699,"Roslindale, Massachusetts",1
+2276,"Roslyn, WA",1
+783,"Roswell, GA",2
+2634,"Roswell, NM",1
+1701,"Round Hill, VA",1
+205,"Round Rock, TX",5
+1530,"Rowland Heights, CA",1
+1251,"Rowlett, TX",1
+1558,"Roxbury, MA",1
+493,"Royal Oak, MI",3
+1897,"Royal Oak, MI, MI",1
+2462,"Royalton, VT",1
+1947,"Royersford, PA",1
+1762,"Royse City, TX",1
+1546,"Rugby, ND",1
+494,"Ruidoso, NM",3
+3039,"Rushville, IN",1
+1389,"Russellville, AR",1
+2454,"Ruston, LA",1
+2182,"Ruston, Louisiana",1
+1374,"Rutherford, NJ",1
+865,"Rutland, VT",2
+3104,"Rye, NY",1
+43,"Sacramento, CA",13
+1556,"Sacramento, CA, virtual",1
+2942,"Safford, AZ",1
+2118,"Sag Harbor, NY",1
+293,"Saginaw, MI",4
+301,"Salem, MA",4
+2443,"Salem, NH",1
+69,"Salem, OR",10
+2962,"Salem, VA",1
+736,"Salida, CO",2
+2096,"Salina, KS",1
+980,"Salinas, CA",2
+825,"Salisbury, CT",2
+879,"Salisbury, MD",2
+2568,"Salisbury, MD, MD",1
+2681,"Salisbury, Maryland",1
+246,"Salisbury, NC",4
+8,"Salt Lake City, UT",21
+2270,"Salt Lake City, UT, UT",1
+2165,"Sam Jose, CA",1
+1573,"San Angelo, TX",1
+52,"San Antonio, TX",12
+668,"San Bernardino, CA",2
+1082,"San Clemente, CA",2
+17,"San Diego, CA",17
+1855,"San Diego, CA, CA",1
+900,"San Dimas, CA",2
+3199,"San Francisco Peninsula, CA",1
+27,"San Francisco, CA",15
+1390,"San Gabriel, CA",1
+56,"San Jose, CA",11
+1663,"San Jose, CA, CA",1
+1257,"San Juan, PR",1
+2967,"San Juan, Puerto Rico",1
+3293,"San Leandro, CA",1
+128,"San Luis Obispo, CA",7
+520,"San Marcos, TX",3
+680,"San Mateo, CA",2
+2586,"San Pedro, CA",1
+1086,"San Rafael, CA",2
+1195,"San Ramon, CA",1
+1777,"Sandersville, GA",1
+1079,"Sandpoint, ID",2
+894,"Sandusky, OH",2
+1675,"Sandwich, IL",1
+2817,"Sandy Springs, GA",1
+609,"Sandy, OR",2
+2905,"Sanford, ME",1
+3062,"Sanford, NC",1
+221,"Santa Ana, CA",5
+276,"Santa Barbara, CA",4
+1152,"Santa Clara, CA",1
+2913,"Santa Clara, CA, CA",1
+78,"Santa Clarita, CA",9
+135,"Santa Cruz, CA",7
+1544,"Santa Cruz, CA, CA",1
+218,"Santa Fe, NM",5
+3025,"Santa Fe, NM, NM",1
+409,"Santa Maria, CA",3
+183,"Santa Monica, CA",6
+3117,"Santa Paula, CA",1
+105,"Santa Rosa, CA",8
+3267,"Santa ana, CA, CA",1
+140,"Santee, CA",7
+758,"Saranac Lake, NY",2
+113,"Sarasota, FL",8
+518,"Saratoga Springs, NY",3
+2608,"Sault Ste. Marie, MI",1
+120,"Savannah, GA",7
+2784,"Sayreville, NJ",1
+2863,"Sayville, NY",1
+2421,"Schaumburg, IL",1
+1468,"Schenectady, NY",1
+2797,"Scituate, MA",1
+1799,"Scotch Plains, NJ",1
+2600,"Scotch Plains, New Jersey",1
+1448,"Scottsbluff, NE",1
+482,"Scottsdale, AZ",3
+2972,"Scottsdale, AZ, virtual",1
+583,"Scranton, PA",3
+1318,"Seaford, DE",1
+922,"Seaside, CA",2
+1424,"Seaside, CA, CA",1
+2525,"Seaside, OR",1
+3250,"Seaside, Oregon",1
+13,"Seattle, WA",19
+1722,"Seattle, WA, WA",1
+1969,"Seaview, WA",1
+146,"Sebastopol, CA",6
+3096,"Sebring, FL",1
+1961,"Sedalia, MO",1
+2597,"Seguin, TX",1
+380,"Selah, WA",3
+464,"Selinsgrove, PA",3
+1122,"Selma, AL",2
+1901,"Selma, Alabama",1
+3095,"Selma, NC",1
+561,"Sequim, WA",3
+1426,"Seymour, IN",1
+582,"Shaker Heights, OH",3
+2509,"Shamokin, PA",1
+2789,"Sharon, CT",1
+2132,"Sharon, OH",1
+936,"Sharon, PA",2
+2555,"Sharpsville, PA",1
+2426,"Sharpsville, Pennsylvania",1
+1883,"Shawano, WI",1
+1791,"Shawnee, OK",1
+916,"Sheboygan, WI",2
+2633,"Shelburne Falls, MA",1
+2584,"Shelby Town, MI",1
+1482,"Shelby Township, MI",1
+364,"Shelby, NC",3
+1874,"Shelby, OH",1
+797,"Shelbyville, KY",2
+1737,"Shelter Island, NY",1
+2191,"Shelton, CT",1
+3139,"Shelton, WA",1
+2734,"Sheridan, WY",1
+2195,"Sherman, TX",1
+2957,"Shippensburg, PA",1
+253,"Shirley, NY",4
+1863,"Shoreline, WA",1
+1756,"Shoreview, MN",1
+732,"Shorewood, WI",2
+155,"Shreveport, LA",6
+1723,"Shrewsbury, MA",1
+2921,"Sidney, NE",1
+1939,"Sidney, OH",1
+2656,"Sierra Madre, CA",1
+2113,"Sierra Madre, California",1
+903,"Sierra Vista, AZ",2
+3284,"Silver City, NM",1
+1244,"Silver City, New Mexico",1
+511,"Silver Spring, MD",3
+2673,"Silver Spring, MD, MD",1
+1286,"Silverdale, WA",1
+3143,"Silverton, OR",1
+361,"Simi Valley, CA",3
+1518,"Simi Valley, CA, CA",1
+2508,"Simpsonville, SC",1
+2720,"Simsbury, CT",1
+193,"Sioux City, IA",5
+531,"Sioux Falls, SD",3
+1128,"Sisters, OR",2
+616,"Sitka, AK",2
+1504,"Skagway, AK",1
+2143,"Skaneateles, NY",1
+3073,"Skokie, IL",1
+1417,"Skokie, Illinois",1
+2809,"Skowhegan, ME",1
+878,"Slidell, LA",2
+533,"Smithtown, NY",3
+405,"Smyrna, GA",3
+831,"Snohomish, WA",2
+1143,"Snoqualmie, WA",1
+1976,"Socorro, NM",1
+2709,"Sofia, Bulgaria",1
+2876,"Solana Beach, CA",1
+1529,"Soldotna, AK",1
+1273,"Solona Beach, CA",1
+1344,"Solvang, CA",1
+1893,"Somers Point, NJ",1
+2510,"Somers, CT",1
+2153,"Somers, NY",1
+2038,"Somerset, KY",1
+1552,"Somerset, PA",1
+1317,"Somerville, CA",1
+1671,"Somerville, MA",1
+864,"Somerville, NJ",2
+1652,"Sonoma, CA",1
+1170,"Sonora, CA",1
+2882,"Souderton, PA",1
+2515,"Souderton, Pennsylvania",1
+626,"South Bay, CA",2
+319,"South Bend, IN",4
+1804,"South Boston, VA",1
+824,"South Brunswick, NJ",2
+2598,"South Hadley, MA",1
+1586,"South Jordan, UT",1
+3099,"South Kingstown, RI",1
+2594,"South Lake Tahoe, CA",1
+549,"South Pasadena, CA",3
+3308,"South Portland, ME",1
+1932,"South Portland, Maine",1
+1774,"South Royalton, VT",1
+3218,"South San Francisco, CA",1
+426,"South Windsor, CT",3
+1346,"Southampton, NY",1
+3273,"Southbridge, MA",1
+849,"Southbury, CT",2
+194,"Southfield, MI",5
+2300,"Southington, CT",1
+1476,"Southlake, TX",1
+705,"Southport, NC",2
+3275,"Southwick, MA",1
+2596,"Sparta, IL",1
+2974,"Sparta, NJ",1
+869,"Spartanburg, SC",2
+2090,"Spencer, IA",1
+2818,"Spencer, Iowa",1
+103,"Spokane, WA",8
+3029,"Spotsylvania County, VA",1
+3055,"Spotsylvania, VA",1
+2794,"Spring Hill, TN",1
+651,"Spring Hope, NC",2
+2142,"Spring Township, PA",1
+1778,"Spring Valley, NY",1
+1004,"Springboro, OH",2
+445,"Springfield, IL",3
+150,"Springfield, MA",6
+94,"Springfield, MO",8
+961,"Springfield, NJ",2
+402,"Springfield, OH",3
+264,"Springfield, OR",4
+1707,"Springfield, VT",1
+1627,"St. Albans, VT",1
+2844,"St. Anthony, MN",1
+166,"St. Augustine, FL",6
+1457,"St. Charles, IL",1
+338,"St. Charles, MO",4
+3295,"St. Clair Shores, MI",1
+220,"St. Cloud, MN",5
+1360,"St. Francisville, LA",1
+164,"St. George, UT",6
+3133,"St. Helena Island, SC, virtual",1
+1599,"St. Helens, OR",1
+2841,"St. John, IL",1
+887,"St. John, IN",2
+2976,"St. Johns, FL",1
+2676,"St. Johns, IL",1
+2419,"St. Johnsbury, VT",1
+2573,"St. Joseph, MI",1
+486,"St. Joseph, MO",3
+1215,"St. Louis City, MO",1
+2318,"St. Louis Park, MN",1
+26,"St. Louis, MO",15
+2493,"St. Louis, MO, MO",1
+1720,"St. Matthews, KY",1
+45,"St. Paul, MN",13
+1175,"St. Peter, MN",1
+65,"St. Petersburg, FL",10
+2373,"St. Tammany Parish, LA",1
+1347,"Stafford, NJ",1
+2925,"Stafford, VA",1
+188,"Stamford, CT",5
+3239,"Stanardsville, VA",1
+1341,"Stanford, CA",1
+132,"Stanwood, WA",7
+3022,"Starkville, MS",1
+207,"State College, PA",5
+84,"Staten Island, NY",9
+688,"Statesboro, GA",2
+488,"Statesville, NC",3
+745,"Staunton, VA",2
+862,"Steamboat Springs, CO",2
+658,"Stephenville, TX",2
+1821,"Sterling Heights, MI",1
+3299,"Sterling, CO",1
+2860,"Sterling, VA",1
+696,"Steubenville, OH",2
+535,"Stevens Point, WI",3
+2969,"Stevenson, WA",1
+1164,"Stillwater, OK",1
+119,"Stockton, CA",7
+2384,"Stone Mountain, GA",1
+951,"Stonington, CT",2
+1126,"Stoughton, MA",2
+2480,"Stoughton, MA, MA",1
+1395,"Stratford, CT",1
+2057,"Streator, IL",1
+974,"Stroudsburg, PA",2
+1052,"Stuart, FL",2
+2218,"Studio City, CA",1
+3170,"Sturbridge, MA",1
+1280,"Sturgeon Bay, WI",1
+1665,"Sturgeon Bay, Wisconsin",1
+1023,"Sudbury, MA",2
+747,"Suffolk, VA",2
+2131,"Sulphur Springs, TX",1
+1049,"Summerville, SC",2
+2080,"Summit, NJ",1
+503,"Sumter, SC",3
+1714,"Sun Prairie, WI",1
+1301,"Sunapee, NH",1
+2668,"Sunbury, PA",1
+2146,"Sunnyvale, CA",1
+2247,"Sunrise, FL",1
+2675,"Superior, WI",1
+1931,"Superior, Wisconsin",1
+1114,"Surprise, AZ",2
+2711,"Suwanee, GA",1
+1118,"Swampscott, MA",2
+2003,"Sweetwater, TN",1
+2020,"Sweetwater, Tennessee",1
+1291,"Sycamore, IL",1
+355,"Sykesville, MD",4
+1539,"Sylacauga, AL",1
+1001,"Sylva, NC",2
+3015,"Sylvania, OH",1
+2895,"Syosset, NY",1
+35,"Syracuse, NY",13
+71,"Tacoma, WA",10
+1971,"Tacoma, WA, WA",1
+1697,"Tahlequah, OK",1
+1760,"Tahlequah, Oklahoma",1
+1649,"Takoma Park, MD",1
+1371,"Talkeetna, AK",1
+1550,"Talladega, AL",1
+40,"Tallahassee, FL",13
+1267,"Tallmadge, OH",1
+41,"Tampa, FL",13
+1519,"Tampa, Fl",1
+2628,"Tampa, Fl, virtual",1
+690,"Tamuning, Guam",2
+1554,"Taos, NM",1
+3282,"Tarrytown, NY",1
+2200,"Taunton, MA",1
+1766,"Taunton, MD",1
+2935,"Taunton, Massachusetts",1
+1252,"Tavares, FL",1
+2456,"Taylor, MI",1
+2688,"Taylor, TX",1
+3121,"Taylorville, IL",1
+2303,"Taylorville, Illinois",1
+3202,"Teaneck, NJ",1
+2771,"Tecumseh, MI",1
+2684,"Tehachapi, CA",1
+2424,"Telluride, CO",1
+2321,"Telluride, CO, CO",1
+226,"Temecula, CA",5
+1461,"Tempe, AZ",1
+2763,"Temple City, CA",1
+2083,"Temple Terrace, FL",1
+1064,"Temple, TX",2
+2840,"Terra Linda, CA",1
+167,"Terre Haute, IN",6
+2439,"Tewksbury, MA",1
+422,"Texarkana, TX",3
+1335,"The Dalles, OR",1
+805,"The Woodlands, TX",2
+2041,"Thibodaux, LA",1
+3085,"Thibodaux, Louisiana",1
+3166,"Thomaston, CT",1
+1107,"Thomasville, GA",2
+1997,"Thomson, GA",1
+540,"Thousand Oaks, CA",3
+1230,"Tiffin, OH",1
+1243,"Tifton, GA",1
+2360,"Timonium, MD",1
+1162,"Tinley Park, IL",1
+1705,"Tipp City, OH",1
+1528,"Titusville, FL",1
+1684,"Tokyo, Japan",1
+320,"Toledo, OH",4
+2680,"Tolland, CT",1
+1596,"Tolono, IL",1
+2246,"Tomah, WI",1
+1794,"Tomball, TX",1
+1213,"Toms River, NJ",1
+223,"Topeka, KS",5
+1711,"Topeka, KS, KS",1
+385,"Torrance, CA",3
+548,"Torrington, CT",3
+2574,"Torrington, WY",1
+478,"Towson, MD",3
+3008,"Towson, Maryland",1
+2293,"Tracy, CA",1
+666,"Traverse City, MI",2
+391,"Trenton, NJ",3
+2064,"Tri-Cities, WA",1
+1851,"Trotwood, OH",1
+3154,"Troutdale, OR",1
+465,"Troy, AL",3
+297,"Troy, MI",4
+516,"Troy, NY",3
+1269,"Troy, OH",1
+611,"Truckee, CA",2
+2414,"Trumbull, CT",1
+2893,"Truth or Consequences, NM, NM",1
+998,"Tualatin, OR",2
+1600,"Tuckahoe, VA",1
+115,"Tucson, AZ",7
+2119,"Tukwila, WA",1
+3221,"Tulare, CA",1
+57,"Tulsa, OK",11
+1680,"Tulsa, OK, OK",1
+2315,"Tumwater, WA",1
+278,"Tupelo, MS",4
+1369,"Tupper Lake, NY",1
+1380,"Turin, Italy",1
+206,"Turlock, CA",5
+2502,"Turners Falls, MA",1
+660,"Tuscaloosa, AL",2
+496,"Tuscola, IL",3
+893,"Tuscon, AZ",2
+2865,"Tuscumbia, AL",1
+2752,"Tuskegee, AL",1
+3287,"Tustin, CA",1
+754,"Twentynine Palms, CA",2
+828,"Twin Falls, ID",2
+2620,"Tybee Island, GA",1
+507,"Tyler, TX",3
+930,"Ukiah, CA",2
+1892,"Unadilla, NY",1
+2284,"Unalakleet, AK",1
+2941,"Union, MO",1
+1441,"Uniondale, NY",1
+3298,"Uniontown, PA",1
+1886,"University Heights, CA",1
+1063,"Upland, CA",2
+1181,"Upper Arlington, OH",1
+954,"Upper Darby, PA",2
+2918,"Upper Jay, NY",1
+2407,"Upper Marlboro, MD",1
+1449,"Upper St. Clair, PA",1
+300,"Urbana, IL",4
+2084,"Utica, NY",1
+2228,"Utulei, American Samoa",1
+420,"Vacaville, CA",3
+365,"Vail, CO",3
+2612,"Valdez, AK",1
+991,"Valdosta, GA",2
+1003,"Valencia, CA",2
+92,"Vallejo, CA",8
+1511,"Vallejo, CA, CA",1
+2116,"Valley Center, KS",1
+1366,"Valley City, ND",1
+262,"Valley Stream, NY",4
+1819,"Valparaiso, IN",1
+2998,"Van Nuys, CA",1
+1887,"Van Wert, OH",1
+292,"Vancouver, WA",4
+2866,"Vandergrift, PA",1
+512,"Vashon, WA",3
+3027,"Venice Beach, CA",1
+2177,"Venice, CA",1
+566,"Ventura, CA",3
+3224,"Ventura, CA, CA",1
+3297,"Vernon Hills, IL",1
+1906,"Vernon Hills, Illinois",1
+2610,"Vernon, CT",1
+3261,"Vernon, NJ",1
+746,"Vero Beach, FL",2
+1160,"Vero Beach, Florida",1
+1469,"Vestavia Hills, AL",1
+3009,"Vicksburg, MO",1
+2807,"Vicksburg, MS",1
+2549,"Victor, ID",1
+1392,"Victor, NY",1
+525,"Victoria, TX",3
+431,"Victorville, CA",3
+2054,"Vidor, TX",1
+792,"Vienna, VA",2
+2859,"Viera, FL",1
+1823,"Vilonia, AK",1
+1958,"Vincennes, IN",1
+1108,"Vineland, NJ",2
+3016,"Vineyard Haven, MA",1
+2616,"Vineyard Haven, MA, MA",1
+3051,"Virgina Beach, VA",1
+95,"Virginia Beach, VA",8
+1124,"Virginia, MN",2
+2026,"Viroqua, WI",1
+173,"Visalia, CA",6
+2662,"Voorhees, NJ",1
+964,"Waco, TX",2
+1465,"Wadesboro, NC",1
+1738,"Wagoner, OK",1
+397,"Waikiki, HI",3
+2240,"Waitsfield, VT",1
+1393,"Walhalla, SC",1
+2566,"Walker, LA",1
+640,"Walla Walla, WA",2
+884,"Wallingford, CT",2
+2945,"Wallingford, CT, CT",1
+2267,"Wallkill, NY",1
+1980,"Walnut , CA",1
+1574,"Walnut Cove, NC",1
+1097,"Walnut Creek, CA",2
+1328,"Walnut, CA",1
+1547,"Walpole, MA",1
+1039,"Waltham, MA",2
+2505,"Walton County, FL",1
+2392,"Ware, MA",1
+480,"Warner Robins, GA",3
+979,"Warren, MI",2
+2112,"Warren, NJ",1
+2428,"Warren, OH",1
+801,"Warren, PA",2
+2517,"Warrenton, VA",1
+778,"Warsaw, IN",2
+675,"Warsaw, Poland",2
+542,"Warwick, NY",3
+1438,"Wasau, WI",1
+2126,"Waseca, MN",1
+1486,"Washburn, WI",1
+2287,"Washburn, Wisconsin",1
+3091,"Washington DC, DC",1
+2997,"Washington DC, DC, DC",1
+2427,"Washington Township, MI",1
+2184,"Washington, CT",1
+7,"Washington, DC",22
+1862,"Washington, IN",1
+1948,"Washington, MO",1
+1025,"Washington, NC",2
+435,"Washington, PA",3
+890,"Washougal, WA",2
+2496,"Waterbury, CT",1
+1117,"Waterford, CT",2
+3107,"Waterford, NY",1
+125,"Waterloo, IA",7
+2871,"Waterloo, IL",1
+1217,"Waterloo, MO",1
+2749,"Watertown, CT",1
+837,"Watertown, NY",2
+2994,"Watertown, SD",1
+854,"Waterville, ME",2
+1713,"Watsontown, PA",1
+3178,"Watsonville, CA",1
+1085,"Waukegan, IL",2
+873,"Waukesha, WI",2
+2171,"Waupaca, WI",1
+1022,"Wausau, WI",2
+466,"Wauwatosa, WI",3
+1059,"Waxahachie, TX",2
+3243,"Waxahachie, Texas",1
+1541,"Waxhaw, NC",1
+1884,"Waxhaw, North Carolina",1
+2708,"Wayland, MA",1
+2017,"Wayne, NJ",1
+1536,"Wayne, PA",1
+1316,"Waynesboro, GA",1
+1779,"Waynesboro, PA",1
+608,"Waynesboro, VA",2
+1467,"Waynesburg, PA, PA",1
+1172,"Waynesville, NC",1
+1993,"Weatherford, TX",1
+1246,"Weaverville, CA",1
+1825,"Weaverville, NC",1
+3135,"Weaverville, North Carolina",1
+2129,"Webster Groves, MO",1
+1136,"Webster, MA",2
+1409,"Wellfleet, MA",1
+1105,"Wellington, CO",2
+308,"Wellington, FL",4
+3004,"Wellington, KS",1
+2181,"Wellsville, NY",1
+584,"Wenatchee, WA",3
+1674,"Wendell, MA",1
+1800,"West Allis, WI",1
+2724,"West Bloomfield, MI",1
+2606,"West Bloomfield, MI, virtual",1
+1647,"West Brookfield, MA",1
+2501,"West Chester, OH",1
+378,"West Chester, PA",3
+767,"West Covina, CA",2
+231,"West Hartford, CT",5
+2197,"West Haven, CT",1
+3302,"West Haverstraw, NY",1
+3217,"West Hempstead, NY",1
+942,"West Hollywood, CA",2
+2268,"West Islip, NY",1
+1651,"West Jefferson, NC",1
+2578,"West Melbourne, FL",1
+2465,"West Milford, NJ",1
+2390,"West Newbury, MA",1
+1319,"West Orange, NJ",1
+130,"West Palm Beach, FL",7
+1545,"West Plains, MO",1
+3024,"West Point, NY",1
+2922,"West Roxbury, MA",1
+2846,"West St. Louis, MO",1
+3115,"West St. Paul, MN",1
+2040,"West Union, OH",1
+2689,"Westborough, MA",1
+2526,"Westchester, NY",1
+1873,"Westcliffe, CO",1
+3216,"Westerly, RI",1
+1046,"Westerville, OH",2
+1088,"Westfield, MA",2
+2815,"Westfield, Massachusetts",1
+395,"Westfield, NJ",3
+2966,"Westhampton Beach, NY",1
+1506,"Westland, MI",1
+1071,"Westminster, CA",2
+356,"Westminster, MD",4
+2852,"Westmont, NJ",1
+1357,"Westmoreland, NY",1
+2109,"Weston, CT",1
+591,"Weston, FL",3
+986,"Westport, CT",2
+1952,"Westwood, Los Angeles, CA",1
+2755,"Wethersfield, CT",1
+1691,"Wheaton, IL",1
+2346,"Wheeling, WV",1
+521,"White Plains, NY",3
+2562,"White Settlement, TX, TX",1
+1634,"Whitefish Bay, WI",1
+249,"Whitefish, MT",4
+2661,"Whitesburg, KY",1
+1470,"Whitesburg, KY, KY",1
+1225,"Whitewater, WI",1
+1806,"Whitewater, WI, WI",1
+1087,"Whitman, MA",2
+333,"Whittier, CA",4
+718,"Wichita Falls, TX",2
+100,"Wichita, KS",8
+3277,"Wildwood, MO",1
+1690,"Wildwood, NJ",1
+141,"Wilkes-Barre, PA",6
+1364,"Wilkesboros, NC",1
+726,"Williamsburg, VA",2
+712,"Williamson, WV",2
+830,"Williamsport, PA",2
+529,"Williamstown, MA",3
+1451,"Williamstown, MA, MA",1
+222,"Willingboro, NJ",5
+1953,"Willis, TX",1
+795,"Williston, ND",2
+2438,"Willits, CA",1
+657,"Willmar, MN",2
+1396,"Wilmar, MN",1
+436,"Wilmington, DE",3
+2687,"Wilmington, MA",1
+1831,"Wilmington, Massachusetts",1
+118,"Wilmington, NC",7
+771,"Wilmington, OH",2
+2814,"Wilmington, VT",1
+624,"Wilson, NC",2
+2305,"Wilton, CT",1
+811,"Wimberley, TX",2
+938,"Winchester, KY",2
+2036,"Winchester, TN",1
+554,"Winchester, VA",3
+475,"Windermere, FL",3
+2214,"Windham, CT",1
+1727,"Windsor Locks, CT",1
+759,"Windsor, CT",2
+1256,"Winfield, IL",1
+330,"Winfield, KS",4
+1340,"Winnetka, IL",1
+1370,"Winnsboro, LA",1
+3081,"Winnsboro, Louisiana",1
+1245,"Winona, MN",1
+2750,"Winslow, WA",1
+31,"Winston-Salem, NC",14
+2503,"Winthrop, WA",1
+467,"Wiscasset, ME",3
+3257,"Wisconsin Rapids, WI",1
+3286,"Woburn, MA",1
+2236,"Woburn, Massachusetts",1
+1436,"Wolcott, CT",1
+1937,"Wolfeboro, NH, NH",1
+1769,"Woodbridge, VA",1
+2458,"Woodburn, OR",1
+3172,"Woodbury, CT",1
+1221,"Woodbury, MN",1
+1440,"Woodcreek, TX",1
+1590,"Woodhaven, MI",1
+508,"Woodland, CA",3
+1150,"Woodstock, CT",1
+834,"Woodstock, GA",2
+847,"Woodstock, IL",2
+2120,"Woodstock, NY, NY",1
+3056,"Woodstock, VT",1
+1495,"Woodstock, Vermont",1
+3263,"Woodward, OK",1
+2929,"Woonsocket, RI",1
+67,"Wooster, OH",10
+236,"Worcester, MA",5
+2297,"Worthington, MN",1
+386,"Worthington, OH",3
+2060,"Wyandotte, MI",1
+1808,"Wylie, TX",1
+1507,"Wynnwood, FL",1
+2252,"Wyoming, RI, RI",1
+1793,"Wytheville, VA",1
+714,"Xenia, OH",2
+588,"Yachats, OR",3
+3222,"Yakima, WA",1
+1427,"Yankton, SD",1
+2019,"Yardley, PA",1
+1726,"Yardley, Pennsylvania",1
+3082,"Yazoo, MS",1
+1963,"Yeadon, PA",1
+909,"Yellow Springs, OH",2
+379,"Yonkers, NY",3
+2099,"Yorba Linda, CA",1
+2975,"York City, PA",1
+2937,"York, ME",1
+126,"York, PA",7
+1657,"York, SC",1
+2971,"Yorktown, NY",1
+1745,"Yorkville, IL",1
+1054,"Youngstown, OH",2
+153,"Ypsilanti, MI",6
+1687,"Yreka, CA",1
+268,"Yucaipa, CA",4
+2150,"Yucca Valley, CA",1
+620,"Yuma, AZ",2
+1875,"Zachary, LA",1
+3018,"Zagreb, Croatia",1
+768,"Zanesville, OH",2
+2044,"Zephyrhills, FL",1
